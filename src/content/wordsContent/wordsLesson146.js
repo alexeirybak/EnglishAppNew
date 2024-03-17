@@ -1,0 +1,118 @@
+export const wordsLesson146 = [
+  [
+    {
+      id: 1,
+      word: 'aunt',
+      transcription: 'ɑːnt',
+      translation: 'тетя',
+    },
+    {
+      id: 2,
+      word: 'baggage',
+      transcription: 'ˈbægɪʤ',
+      translation: 'багаж',
+    },
+    {
+      id: 3,
+      word: 'balcony',
+      transcription: 'ˈbælkəni',
+      translation: 'балкон',
+    },
+    {
+      id: 4,
+      word: 'bear',
+      transcription: 'beə',
+      translation: 'медведь',
+    },
+    {
+      id: 5,
+      word: 'chicken',
+      transcription: 'ˈʧɪkɪn',
+      translation: 'курица',
+    },
+    {
+      id: 6,
+      word: 'crocodile',
+      transcription: 'ˈkrɒkədaɪl',
+      translation: 'крокодил',
+    },
+    {
+      id: 7,
+      word: 'dining room',
+      transcription: 'ˈdaɪnɪŋ ruːm',
+      translation: 'столовая',
+    },
+    {
+      id: 8,
+      word: 'dirt',
+      transcription: 'dɜːt',
+      translation: 'грязь',
+    },
+    {
+      id: 9,
+      word: 'fridge',
+      transcription: 'frɪʤ',
+      translation: 'холодильник',
+    },
+    {
+      id: 10,
+      word: 'garage',
+      transcription: 'ˈgærɑːʒ',
+      translation: 'гараж',
+    },
+    {
+      id: 11,
+      word: 'giraffe',
+      transcription: 'ʤɪˈrɑːf',
+      translation: 'жираф',
+    },
+    {
+      id: 12,
+      word: 'grandma',
+      transcription: 'ˈgrænmɑː',
+      translation: 'бабушка',
+    },
+    {
+      id: 13,
+      word: 'lift',
+      transcription: 'lɪft',
+      translation: 'лифт',
+    },
+    {
+      id: 14,
+      word: 'luggage',
+      transcription: 'ˈlʌgɪʤ',
+      translation: 'багаж',
+    },
+    {
+      id: 15,
+      word: 'monkey',
+      transcription: 'ˈmʌŋki',
+      translation: 'обезьяна',
+    },
+    {
+      id: 16,
+      word: 'pig',
+      transcription: 'pɪg',
+      translation: 'свинья',
+    },
+    {
+      id: 17,
+      word: 'power',
+      transcription: 'ˈpaʊə',
+      translation: 'сила',
+    },
+    {
+      id: 18,
+      word: 'printer',
+      transcription: 'ˈprɪntə',
+      translation: 'принтер',
+    },
+    {
+      id: 19,
+      word: 'tiger',
+      transcription: 'ˈtaɪgə',
+      translation: 'тигр',
+    },
+  ],
+];

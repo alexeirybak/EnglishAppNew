@@ -1,0 +1,118 @@
+export const wordsLesson27 = [
+  [
+    {
+      id: 1,
+      word: 'arrive',
+      transcription: 'əˈraɪv',
+      translation: 'прибывать',
+    },
+    {
+      id: 2,
+      word: 'basketball',
+      transcription: 'ˈbɑːskɪtˌbɔːl',
+      translation: 'баскетбол',
+    },
+    {
+      id: 3,
+      word: 'convenient',
+      transcription: 'kənˈviːniənt',
+      translation: 'удобный',
+    },
+    {
+      id: 4,
+      word: 'disagree',
+      transcription: 'ˌdɪsəˈgriː',
+      translation: 'не соглашаться',
+    },
+    {
+      id: 5,
+      word: 'funny',
+      transcription: 'ˈfʌni',
+      translation: 'смешной',
+    },
+    {
+      id: 6,
+      word: 'hard',
+      transcription: 'hɑːd',
+      translation: 'усердно, тяжелый',
+    },
+    {
+      id: 7,
+      word: 'harder',
+      transcription: 'ˈhɑːdə',
+      translation: 'усерднее',
+    },
+    {
+      id: 8,
+      word: 'higher',
+      transcription: 'ˈhaɪə',
+      translation: 'выше',
+    },
+    {
+      id: 9,
+      word: 'holiday',
+      transcription: 'ˈhɒlədeɪ',
+      translation: 'отпуск',
+    },
+    {
+      id: 10,
+      word: 'join',
+      transcription: 'ʤɔɪn',
+      translation: 'присоединяться',
+    },
+    {
+      id: 11,
+      word: 'laugh',
+      transcription: 'lɑːf',
+      translation: 'смеяться',
+    },
+    {
+      id: 12,
+      word: 'match',
+      transcription: 'mæʧ',
+      translation: 'матч',
+    },
+    {
+      id: 13,
+      word: 'ocean',
+      transcription: 'ˈəʊʃən',
+      translation: 'океан',
+    },
+    {
+      id: 14,
+      word: 'rent',
+      transcription: 'rɛnt',
+      translation: 'арендовать, аренда',
+    },
+    {
+      id: 15,
+      word: 'sea',
+      transcription: 'siː',
+      translation: 'море',
+    },
+    {
+      id: 16,
+      word: 'shopping',
+      transcription: 'ˈʃɒpɪŋ',
+      translation: 'ходить по магазинам',
+    },
+    {
+      id: 17,
+      word: 'solve',
+      transcription: 'sɒlv',
+      translation: 'решать',
+    },
+    {
+      id: 18,
+      word: 'summer',
+      transcription: 'ˈsʌmə',
+      translation: 'лето',
+    },
+    {
+      id: 19,
+      word: 'volleyball',
+      transcription: 'ˈvɒlɪˌbɔːl',
+      translation: 'волейбол',
+    },
+  ],
+];

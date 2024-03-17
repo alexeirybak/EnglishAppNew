@@ -1,0 +1,106 @@
+export const wordsLesson153 = [
+  [
+    {
+      id: 1,
+      word: 'acquainted',
+      transcription: 'əˈkweɪntɪd',
+      translation: 'знаком',
+    },
+    {
+      id: 2,
+      word: 'allergic',
+      transcription: 'əˈlɜːʤɪk',
+      translation: 'аллергический',
+    },
+    {
+      id: 3,
+      word: 'annoyed',
+      transcription: 'əˈnɔɪd',
+      translation: 'раздраженный',
+    },
+    {
+      id: 4,
+      word: 'bored',
+      transcription: 'bɔːd',
+      translation: 'наскучило',
+    },
+    {
+      id: 5,
+      word: 'cotton',
+      transcription: 'ˈkɒtn',
+      translation: 'хлóпок',
+    },
+    {
+      id: 6,
+      word: 'dust',
+      transcription: 'dʌst',
+      translation: 'пыль',
+    },
+    {
+      id: 7,
+      word: 'envious',
+      transcription: 'ˈɛnvɪəs',
+      translation: 'завистливый',
+    },
+    {
+      id: 8,
+      word: 'furious',
+      transcription: 'ˈfjʊərɪəs',
+      translation: 'яростный',
+    },
+    {
+      id: 9,
+      word: 'grateful',
+      transcription: 'ˈgreɪtfʊl',
+      translation: 'благодарный',
+    },
+    {
+      id: 10,
+      word: 'hopeless',
+      transcription: 'ˈhəʊplɪs',
+      translation: 'безнадежный',
+    },
+    {
+      id: 11,
+      word: 'irritated',
+      transcription: 'ˈɪrɪteɪtɪd',
+      translation: 'раздраженный',
+    },
+    {
+      id: 12,
+      word: 'metal',
+      transcription: 'ˈmɛtl',
+      translation: 'металл, металлический',
+    },
+    {
+      id: 13,
+      word: 'nut',
+      transcription: 'nʌt',
+      translation: 'орех',
+    },
+    {
+      id: 14,
+      word: 'rudeness',
+      transcription: 'ˈruːdnɪs',
+      translation: 'грубость',
+    },
+    {
+      id: 15,
+      word: 'skating',
+      transcription: 'ˈskeɪtɪŋ',
+      translation: 'катание на коньках',
+    },
+    {
+      id: 16,
+      word: 'steel',
+      transcription: 'stiːl',
+      translation: 'сталь',
+    },
+    {
+      id: 17,
+      word: 'wool',
+      transcription: 'wʊl',
+      translation: 'шерсть',
+    },
+  ],
+];

@@ -1,0 +1,118 @@
+export const wordsLesson208 = [
+  [
+    {
+      id: 1,
+      word: 'absorbed',
+      transcription: 'əbˈsɔːbd',
+      translation: 'поглощенный',
+    },
+    {
+      id: 2,
+      word: 'abstain',
+      transcription: 'əbˈsteɪn',
+      translation: 'воздерживаться',
+    },
+    {
+      id: 3,
+      word: 'astonish',
+      transcription: 'əsˈtɒnɪʃ',
+      translation: 'удивлять, изумлять',
+    },
+    {
+      id: 4,
+      word: 'boast',
+      transcription: 'bəʊst',
+      translation: 'хвастаться',
+    },
+    {
+      id: 5,
+      word: 'compatible',
+      transcription: 'kəmˈpætəbl',
+      translation: 'совместимый',
+    },
+    {
+      id: 6,
+      word: 'content',
+      transcription: 'kɒnˈtɛnt',
+      translation: 'доволен',
+    },
+    {
+      id: 7,
+      word: 'engrossed',
+      transcription: 'ɪnˈgrəʊst',
+      translation: 'поглощен',
+    },
+    {
+      id: 8,
+      word: 'flour',
+      transcription: 'ˈflaʊə',
+      translation: 'мука',
+    },
+    {
+      id: 9,
+      word: 'inclined',
+      transcription: 'ɪnˈklaɪnd',
+      translation: 'склонен',
+    },
+    {
+      id: 10,
+      word: 'soap opera',
+      transcription: 'səʊp ˈɒpərə',
+      translation: 'мыльная опера',
+    },
+    {
+      id: 11,
+      word: 'perseverance',
+      transcription: 'ˌpɜːsɪˈvɪərəns',
+      translation: 'настойчивость',
+    },
+    {
+      id: 12,
+      word: 'punctuality',
+      transcription: 'ˌpʌŋktjʊˈælɪti',
+      translation: 'пунктуальность',
+    },
+    {
+      id: 13,
+      word: 'renew',
+      transcription: 'rɪˈnjuː',
+      translation: 'возобновлять',
+    },
+    {
+      id: 14,
+      word: 'shipping',
+      transcription: 'ˈʃɪpɪŋ',
+      translation: 'отправка',
+    },
+    {
+      id: 15,
+      word: 'subscription',
+      transcription: 'səbˈskrɪpʃən',
+      translation: 'подписка',
+    },
+    {
+      id: 16,
+      word: 'tied',
+      transcription: 'taɪd',
+      translation: 'привязан, завязанный',
+    },
+    {
+      id: 17,
+      word: 'underpay',
+      transcription: 'ˌʌndəˈpeɪ',
+      translation: 'не доплачивать',
+    },
+    {
+      id: 18,
+      word: 'upcoming',
+      transcription: 'ˌʌpˈkʌmɪŋ',
+      translation: 'наступающий, предстоящий',
+    },
+    {
+      id: 19,
+      word: 'violence',
+      transcription: 'ˈvaɪələns',
+      translation: 'насилие',
+    },
+  ],
+];

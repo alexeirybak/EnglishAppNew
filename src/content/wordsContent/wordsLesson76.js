@@ -1,0 +1,112 @@
+export const wordsLesson76 = [
+  [
+    {
+      id: 1,
+      word: 'accept',
+      transcription: 'əkˈsɛpt',
+      translation: 'принимать',
+    },
+    {
+      id: 2,
+      word: 'alarm clock',
+      transcription: 'əˈlɑːm klɒk',
+      translation: 'будильник',
+    },
+    {
+      id: 3,
+      word: 'certainly',
+      transcription: 'ˈsɜːtnli',
+      translation: 'конечно',
+    },
+    {
+      id: 4,
+      word: 'club',
+      transcription: 'klʌb',
+      translation: 'клуб',
+    },
+    {
+      id: 5,
+      word: 'divide',
+      transcription: 'dɪˈvaɪd',
+      translation: 'делить',
+    },
+    {
+      id: 6,
+      word: 'entrepreneur',
+      transcription: 'ˌɒntrəprəˈnɜː',
+      translation: 'предприниматель',
+    },
+    {
+      id: 7,
+      word: 'harmful',
+      transcription: 'ˈhɑːmfʊl',
+      translation: 'вредный',
+    },
+    {
+      id: 8,
+      word: 'importance',
+      transcription: 'ɪmˈpɔːtəns',
+      translation: 'важность',
+    },
+    {
+      id: 9,
+      word: 'into',
+      transcription: 'ˈɪntuː',
+      translation: 'в',
+    },
+    {
+      id: 10,
+      word: 'the latest',
+      transcription: 'ðə ˈleɪtɪst',
+      translation: 'последний',
+    },
+    {
+      id: 11,
+      word: 'loser',
+      transcription: 'ˈluːzə',
+      translation: 'неудачник',
+    },
+    {
+      id: 12,
+      word: 'memory',
+      transcription: 'ˈmɛməri',
+      translation: 'память',
+    },
+    {
+      id: 13,
+      word: 'pain',
+      transcription: 'peɪn',
+      translation: 'боль',
+    },
+    {
+      id: 14,
+      word: 'part',
+      transcription: 'pɑːt',
+      translation: 'часть',
+    },
+    {
+      id: 15,
+      word: 'polite',
+      transcription: 'pəˈlaɪt',
+      translation: 'вежливый',
+    },
+    {
+      id: 16,
+      word: 'promising',
+      transcription: 'ˈprɒmɪsɪŋ',
+      translation: 'многообещающий',
+    },
+    {
+      id: 17,
+      word: 'talent',
+      transcription: 'ˈtælənt',
+      translation: 'талант',
+    },
+    {
+      id: 18,
+      word: 'usual',
+      transcription: 'ˈjuːʒʊəl',
+      translation: 'обычный',
+    },
+  ],
+];

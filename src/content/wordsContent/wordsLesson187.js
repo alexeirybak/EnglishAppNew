@@ -1,0 +1,118 @@
+export const wordsLesson187 = [
+  [
+    {
+      id: 1,
+      word: 'belief',
+      transcription: 'bɪˈliːf',
+      translation: 'вера, убеждение',
+    },
+    {
+      id: 2,
+      word: 'border',
+      transcription: 'ˈbɔːdə',
+      translation: 'граница',
+    },
+    {
+      id: 3,
+      word: 'buyer',
+      transcription: 'ˈbaɪə',
+      translation: 'покупатель',
+    },
+    {
+      id: 4,
+      word: 'classic',
+      transcription: 'ˈklæsɪk',
+      translation: 'классический',
+    },
+    {
+      id: 5,
+      word: 'contradict',
+      transcription: 'ˌkɒntrəˈdɪkt',
+      translation: 'противоречить',
+    },
+    {
+      id: 6,
+      word: 'current',
+      transcription: 'ˈkʌrənt',
+      translation: 'текущий',
+    },
+    {
+      id: 7,
+      word: 'extraordinary',
+      transcription: 'ɪksˈtrɔːdnri',
+      translation: 'необычный',
+    },
+    {
+      id: 8,
+      word: 'gifted',
+      transcription: 'ˈgɪftɪd',
+      translation: 'одаренный',
+    },
+    {
+      id: 9,
+      word: 'electrical',
+      transcription: 'ɪˈlɛktrɪkəl',
+      translation: 'электрический',
+    },
+    {
+      id: 10,
+      word: 'heater',
+      transcription: 'ˈhiːtə',
+      translation: 'нагреватель',
+    },
+    {
+      id: 11,
+      word: 'highlighter',
+      transcription: 'ˈhaɪˌlaɪtə',
+      translation: 'маркер',
+    },
+    {
+      id: 12,
+      word: 'improvement',
+      transcription: 'ɪmˈpruːvmənt',
+      translation: 'улучшение',
+    },
+    {
+      id: 13,
+      word: 'moral',
+      transcription: 'ˈmɒrəl',
+      translation: 'моральный',
+    },
+    {
+      id: 14,
+      word: 'neglect',
+      transcription: 'nɪˈglɛkt',
+      translation: 'пренебрегать',
+    },
+    {
+      id: 15,
+      word: 'slight',
+      transcription: 'slaɪt',
+      translation: 'незначительный',
+    },
+    {
+      id: 16,
+      word: 'spiritual',
+      transcription: 'ˈspɪrɪtjʊəl',
+      translation: 'духовный',
+    },
+    {
+      id: 17,
+      word: 'thankful',
+      transcription: 'ˈθæŋkfʊl',
+      translation: 'благодарный',
+    },
+    {
+      id: 18,
+      word: 'unpopular',
+      transcription: 'ʌnˈpɒpjʊlə',
+      translation: 'непопулярный',
+    },
+    {
+      id: 19,
+      word: 'unwilling',
+      transcription: 'ʌnˈwɪlɪŋ',
+      translation: 'не желающий',
+    },
+  ],
+];

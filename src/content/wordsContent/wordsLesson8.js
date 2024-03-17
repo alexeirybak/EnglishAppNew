@@ -1,0 +1,112 @@
+export const wordsLesson8 = [
+  [
+    {
+      id: 1,
+      word: 'address',
+      transcription: 'əˈdrɛs',
+      translation: 'адрес',
+    },
+    {
+      id: 2,
+      word: 'again',
+      transcription: 'əˈgɛn',
+      translation: 'опять',
+    },
+    {
+      id: 3,
+      word: 'another',
+      transcription: 'əˈnʌðə',
+      translation: 'другой',
+    },
+    {
+      id: 4,
+      word: 'bad',
+      transcription: 'bæd',
+      translation: 'плохой',
+    },
+    {
+      id: 5,
+      word: 'because',
+      transcription: 'bɪˈkɒz',
+      translation: 'потому что',
+    },
+    {
+      id: 6,
+      word: 'communicate',
+      transcription: 'kəˈmjuːnɪkeɪt',
+      translation: 'общаться',
+    },
+    {
+      id: 7,
+      word: 'fast',
+      transcription: 'fɑːst',
+      translation: 'быстро, быстрый',
+    },
+    {
+      id: 8,
+      word: 'get',
+      transcription: 'gɛt',
+      translation: 'получать',
+    },
+    {
+      id: 9,
+      word: 'good',
+      transcription: 'gʊd',
+      translation: 'хороший',
+    },
+    {
+      id: 10,
+      word: 'name',
+      transcription: 'neɪm',
+      translation: 'имя',
+    },
+    {
+      id: 11,
+      word: 'need',
+      transcription: 'niːd',
+      translation: 'нуждаться',
+    },
+    {
+      id: 12,
+      word: 'other',
+      transcription: 'ˈʌðə',
+      translation: 'другие',
+    },
+    {
+      id: 13,
+      word: 'prefer',
+      transcription: 'priˈfɜː',
+      translation: 'предпочитать',
+    },
+    {
+      id: 14,
+      word: 'professionally',
+      transcription: 'prəˈfɛʃnəli',
+      translation: 'профессионально',
+    },
+    {
+      id: 15,
+      word: 'remember',
+      transcription: 'rɪˈmɛmbə',
+      translation: 'помнить',
+    },
+    {
+      id: 16,
+      word: 'slowly',
+      transcription: 'ˈsləʊli',
+      translation: 'медленно',
+    },
+    {
+      id: 17,
+      word: 'website',
+      transcription: 'ˈwɛbˌsaɪt',
+      translation: 'сайт',
+    },
+    {
+      id: 18,
+      word: 'who',
+      transcription: 'huː',
+      translation: 'кто, кого',
+    },
+  ],
+];

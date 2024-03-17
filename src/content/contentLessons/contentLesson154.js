@@ -1,0 +1,643 @@
+export const contentLesson154 = [
+  [
+    {
+      title: 'Урок 154. Dependent prepositions (verbs)',
+    },
+    [
+      {
+        id: 1,
+        expression: 'Это будет зависеть от него',
+        transcription: 'ˈɪtl dɪˈpɛnd ɒn hɪm',
+        translation: "It'll depend on him",
+      },
+      {
+        id: 2,
+        expression: 'Она ответила на твое письмо?',
+        transcription:
+          'dɪd ʃiː rɪˈplaɪ tuː jɔː ˈlɛtə? / dɪd ʃiː ˈɑːnsə jɔː ˈlɛtə?',
+        translation:
+          'Did she reply to your letter? / Did she answer your letter?',
+      },
+      {
+        id: 3,
+        expression: 'Ты мог бы мне объяснить эту вещь?',
+        transcription: 'kʊd juː ɪksˈpleɪn ðɪs θɪŋ tuː miː?',
+        translation: 'Could you explain this thing to me?',
+      },
+      {
+        id: 4,
+        expression: 'Я участвовал в этом чемпионате',
+        transcription:
+          'aɪ pɑːˈtɪsɪpeɪtɪd ɪn ðɪs ˈʧæmpiənʃɪp / aɪ tʊk pleɪs ɪn ðɪs ˈʧæmpiənʃɪp',
+        translation:
+          'I participated in this championship / I took place in this championship',
+      },
+      {
+        id: 5,
+        expression: 'Как ты на это ответил?',
+        transcription: 'haʊ dɪd juː ˈɑːnsər ɪt?',
+        translation: 'How did you answer it?',
+      },
+      {
+        id: 6,
+        expression: 'Он уехал в другую страну',
+        transcription: 'hiː lɛft fɔːr əˈnʌðə ˈkʌntri',
+        translation: 'He left for another country',
+      },
+      {
+        id: 7,
+        expression: 'Как ты ответил на такой сложный вопрос?',
+        transcription: 'haʊ dɪd juː ˈɑːnsə sʌʧ ə ˈdɪfɪkəlt ˈkwɛsʧən?',
+        translation: 'How did you answer such a difficult question?',
+      },
+      {
+        id: 8,
+        expression: 'Он прибыл на конференцию час спустя',
+        transcription: 'hiː əˈraɪvd æt ðə ˈkɒnfərəns ən ˈaʊə ˈleɪtə',
+        translation: 'He arrived at the conference an hour later',
+      },
+      {
+        id: 9,
+        expression: 'Это сильно повлияло на меня',
+        transcription: 'ɪt ˈɪnflʊənst miː ə lɒt',
+        translation: 'It influenced me a lot',
+      },
+      {
+        id: 10,
+        expression: 'Эти события повлияли на мое решение',
+        transcription: 'ðiːz ɪˈvɛnts ˈɪnflʊənst maɪ dɪˈsɪʒən',
+        translation: 'These events influenced my decision',
+      },
+      {
+        id: 11,
+        expression: 'На прошлой неделе он уехал в Англию',
+        transcription: 'hiː lɛft fɔːr ˈɪŋglənd lɑːst wiːk',
+        translation: 'He left for England last week',
+      },
+      {
+        id: 12,
+        expression: 'Это очень сильно повлияло на мою жизнь',
+        transcription: 'ɪt ˈɪnflʊənst maɪ laɪf ˈgreɪtli',
+        translation: 'It influenced my life greatly',
+      },
+      {
+        id: 13,
+        expression: 'Она покинула это место',
+        transcription: 'ʃiː lɛft ðɪs pleɪs',
+        translation: 'She left this place',
+      },
+      {
+        id: 14,
+        expression: 'Как ты ответил на этот вопрос?',
+        transcription: 'haʊ dɪd juː ˈɑːnsə ðɪs ˈkwɛsʧən?',
+        translation: 'How did you answer this question?',
+      },
+      {
+        id: 15,
+        expression: 'Я могу объяснить тебе эту вещь',
+        transcription: 'aɪ kæn ɪksˈpleɪn ðɪs θɪŋ tuː juː',
+        translation: 'I can explain this thing to you',
+      },
+      {
+        id: 16,
+        expression: 'Он уделяет этому слишком много времени',
+        transcription: 'hiː dɪˈvəʊts tuː mʌʧ taɪm tuː ɪt',
+        translation: 'He devotes too much time to it',
+      },
+      {
+        id: 17,
+        expression: 'Мне нужно подготовиться к этому тесту',
+        transcription: 'aɪ niːd tuː prɪˈpeə fɔː ðɪs tɛst',
+        translation: 'I need to prepare for this test',
+      },
+      {
+        id: 18,
+        expression: 'Я подписан на эти каналы',
+        transcription: 'aɪm səbˈskraɪbd tuː ðiːz ˈʧænlz',
+        translation: "I'm subscribed to these channels",
+      },
+      {
+        id: 19,
+        expression: 'Он хочет подать заявку на эту работу',
+        transcription: 'hiː wɒnts tuː əˈplaɪ fɔː ðɪs ʤɒb',
+        translation: 'He wants to apply for this job',
+      },
+      {
+        id: 20,
+        expression: 'Ты можешь положиться на меня',
+        transcription: 'juː kæn rɪˈlaɪ ɒn miː / juː kæn kaʊnt ɒn miː',
+        translation: 'You can rely on me / You can count on me',
+      },
+      {
+        id: 21,
+        expression: 'Почему ты смеешься над этим?',
+        transcription: 'waɪ ɑː juː ˈlɑːfɪŋ æt ɪt?',
+        translation: 'Why are you laughing at it?',
+      },
+      {
+        id: 22,
+        expression: 'Кто указал на твои ошибки?',
+        transcription: 'huː ˈpɔɪntɪd aʊt jɔː mɪsˈteɪks?',
+        translation: 'Who pointed out your mistakes?',
+      },
+      {
+        id: 23,
+        expression: 'Они обвиняют его в убийстве',
+        transcription: 'ðeɪ əˈkjuːz hɪm ɒv ˈmɜːdə',
+        translation: 'They accuse him of murder',
+      },
+      {
+        id: 24,
+        expression: 'Что он ищет?',
+        transcription: 'wɒt ɪz hiː ˈlʊkɪŋ fɔː?',
+        translation: 'What is he looking for?',
+      },
+      {
+        id: 25,
+        expression: 'Он попросил ее о помощи',
+        transcription: 'hiː ɑːskt hɜː fɔː hɛlp',
+        translation: 'He asked her for help',
+      },
+      {
+        id: 26,
+        expression: 'Он слишком много времени уделяет этому хобби',
+        transcription: 'hiː dɪˈvəʊts tuː mʌʧ taɪm tuː ðɪs ˈhɒbi',
+        translation: 'He devotes too much time to this hobby',
+      },
+      {
+        id: 27,
+        expression: 'Я хочу поговорить с тобой',
+        transcription: 'aɪ wɒnt tuː tɔːk tuː juː',
+        translation: 'I want to talk to you',
+      },
+      {
+        id: 28,
+        expression: 'Она ответила на твое письмо?',
+        transcription: 'dɪd ʃiː rɪˈplaɪ tuː jɔː ˈlɛtə?',
+        translation: 'Did she reply to your letter?',
+      },
+      {
+        id: 29,
+        expression: 'Что ты ищешь?',
+        transcription: 'wɒt ɑː juː ˈlʊkɪŋ (ˈsɜːʧɪŋ) fɔː?',
+        translation: 'What are you looking (searching) for?',
+      },
+      {
+        id: 30,
+        expression: 'Она подала заявление на визу',
+        transcription: 'ʃiː əˈplaɪd fɔːr ə ˈviːzə',
+        translation: 'She applied for a visa',
+      },
+      {
+        id: 31,
+        expression: 'Он хотел бы поговорить с тобой',
+        transcription: 'hiːd laɪk tuː tɔːk tuː juː',
+        translation: "He'd like to talk to you",
+      },
+      {
+        id: 32,
+        expression: 'Когда он окончил университет?',
+        transcription: 'wɛn dɪd hiː ˈgrædjʊət frɒm ˌjuːnɪˈvɜːsɪti',
+        translation: 'When did he graduate from university?',
+      },
+      {
+        id: 33,
+        expression: 'Он участвовал в этом турнире',
+        transcription: 'hiː pɑːˈtɪsɪpeɪtɪd ɪn ðɪs ˈtʊənəmənt',
+        translation: 'He participated in this tournament',
+      },
+      {
+        id: 34,
+        expression: 'Он еще не заплатил за это',
+        transcription: 'hiː ˈhæznt peɪd fɔːr ɪt jɛt',
+        translation: "He hasn't paid for it yet",
+      },
+      {
+        id: 35,
+        expression: 'Как она отреагировала на твои слова',
+        transcription: 'haʊ dɪd ʃiː ri(ː)ˈækt tuː jɔː wɜːdz?',
+        translation: 'How did she react to your words?',
+      },
+      {
+        id: 36,
+        expression: 'Он прибыл в конце вечеринки',
+        transcription: 'hiː əˈraɪvd æt ði ɛnd ɒv ðə ˈpɑːti',
+        translation: 'He arrived at the end of the party',
+      },
+      {
+        id: 37,
+        expression: 'Он внезапно улыбнулся ей',
+        transcription: 'hiː smaɪld æt hɜː ˈsʌdnli',
+        translation: 'He smiled at her suddenly',
+      },
+      {
+        id: 38,
+        expression: 'Я работаю над новым проектом',
+        transcription: 'aɪm ˈwɜːkɪŋ ɒn ə njuː ˈprɒʤɛkt',
+        translation: "I'm working on a new project",
+      },
+      {
+        id: 39,
+        expression: 'Он страдает от этой болезни',
+        transcription: 'hiː ˈsʌfəz frɒm ðɪs ˈɪlnɪs (dɪˈziːz)',
+        translation: 'He suffers from this illness (disease)',
+      },
+      {
+        id: 40,
+        expression: 'Она никогда не жалуется на это',
+        transcription: 'ʃiː ˈnɛvə kəmˈpleɪnz əˈbaʊt ɪt',
+        translation: 'She never complains about it',
+      },
+      {
+        id: 41,
+        expression: 'Как он на это отреагировал?',
+        transcription: 'haʊ dɪd hiː ri(ː)ˈækt tuː ɪt?',
+        translation: 'How did he react to it?',
+      },
+      {
+        id: 42,
+        expression: 'Он всегда заботится о ней',
+        transcription: 'hiː ˈɔːlweɪz keəz əˈbaʊt hɜː',
+        translation: 'He always cares about her',
+      },
+      {
+        id: 43,
+        expression: 'Его обвинили в совершении преступления',
+        transcription: 'hiː wɒz əˈkjuːzd ɒv kəˈmɪtɪŋ ə kraɪm',
+        translation: 'He was accused of commiting a crime',
+      },
+      {
+        id: 44,
+        expression: 'Хочу поздравить тебя со сдачей такого сложного экзамена',
+        transcription:
+          'aɪ wɒnt tuː kənˈgrætjʊleɪt juː ɒn ˈpɑːsɪŋ ɒv sʌʧ ə ˈdɪfɪkəlt ɪgˈzæm',
+        translation:
+          'I want to congratulate you on passing of such a difficult exam',
+      },
+      {
+        id: 45,
+        expression: 'Он живет, надеясь на лучшее, но ожидая худшего',
+        transcription: 'hiː lɪvz ˈhəʊpɪŋ fɔː ðə bɛst bʌt ˈweɪtɪŋ fɔː ðə wɜːst',
+        translation: 'He lives hoping for the best but waiting for the worst',
+      },
+      {
+        id: 46,
+        expression: 'О чем говорят те женщины?',
+        transcription: 'wɒt ɑː ðəʊz ˈwɪmɪn ˈtɔːkɪŋ əˈbaʊt?',
+        translation: 'What are those women talking about?',
+      },
+      {
+        id: 47,
+        expression: 'Им не удалось сбежать от полиции',
+        transcription: 'ðeɪ dɪdnt ˈmænɪʤ tuː ɪsˈkeɪp frɒm ðə pəˈliːs',
+        translation: "They didn't manage to escape from the police",
+      },
+      {
+        id: 48,
+        expression:
+          'Я твердо верю, что усердная работа может привести нас к успеху',
+        transcription:
+          'aɪ ˈfɜːmli bɪˈliːv ðæt hɑːd wɜːk kæn liːd ʌs tuː səkˈsɛs',
+        translation: 'I firmly believe that hard work can lead us to success',
+      },
+      {
+        id: 49,
+        expression: 'Его обвинили в краже этих денег',
+        transcription: 'hiː wɒz əˈkjuːzd ɒv ˈstiːlɪŋ ðɪs ˈmʌni',
+        translation: 'He was accused of stealing this money',
+      },
+      {
+        id: 50,
+        expression:
+          'Я хотел бы поздравить тебя со сдачей такого сложного теста',
+        transcription:
+          'aɪd laɪk tuː kənˈgrætjʊleɪt juː ɒn ˈpɑːsɪŋ sʌʧ ə ˈdɪfɪkəlt tɛst',
+        translation:
+          "I'd like to congratulate you on passing such a difficult test",
+      },
+      {
+        id: 51,
+        expression:
+          'Я хочу сказать, что ты всегда можешь рассчитывать на мою помощь',
+        transcription: 'aɪ wɒnt tuː seɪ ðæt juː kæn ˈɔːlweɪz kaʊnt ɒn maɪ hɛlp',
+        translation: 'I want to say that you can always count on my help',
+      },
+      {
+        id: 52,
+        expression: 'О чем вы говорили, когда он тебе позвонил?',
+        transcription: 'wɒt wɜː juː ˈtɔːkɪŋ əˈbaʊt wɛn hiː kɔːld juː?',
+        translation: 'What were you talking about when he called you?',
+      },
+      {
+        id: 53,
+        expression: 'Мы хотели бы поздравить тебя с днем рождения',
+        transcription: 'wiːd laɪk tuː kənˈgrætjʊleɪt juː ɒn jɔː ˈbɜːθdeɪ',
+        translation: "We'd like to congratulate you on your birthday",
+      },
+      {
+        id: 54,
+        expression: 'Почему он покинул город?',
+        transcription: 'waɪ dɪd hiː liːv ðə ˈsɪti?',
+        translation: 'Why did he leave the city?',
+      },
+      {
+        id: 55,
+        expression: 'Он винит во всем ее',
+        transcription: 'hiː bleɪmz ˈɛvrɪθɪŋ ɒn hɜː',
+        translation: 'He blames everything on her',
+      },
+      {
+        id: 56,
+        expression: 'Ты всегда можешь рассчитывать на нашу поддержку',
+        transcription: 'juː kæn ˈɔːlweɪz kaʊnt ɒn ˈaʊə səˈpɔːt',
+        translation: 'You can always count on our support',
+      },
+      {
+        id: 57,
+        expression: 'Их обвинили в преступлении',
+        transcription: 'ðeɪ wɜːr əˈkjuːzd ɒv ə kraɪm',
+        translation: 'They were accused of a crime',
+      },
+      {
+        id: 58,
+        expression: 'Они часто спорят о неважных вещах',
+        transcription: 'ðeɪ ˈɒf(ə)n ˈɑːgjuː əˈbaʊt ˌʌnɪmˈpɒtənt θɪŋz',
+        translation: 'They often argue about unimportant things',
+      },
+      {
+        id: 59,
+        expression: 'Они всегда спорят только о важных вещах',
+        transcription: 'ðeɪ ˈɔːlweɪz ˈɑːgjuː əˈbaʊt ˈəʊnli ɪmˈpɔːtənt θɪŋz',
+        translation: 'They always argue about only important things',
+      },
+      {
+        id: 60,
+        expression: 'Они иногда спорят об этих вещах',
+        transcription: 'ðeɪ ˈsʌmtaɪmz ˈɑːgjuː əˈbaʊt ðiːz θɪŋz',
+        translation: 'They sometimes argue about these things',
+      },
+      {
+        id: 61,
+        expression: 'Почему ты не слушаешь его?',
+        transcription: 'waɪ dəʊnt juː ˈlɪsn tuː hɪm?',
+        translation: "Why don't you listen to him?",
+      },
+      {
+        id: 62,
+        expression: 'Я не слушаю ее',
+        transcription: 'aɪ dəʊnt ˈlɪsn tuː hɜː',
+        translation: "I don't listen to her",
+      },
+      {
+        id: 63,
+        expression: 'Почему ты не слушаешь меня?',
+        transcription: 'waɪ ɑːnt juː ˈlɪsnɪŋ tuː miː?',
+        translation: "Why aren't you listening to me?",
+      },
+      {
+        id: 64,
+        expression: 'О чем ты думаешь сейчас?',
+        transcription: 'wɒt ɑː juː ˈθɪŋkɪŋ əˈbaʊt naʊ?',
+        translation: 'What are you thinking about now?',
+      },
+      {
+        id: 65,
+        expression: 'Я думаю об этом прямо сейчас',
+        transcription: 'aɪm ˈθɪŋkɪŋ əˈbaʊt ɪt raɪt naʊ',
+        translation: "I'm thinking about it right now",
+      },
+      {
+        id: 66,
+        expression: 'Я никогда не думал об этом',
+        transcription: 'aɪv ˈnɛvə θɔːt əˈbaʊt ɪt',
+        translation: "I've never thought about it",
+      },
+      {
+        id: 67,
+        expression: 'Он решил подать заявку на эту работу',
+        transcription: 'hiː dɪˈsaɪdɪd tuː əˈplaɪ fɔː ðɪs ʤɒb',
+        translation: 'He decided to apply for this job',
+      },
+      {
+        id: 68,
+        expression: 'Он подал заявку на визу',
+        transcription: 'hiː əˈplaɪd fɔːr ə ˈviːzə',
+        translation: 'He applied for a visa',
+      },
+      {
+        id: 69,
+        expression: 'Он подал заявку на ту работу?',
+        transcription: 'dɪd hiː əˈplaɪ fɔː ðæt ʤɒb?',
+        translation: 'Did he apply for that job?',
+      },
+      {
+        id: 70,
+        expression: 'Она покинула эту страну по многим причинам',
+        transcription: 'ʃiː lɛft ðɪs ˈkʌntri fɔː ˈmɛni ˈriːznz',
+        translation: 'She left this country for many reasons',
+      },
+      {
+        id: 71,
+        expression: 'Она оставила эту работу без причины',
+        transcription: 'ʃiː lɛft ðɪs ʤɒb fɔː nəʊ ˈriːzn',
+        translation: 'She left this job for no reason',
+      },
+      {
+        id: 72,
+        expression: 'Она уехала в эту страну по многим причинам',
+        transcription: 'ʃiː lɛft fɔː ðɪs ˈkʌntri fɔː ˈmɛni ˈriːznz',
+        translation: 'She left for this country for many reasons',
+      },
+      {
+        id: 73,
+        expression: 'Мне пришлось адаптироваться к тем условиям',
+        transcription: 'aɪ hæd tuː əˈdæpt tuː ðəʊz kənˈdɪʃənz',
+        translation: 'I had to adapt to those conditions',
+      },
+      {
+        id: 74,
+        expression: 'Я уже адаптировался к этим условиям',
+        transcription: 'aɪv ɔːlˈrɛdi əˈdæptɪd tuː ðiːz kənˈdɪʃənz',
+        translation: "I've already adapted to these conditions",
+      },
+      {
+        id: 75,
+        expression:
+          'Мне нужно некоторое время, чтобы адаптироваться к этим условиям',
+        transcription: 'aɪ niːd sʌm taɪm tuː əˈdæpt tuː ðiːz kənˈdɪʃənz',
+        translation: 'I need some time to adapt to these conditions',
+      },
+      {
+        id: 76,
+        expression: 'О чем говорят эти мужчины?',
+        transcription: 'wɒt ɑː ðiːz mɛn ˈtɔːkɪŋ əˈbaʊt?',
+        translation: 'What are these men talking about?',
+      },
+      {
+        id: 77,
+        expression: 'С кем разговаривает этот мужчина?',
+        transcription: 'huː ɪz ðɪs mæn ˈtɔːkɪŋ tuː?',
+        translation: 'Who is this man talking to?',
+      },
+      {
+        id: 78,
+        expression: 'Эти люди говорят о погоде',
+        transcription: 'ðiːz ˈpiːpl ɑː ˈtɔːkɪŋ əˈbaʊt ðə ˈwɛðə',
+        translation: 'These people are talking about the weather',
+      },
+      {
+        id: 79,
+        expression: 'Какого рода музыку ты слушаешь?',
+        transcription: 'wɒt kaɪnd ɒv ˈmjuːzɪk duː juː ˈlɪsn tuː?',
+        translation: 'What kind of music do you listen to?',
+      },
+      {
+        id: 80,
+        expression: 'Я предпочитаю слушать поп-музыку',
+        transcription: 'aɪ priˈfɜː tuː ˈlɪsn tuː pɒp ˈmjuːzɪk',
+        translation: 'I prefer to listen to pop music',
+      },
+      {
+        id: 81,
+        expression: 'Ты слушаешь такого рода музыку?',
+        transcription: 'duː juː ˈlɪsn tuː ðɪs kaɪnd ɒv ˈmjuːzɪk?',
+        translation: 'Do you listen to this kind of music?',
+      },
+      {
+        id: 82,
+        expression: 'Он обвиняет его во всем',
+        transcription: 'hiː bleɪmz hɪm fɔːr ˈɛvrɪθɪŋ',
+        translation: 'He blames him for everything',
+      },
+      {
+        id: 83,
+        expression: 'Она винит во всем его',
+        transcription: 'ʃiː bleɪmz ˈɛvrɪθɪŋ ɒn hɪm',
+        translation: 'She blames everything on him',
+      },
+      {
+        id: 84,
+        expression: 'Не вини его за все!',
+        transcription: 'dəʊnt bleɪm hɪm fɔːr ˈɛvrɪθɪŋ!',
+        translation: "Don't blame him for everything!",
+      },
+      {
+        id: 85,
+        expression: 'О чем они спорят?',
+        transcription: 'wɒt ɑː ðeɪ ˈɑːgjuːɪŋ əˈbaʊt?',
+        translation: 'What are they arguing about?',
+      },
+      {
+        id: 86,
+        expression: 'Они спорят об этой проблеме',
+        transcription: 'ðeər ˈɑːgjuːɪŋ əˈbaʊt ðɪs ˈprɒbləm',
+        translation: "They're arguing about this problem",
+      },
+      {
+        id: 87,
+        expression: 'Они все еще спорят об этом?',
+        transcription: 'ɑː ðeɪ stɪl ˈɑːgjuːɪŋ əˈbaʊt ɪt?',
+        translation: 'Are they still arguing about it?',
+      },
+      {
+        id: 88,
+        expression: 'Я хочу сказать, что я не одобряю эту идею',
+        transcription: 'aɪ wɒnt tuː seɪ ðæt aɪ dəʊnt əˈpruːv ɒv ðɪs aɪˈdɪə',
+        translation: "I want to say that I don't approve of this idea",
+      },
+      {
+        id: 89,
+        expression: 'Какого рода музыку ты предпочитаешь слушать?',
+        transcription: 'wɒt kaɪnd ɒv ˈmjuːzɪk duː juː priˈfɜː tuː ˈlɪsn tuː?',
+        translation: 'What kind of music do you prefer to listen to?',
+      },
+      {
+        id: 90,
+        expression: 'Кому принадлежит эта вещь?',
+        transcription: 'huː dʌz ðɪs θɪŋ bɪˈlɒŋ tuː?',
+        translation: 'Who does this thing belong to?',
+      },
+      {
+        id: 91,
+        expression: 'Почему ты покинул страну?',
+        transcription: 'waɪ dɪd juː liːv ðə ˈkʌntri?',
+        translation: 'Why did you leave the country?',
+      },
+      {
+        id: 92,
+        expression: 'Это может случиться с каждым',
+        transcription: 'ɪt kæn ˈhæpən tuː ˈɛnɪwʌn',
+        translation: 'It can happen to anyone',
+      },
+      {
+        id: 93,
+        expression: 'Не вини в этом его!',
+        transcription: 'dəʊnt bleɪm ɪt ɒn hɪm! / dəʊnt bleɪm hɪm fɔːr ɪt!',
+        translation: "Don't blame it on him! / Don't blame him for it!",
+      },
+      {
+        id: 94,
+        expression: 'Чего он ждет?',
+        transcription: 'wɒt ɪz hiː ˈweɪtɪŋ fɔː?',
+        translation: 'What is he waiting for?',
+      },
+      {
+        id: 95,
+        expression: 'Ему удалось получить эту работу',
+        transcription:
+          'hiː səkˈsiːdɪd ɪn ˈgɛtɪŋ ðɪs ʤɒb / hiː ˈmænɪʤd tuː gɛt ðɪs ʤɒb',
+        translation:
+          'He succeeded in getting this job / He managed to get this job',
+      },
+      {
+        id: 96,
+        expression: 'От чего это зависит?',
+        transcription: 'wɒt dʌz ɪt dɪˈpɛnd ɒn?',
+        translation: 'What does it depend on?',
+      },
+      {
+        id: 97,
+        expression: 'Я уже подписался на этот канал',
+        transcription: 'aɪv ɔːlˈrɛdi səbˈskraɪbd tuː ðɪs ˈʧænl',
+        translation: "I've already subscribed to this channel",
+      },
+      {
+        id: 98,
+        expression: 'Это уже случилось?',
+        transcription: 'hæz ɪt ɔːlˈrɛdi ˈhæpənd?',
+        translation: 'Has it already happened?',
+      },
+      {
+        id: 99,
+        expression: 'Не вините его за это!',
+        transcription: 'dəʊnt bleɪm hɪm fɔːr ɪt! / dɒn bleɪm ɪt ɒn hɪm!',
+        translation: "Don't blame him for it! / Don blame it on him!",
+      },
+      {
+        id: 100,
+        expression: 'Он был приглашен на эту вечеринку',
+        transcription: 'hiː wɒz ɪnˈvaɪtɪd tuː ðɪs ˈpɑːti',
+        translation: 'He was invited to this party',
+      },
+      {
+        id: 101,
+        expression: 'Кому это принадлежит?',
+        transcription: 'huː dʌz ɪt bɪˈlɒŋ tuː?',
+        translation: 'Who does it belong to?',
+      },
+      {
+        id: 102,
+        expression: 'От чего это будет зависеть?',
+        transcription: 'wɒt wɪl ɪt dɪˈpɛnd ɒn?',
+        translation: 'What will it depend on?',
+      },
+    ],
+    {
+      theory: `<div class="theory-block">
+<h3>depend on</h3>
+<p>В вопросах зависимый предлог ставится в конце и не пропадает:</p>
+<p>What did it depend on? - От чего это зависело?</p>
+</div>`,
+    },
+  ],
+];

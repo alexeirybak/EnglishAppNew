@@ -1,0 +1,100 @@
+export const wordsLesson215 = [
+  [
+    {
+      id: 1,
+      word: 'abundance',
+      transcription: 'əˈbʌndəns',
+      translation: 'изобилие',
+    },
+    {
+      id: 2,
+      word: 'associated',
+      transcription: 'əˈsəʊʃɪeɪtɪd',
+      translation: 'связанный',
+    },
+    {
+      id: 3,
+      word: 'brand',
+      transcription: 'brænd',
+      translation: 'бренд',
+    },
+    {
+      id: 4,
+      word: 'contribute',
+      transcription: 'kənˈtrɪbjuːt',
+      translation: 'пожертвовать',
+    },
+    {
+      id: 5,
+      word: 'covered',
+      transcription: 'ˈkʌvəd',
+      translation: 'покрытый',
+    },
+    {
+      id: 6,
+      word: 'equipped',
+      transcription: 'ɪˈkwɪpt',
+      translation: 'оснащенный, оборудованный',
+    },
+    {
+      id: 7,
+      word: 'fund',
+      transcription: 'fʌnd',
+      translation: 'фонд',
+    },
+    {
+      id: 8,
+      word: 'initial',
+      transcription: 'ɪˈnɪʃəl',
+      translation: 'начальный',
+    },
+    {
+      id: 9,
+      word: 'parking',
+      transcription: 'ˈpɑːkɪŋ',
+      translation: 'парковка',
+    },
+    {
+      id: 10,
+      word: 'photography',
+      transcription: 'fəˈtɒɡrəfi',
+      translation: 'фотография',
+    },
+    {
+      id: 11,
+      word: 'prognosis',
+      transcription: 'prɒɡˈnəʊsɪs',
+      translation: 'прогноз',
+    },
+    {
+      id: 12,
+      word: 'projector',
+      transcription: 'prəˈʤɛktə',
+      translation: 'проектор',
+    },
+    {
+      id: 13,
+      word: 'reluctance',
+      transcription: 'rɪˈlʌktəns',
+      translation: 'нежелание',
+    },
+    {
+      id: 14,
+      word: 'tight',
+      transcription: 'taɪt',
+      translation: 'плотный',
+    },
+    {
+      id: 15,
+      word: 'unforeseen',
+      transcription: 'ˌʌnfɔːˈsiːn',
+      translation: 'непредвиденный',
+    },
+    {
+      id: 16,
+      word: 'utterly',
+      transcription: 'ˈʌtəli',
+      translation: 'совершенно',
+    },
+  ],
+];

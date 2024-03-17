@@ -1,0 +1,118 @@
+export const wordsLesson263 = [
+  [
+    {
+      id: 1,
+      word: 'burst into',
+      transcription: 'bɜːst ˈɪntuː',
+      translation: 'разразиться',
+    },
+    {
+      id: 2,
+      word: 'burn down',
+      transcription: 'bɜːn daʊn',
+      translation: 'сгореть, сжигать',
+    },
+    {
+      id: 3,
+      word: 'get in',
+      transcription: 'ɡɛt ɪn',
+      translation: 'входить, попадать в',
+    },
+    {
+      id: 4,
+      word: 'turn into',
+      transcription: 'tɜːn ˈɪntuː',
+      translation: 'превращаться в',
+    },
+    {
+      id: 5,
+      word: 'stand out',
+      transcription: 'stænd aʊt',
+      translation: 'выделяться',
+    },
+    {
+      id: 6,
+      word: 'freak out',
+      transcription: 'friːk aʊt',
+      translation: 'сходить с ума',
+    },
+    {
+      id: 7,
+      word: 'hang up',
+      transcription: 'hæŋ ʌp',
+      translation: 'вешать трубку',
+    },
+    {
+      id: 8,
+      word: 'hang on',
+      transcription: 'hæŋ ɒn',
+      translation: 'ждать',
+    },
+    {
+      id: 9,
+      word: 'fairy tail',
+      transcription: 'ˈfeəri teɪl',
+      translation: 'сказка',
+    },
+    {
+      id: 10,
+      word: 'burst out',
+      transcription: 'bɜːst aʊt',
+      translation: 'разразиться',
+    },
+    {
+      id: 11,
+      word: 'adorable',
+      transcription: 'əˈdɔːrəbᵊl',
+      translation: 'очаровательный',
+    },
+    {
+      id: 12,
+      word: 'businesswoman',
+      transcription: 'ˈbɪznɪswʊmən',
+      translation: 'деловая женщина',
+    },
+    {
+      id: 13,
+      word: 'cute',
+      transcription: 'kjuːt',
+      translation: 'милый',
+    },
+    {
+      id: 14,
+      word: 'invader',
+      transcription: 'ɪnˈveɪdə',
+      translation: 'захватчик',
+    },
+    {
+      id: 15,
+      word: 'judgment',
+      transcription: 'ˈʤʌʤmənt',
+      translation: 'суждение',
+    },
+    {
+      id: 16,
+      word: 'laughter',
+      transcription: 'ˈlɑːftə',
+      translation: 'смех',
+    },
+    {
+      id: 17,
+      word: 'prisoner',
+      transcription: 'ˈprɪznə',
+      translation: 'заключенный',
+    },
+    {
+      id: 18,
+      word: 'tiny',
+      transcription: 'ˈtaɪni',
+      translation: 'крошечный',
+    },
+    {
+      id: 19,
+      word: 'worldwide',
+      transcription: 'ˌwɜːldˈwaɪd',
+      translation: 'мировой',
+    },
+  ],
+];

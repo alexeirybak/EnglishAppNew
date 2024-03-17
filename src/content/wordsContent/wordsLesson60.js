@@ -1,0 +1,100 @@
+export const wordsLesson60 = [
+  [
+    {
+      id: 1,
+      word: 'apologise for',
+      transcription: 'əˈpɒləʤaɪz fɔː',
+      translation: 'извиняться',
+    },
+    {
+      id: 2,
+      word: 'clinic',
+      transcription: 'ˈklɪnɪk',
+      translation: 'клиника',
+    },
+    {
+      id: 3,
+      word: 'confidence',
+      transcription: 'ˈkɒnfɪdəns',
+      translation: 'уверенность',
+    },
+    {
+      id: 4,
+      word: 'dependent',
+      transcription: 'dɪˈpɛndənt',
+      translation: 'зависимый',
+    },
+    {
+      id: 5,
+      word: 'financially',
+      transcription: 'faɪˈnænʃəli',
+      translation: 'финансово',
+    },
+    {
+      id: 6,
+      word: 'illness',
+      transcription: 'ˈɪlnɪs',
+      translation: 'болезнь',
+    },
+    {
+      id: 7,
+      word: 'independent',
+      transcription: 'ˌɪndɪˈpɛndənt',
+      translation: 'независимый',
+    },
+    {
+      id: 8,
+      word: 'necklace',
+      transcription: 'ˈnɛklɪs',
+      translation: 'ожерелье',
+    },
+    {
+      id: 9,
+      word: 'nervous',
+      transcription: 'ˈnɜːvəs',
+      translation: 'нервный',
+    },
+    {
+      id: 10,
+      word: 'salary',
+      transcription: 'ˈsæləri',
+      translation: 'зарплата',
+    },
+    {
+      id: 11,
+      word: 'sick',
+      transcription: 'sɪk',
+      translation: 'больной',
+    },
+    {
+      id: 12,
+      word: 'surgeon',
+      transcription: 'ˈsɜːʤən',
+      translation: 'хирург',
+    },
+    {
+      id: 13,
+      word: 'task',
+      transcription: 'tɑːsk',
+      translation: 'задача',
+    },
+    {
+      id: 14,
+      word: 'translator',
+      transcription: 'trænsˈleɪtə',
+      translation: 'переводчик',
+    },
+    {
+      id: 15,
+      word: 'unimportant',
+      transcription: 'ˌʌnɪmˈpɒtənt',
+      translation: 'неважный',
+    },
+    {
+      id: 16,
+      word: 'well-paid',
+      transcription: 'wɛl-peɪd',
+      translation: 'хорошо оплачиваемый',
+    },
+  ],
+];

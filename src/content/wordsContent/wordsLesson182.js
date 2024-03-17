@@ -1,0 +1,100 @@
+export const wordsLesson182 = [
+  [
+    {
+      id: 1,
+      word: 'artificial',
+      transcription: 'ˌɑːtɪˈfɪʃ(ə)l',
+      translation: 'искусственный',
+    },
+    {
+      id: 2,
+      word: 'courageous',
+      transcription: 'kəˈreɪʤəs',
+      translation: 'отважный',
+    },
+    {
+      id: 3,
+      word: 'electronic',
+      transcription: 'ɪlɛkˈtrɒnɪk',
+      translation: 'электронный',
+    },
+    {
+      id: 4,
+      word: 'foolish',
+      transcription: 'ˈfuːlɪʃ',
+      translation: 'глупый, дурацкий',
+    },
+    {
+      id: 5,
+      word: 'gadget',
+      transcription: 'ˈgæʤɪt',
+      translation: 'гаджет',
+    },
+    {
+      id: 6,
+      word: 'historical',
+      transcription: 'hɪsˈtɒrɪkəl',
+      translation: 'исторический',
+    },
+    {
+      id: 7,
+      word: 'immediate',
+      transcription: 'ɪˈmiːdiət',
+      translation: 'немедленный',
+    },
+    {
+      id: 8,
+      word: 'loyal',
+      transcription: 'ˈlɔɪəl',
+      translation: 'лояльный',
+    },
+    {
+      id: 9,
+      word: 'period',
+      transcription: 'ˈpɪərɪəd',
+      translation: 'период',
+    },
+    {
+      id: 10,
+      word: 'physically',
+      transcription: 'ˈfɪzɪkəli',
+      translation: 'физически',
+    },
+    {
+      id: 11,
+      word: 'precious',
+      transcription: 'ˈprɛʃəs',
+      translation: 'драгоценный',
+    },
+    {
+      id: 12,
+      word: 'principle',
+      transcription: 'ˈprɪnsəpl',
+      translation: 'принцип',
+    },
+    {
+      id: 13,
+      word: 'rapid',
+      transcription: 'ˈræpɪd',
+      translation: 'быстрый',
+    },
+    {
+      id: 14,
+      word: 'relation',
+      transcription: 'rɪˈleɪʃən',
+      translation: 'связь, отношение',
+    },
+    {
+      id: 15,
+      word: 'stability',
+      transcription: 'stəˈbɪlɪti',
+      translation: 'стабильность',
+    },
+    {
+      id: 16,
+      word: 'unstable',
+      transcription: 'ʌnˈsteɪbl',
+      translation: 'нестабильный',
+    },
+  ],
+];

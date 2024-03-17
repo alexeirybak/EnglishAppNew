@@ -1,0 +1,111 @@
+export const wordsLesson31 = [
+  [
+    {
+      id: 1,
+      word: 'anything',
+      transcription: 'ˈɛnɪθɪŋ',
+      translation: 'что-либо',
+    },
+    {
+      id: 2,
+      word: 'badminton',
+      transcription: 'ˈbædmɪntən',
+      translation: 'бадминтон',
+    },
+    {
+      id: 3,
+      word: 'explain',
+      transcription: 'ɪksˈpleɪn',
+      translation: 'объяснять',
+    },
+    {
+      id: 4,
+      word: 'forget',
+      transcription: 'fəˈgɛt',
+      translation: 'забывать',
+    },
+    {
+      id: 5,
+      word: 'Friday',
+      transcription: 'ˈfraɪdeɪ',
+      translation: 'пятница',
+    },
+    {
+      id: 6,
+      word: 'lock',
+      transcription: 'lɒk',
+      translation: 'запирать',
+    },
+    {
+      id: 7,
+      word: 'Monday',
+      transcription: 'ˈmʌndeɪ',
+      translation: 'понедельник',
+    },
+    {
+      id: 8,
+      word: 'night',
+      transcription: 'naɪt',
+      translation: 'ночь',
+    },
+    {
+      id: 9,
+      word: 'past',
+      transcription: 'pɑːst',
+      translation: 'прошлое',
+    },
+    {
+      id: 10,
+      word: 'physical',
+      transcription: 'ˈfɪzɪkəl',
+      translation: 'физический',    },
+    {
+      id: 11,
+      word: 'Saturday',
+      transcription: 'ˈsætədeɪ',
+      translation: 'суббота',
+    },
+    {
+      id: 12,
+      word: 'sound',
+      transcription: 'saʊnd',
+      translation: 'звучать, звук',
+    },
+    {
+      id: 13,
+      word: 'Sunday',
+      transcription: 'ˈsʌndeɪ',
+      translation: 'воскресенье',
+    },
+    {
+      id: 14,
+      word: 'Thursday',
+      transcription: 'ˈθɜːzdeɪ',
+      translation: 'четверг',
+    },
+    {
+      id: 15,
+      word: 'Tuesday',
+      transcription: 'ˈtjuːzdeɪ',
+      translation: 'вторник',
+    },
+    {
+      id: 16,
+      word: 'Wednesday',
+      transcription: 'ˈwɛnzdeɪ',
+      translation: 'среда',
+    },
+    {
+      id: 17,
+      word: 'word',
+      transcription: 'wɜːd',
+      translation: 'слово',
+    },
+    {
+      id: 18,
+      word: 'country house',
+      transcription: 'ˈkʌntri haʊs',
+      translation: 'загородный дом',
+    },
+  ],
+];

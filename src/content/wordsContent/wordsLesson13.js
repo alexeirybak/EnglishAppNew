@@ -1,0 +1,101 @@
+export const wordsLesson13 = [
+  [
+    {
+      id: 1,
+      word: 'angry',
+      transcription: 'ˈæŋgri',
+      translation: 'злой',
+    },
+    { id: 2, word: 'at', transcription: 'æt', translation: 'в, на' },
+    {
+      id: 3,
+      word: 'best',
+      transcription: 'bɛst',
+      translation: 'лучший',
+    },
+    {
+      id: 4,
+      word: 'busy',
+      transcription: 'ˈbɪzi',
+      translation: 'занятый',
+    },
+    {
+      id: 5,
+      word: 'fact',
+      transcription: 'fækt',
+      translation: 'факт',
+    },
+    {
+      id: 6,
+      word: 'husband',
+      transcription: 'ˈhʌzbənd',
+      translation: 'муж',
+    },
+    {
+      id: 7,
+      word: 'million',
+      transcription: 'ˈmɪljən',
+      translation: 'миллион',
+    },
+    {
+      id: 8,
+      word: 'old',
+      transcription: 'əʊld',
+      translation: 'старый',
+    },
+    {
+      id: 9,
+      word: 'right',
+      transcription: 'raɪt',
+      translation: 'прав, правильный',
+    },
+    {
+      id: 10,
+      word: 'room',
+      transcription: 'ruːm',
+      translation: 'комната',
+    },
+    {
+      id: 11,
+      word: 'secretary',
+      transcription: 'ˈsɛkrətri',
+      translation: 'секретарь',
+    },
+    {
+      id: 12,
+      word: 'singer',
+      transcription: 'ˈsɪŋə',
+      translation: 'певец',
+    },
+    {
+      id: 13,
+      word: 'sixty',
+      transcription: 'ˈsɪksti',
+      translation: 'шестьдесят',
+    },
+    {
+      id: 14,
+      word: 'sure',
+      transcription: 'ʃʊə',
+      translation: 'уверен',
+    },
+    {
+      id: 15,
+      word: 'wife',
+      transcription: 'waɪf',
+      translation: 'жена',
+    },
+    {
+      id: 16,
+      word: 'wonderful',
+      transcription: 'ˈwʌndəfʊl',
+      translation: 'замечательный, прекрасный',
+    },
+    {
+      id: 17,
+      word: 'young',
+      transcription: 'jʌŋ',
+      translation: 'молодой',
+    },
+  ],
+];

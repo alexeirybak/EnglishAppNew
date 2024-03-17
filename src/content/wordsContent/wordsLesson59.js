@@ -1,0 +1,100 @@
+export const wordsLesson59 = [
+  [
+    {
+      id: 1,
+      word: 'among',
+      transcription: 'əˈmʌŋ',
+      translation: 'среди',
+    },
+    {
+      id: 2,
+      word: 'crazy',
+      transcription: 'ˈkreɪzi',
+      translation: 'сумасшедший',
+    },
+    {
+      id: 3,
+      word: 'deep',
+      transcription: 'diːp',
+      translation: 'глубокий',
+    },
+    {
+      id: 4,
+      word: 'dream',
+      transcription: 'driːm',
+      translation: 'мечта, мечтать',
+    },
+    {
+      id: 5,
+      word: 'economics',
+      transcription: 'ˌiːkəˈnɒmɪks',
+      translation: 'экономика',
+    },
+    {
+      id: 6,
+      word: 'ingredient',
+      transcription: 'ɪnˈgriːdiənt',
+      translation: 'ингредиент',
+    },
+    {
+      id: 7,
+      word: 'irregular',
+      transcription: 'ɪˈrɛgjʊlə',
+      translation: 'нерегулярный, неправильный',
+    },
+    {
+      id: 8,
+      word: 'interested',
+      transcription: 'ˈɪntrɪstɪd',
+      translation: 'заинтересованный',
+    },
+    {
+      id: 9,
+      word: 'lake',
+      transcription: 'leɪk',
+      translation: 'озеро',
+    },
+    {
+      id: 10,
+      word: 'mad',
+      transcription: 'mæd',
+      translation: 'сумасшедший',
+    },
+    {
+      id: 11,
+      word: 'natural',
+      transcription: 'ˈnæʧrəl',
+      translation: 'натуральный, естественный',
+    },
+    {
+      id: 12,
+      word: 'regular',
+      transcription: 'ˈrɛgjʊlə',
+      translation: 'регулярный, правильный',
+    },
+    {
+      id: 13,
+      word: 'risk',
+      transcription: 'rɪsk',
+      translation: 'риск',
+    },
+    {
+      id: 14,
+      word: 'unfortunately',
+      transcription: 'ʌnˈfɔːʧnɪtli',
+      translation: 'к сожалению',
+    },
+    {
+      id: 15,
+      word: 'unofficial',
+      transcription: 'ˌʌnəˈfɪʃəl',
+      translation: 'неофициальный',
+    },
+    {
+      id: 16,
+      word: 'verb',
+      transcription: 'vɜːb',
+      translation: 'глагол',
+    },
+  ],
+];

@@ -1,0 +1,118 @@
+export const wordsLesson220 = [
+  [
+    {
+      id: 1,
+      word: 'antique',
+      transcription: 'ænˈtiːk',
+      translation: 'античный',
+    },
+    {
+      id: 2,
+      word: 'awareness',
+      transcription: 'əˈweənəs',
+      translation: 'осознание',
+    },
+    {
+      id: 3,
+      word: 'budget',
+      transcription: 'ˈbʌʤɪt',
+      translation: 'бюджет',
+    },
+    {
+      id: 4,
+      word: 'campaign',
+      transcription: 'kæmˈpeɪn',
+      translation: 'кампания',
+    },
+    {
+      id: 5,
+      word: 'cruelty',
+      transcription: 'ˈkruːəlti',
+      translation: 'жестокость',
+    },
+    {
+      id: 6,
+      word: 'dedicate',
+      transcription: 'ˈdɛdɪkeɪt',
+      translation: 'посвящать',
+    },
+    {
+      id: 7,
+      word: 'detailed',
+      transcription: 'ˈdiːteɪld',
+      translation: 'детальный',
+    },
+    {
+      id: 8,
+      word: 'furnished',
+      transcription: 'ˈfɜːnɪʃt',
+      translation: 'обставленный',
+    },
+    {
+      id: 9,
+      word: 'imprisonment',
+      transcription: 'ɪmˈprɪznmənt',
+      translation: 'тюремное заключение',
+    },
+    {
+      id: 10,
+      word: 'junk',
+      transcription: 'ʤʌŋk',
+      translation: 'нездоровый',
+    },
+    {
+      id: 11,
+      word: 'needy',
+      transcription: 'ˈniːdi',
+      translation: 'нуждающийся',
+    },
+    {
+      id: 12,
+      word: 'pension',
+      transcription: 'ˈpɛnʃᵊn',
+      translation: 'пенсия',
+    },
+    {
+      id: 13,
+      word: 'raise',
+      transcription: 'reɪz',
+      translation: 'повышение, повышать',
+    },
+    {
+      id: 14,
+      word: 'reliant',
+      transcription: 'rɪˈlaɪənt',
+      translation: 'зависимый',
+    },
+    {
+      id: 15,
+      word: 'reluctant',
+      transcription: 'rɪˈlʌktənt',
+      translation: 'неохотный',
+    },
+    {
+      id: 16,
+      word: 'seriousness',
+      transcription: 'ˈsɪərɪəsnɪs',
+      translation: 'серьезность',
+    },
+    {
+      id: 17,
+      word: 'serve',
+      transcription: 'sɜːv',
+      translation: 'служить',
+    },
+    {
+      id: 18,
+      word: 'thorough',
+      transcription: 'ˈθʌrə',
+      translation: 'тщательный',
+    },
+    {
+      id: 19,
+      word: 'volunteer',
+      transcription: 'ˌvɒlənˈtɪə',
+      translation: 'волонтер, доброволец',
+    },
+  ],
+];

@@ -1,0 +1,100 @@
+export const wordsLesson234 = [
+  [
+    {
+      id: 1,
+      word: 'adapted',
+      transcription: 'əˈdæptɪd',
+      translation: 'адаптированный',
+    },
+    {
+      id: 2,
+      word: 'agenda',
+      transcription: 'əˈʤɛndə',
+      translation: 'повестка дня',
+    },
+    {
+      id: 3,
+      word: 'ahead',
+      transcription: 'əˈhɛd',
+      translation: 'впереди',
+    },
+    {
+      id: 4,
+      word: 'clarify',
+      transcription: 'ˈklærɪfaɪ',
+      translation: 'прояснить',
+    },
+    {
+      id: 5,
+      word: 'comparison',
+      transcription: 'kəmˈpærɪsn',
+      translation: 'сравнение',
+    },
+    {
+      id: 6,
+      word: 'ideally',
+      transcription: 'aɪˈdɪəli',
+      translation: 'в идеале',
+    },
+    {
+      id: 7,
+      word: 'Japanese',
+      transcription: 'ˌʤæpəˈniːz',
+      translation: 'японский',
+    },
+    {
+      id: 8,
+      word: 'justly',
+      transcription: 'ˈʤʌstli',
+      translation: 'справедливо',
+    },
+    {
+      id: 9,
+      word: 'miracle',
+      transcription: 'ˈmɪrəkl',
+      translation: 'чудо',
+    },
+    {
+      id: 10,
+      word: 'problematic',
+      transcription: 'ˌprɒblɪˈmætɪk',
+      translation: 'проблематичный',
+    },
+    {
+      id: 11,
+      word: 'programming',
+      transcription: 'ˈprəʊɡræmɪŋ',
+      translation: 'программирование',
+    },
+    {
+      id: 12,
+      word: 'punishment',
+      transcription: 'ˈpʌnɪʃmənt',
+      translation: 'наказание',
+    },
+    {
+      id: 13,
+      word: 'simplified',
+      transcription: 'ˈsɪmplɪfaɪd',
+      translation: 'упрощенный',
+    },
+    {
+      id: 14,
+      word: 'tendency',
+      transcription: 'ˈtɛndənsi',
+      translation: 'тенденция',
+    },
+    {
+      id: 15,
+      word: 'understandable',
+      transcription: 'ˌʌndəˈstændəbᵊl',
+      translation: 'понятный',
+    },
+    {
+      id: 16,
+      word: 'weakness',
+      transcription: 'ˈwiːknɪs',
+      translation: 'слабость',
+    },
+  ],
+];

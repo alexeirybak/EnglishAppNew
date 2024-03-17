@@ -1,0 +1,107 @@
+export const wordsLesson9 = [
+  [
+    {
+      id: 1,
+      word: 'boring',
+      transcription: 'ˈbɔːrɪŋ',
+      translation: 'скучный',
+    },
+    {
+      id: 2,
+      word: 'Chinese',
+      transcription: 'ˌʧaɪˈniːz',
+      translation: 'китайский',
+    },
+    {
+      id: 3,
+      word: 'cinema',
+      transcription: 'ˈsɪnəmə',
+      translation: 'кино, кинотеатр',
+    },
+    {
+      id: 4,
+      word: 'dancing',
+      transcription: 'ˈdɑːnsɪŋ',
+      translation: 'танцы',
+    },
+    {
+      id: 5,
+      word: 'find',
+      transcription: 'faɪnd',
+      translation: 'находить',
+    },
+    {
+      id: 6,
+      word: 'intensively',
+      transcription: 'ɪnˈtɛnsɪvli',
+      translation: 'интенсивно',
+    },
+    {
+      id: 7,
+      word: 'many',
+      transcription: 'ˈmɛni',
+      translation: 'много',
+    },
+    {
+      id: 8,
+      word: 'movie',
+      transcription: 'ˈmuːvi',
+      translation: 'фильм',
+    },
+    { id: 9, word: 'or', transcription: 'ɔː', translation: 'или', },
+    {
+      id: 10,
+      word: 'park',
+      transcription: 'pɑːk',
+      translation: 'парк',
+    },
+    {
+      id: 11,
+      word: 'reading',
+      transcription: 'ˈriːdɪŋ',
+      translation: 'чтение',
+    },
+    {
+      id: 12,
+      word: 'real',
+      transcription: 'rɪəl',
+      translation: 'реальный',
+    },
+    {
+      id: 13,
+      word: 'show',
+      transcription: 'ʃəʊ',
+      translation: 'показывать',
+    },
+    {
+      id: 14,
+      word: 'singing',
+      transcription: 'ˈsɪŋɪŋ',
+      translation: 'пение',
+    },
+    {
+      id: 15,
+      word: 'support',
+      transcription: 'səˈpɔːt',
+      translation: 'поддержка, поддерживать',
+    },
+    {
+      id: 16,
+      word: 'train',
+      transcription: 'treɪn',
+      translation: 'тренироваться',
+    },
+    {
+      id: 17,
+      word: 'weather',
+      transcription: 'ˈwɛðə',
+      translation: 'погода',
+    },
+    {
+      id: 18,
+      word: 'write',
+      transcription: 'raɪt',
+      translation: 'писать',
+    },
+  ],
+];

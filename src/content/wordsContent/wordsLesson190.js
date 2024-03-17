@@ -1,0 +1,100 @@
+export const wordsLesson190 = [
+  [
+    {
+      id: 1,
+      word: 'arrangement',
+      transcription: 'əˈreɪnʤmənt',
+      translation: 'договоренность',
+    },
+    {
+      id: 2,
+      word: 'contain',
+      transcription: 'kənˈteɪn',
+      translation: 'содержать',
+    },
+    {
+      id: 3,
+      word: 'convinced',
+      transcription: 'kənˈvɪnst',
+      translation: 'убежден',
+    },
+    {
+      id: 4,
+      word: 'exception',
+      transcription: 'ɪkˈsɛpʃən',
+      translation: 'исключение',
+    },
+    {
+      id: 5,
+      word: 'exciting',
+      transcription: 'ɪkˈsaɪtɪŋ',
+      translation: 'захватывающий',
+    },
+    {
+      id: 6,
+      word: 'organism',
+      transcription: 'ˈɔːgənɪzm',
+      translation: 'организм',
+    },
+    {
+      id: 7,
+      word: 'overall',
+      transcription: 'ˈəʊvərɔːl',
+      translation: 'в целом, общий',
+    },
+    {
+      id: 8,
+      word: 'particular',
+      transcription: 'pəˈtɪkjʊlə',
+      translation: 'особенный',
+    },
+    {
+      id: 9,
+      word: 'passive',
+      transcription: 'ˈpæsɪv',
+      translation: 'пассивный',
+    },
+    {
+      id: 10,
+      word: 'reasonable',
+      transcription: 'ˈriːznəbl',
+      translation: 'разумный',
+    },
+    {
+      id: 11,
+      word: 'romantic',
+      transcription: 'rəʊˈmæntɪk',
+      translation: 'романтический, романтичный',
+    },
+    {
+      id: 12,
+      word: 'silent',
+      transcription: 'ˈsaɪlənt',
+      translation: 'тихий',
+    },
+    {
+      id: 13,
+      word: 'unfair',
+      transcription: 'ʌnˈfeə',
+      translation: 'несправедливый',
+    },
+    {
+      id: 14,
+      word: 'wavy',
+      transcription: 'ˈweɪvi',
+      translation: 'волнистый',
+    },
+    {
+      id: 15,
+      word: 'wild',
+      transcription: 'waɪld',
+      translation: 'дикий',
+    },
+    {
+      id: 16,
+      word: 'willing',
+      transcription: 'ˈwɪlɪŋ',
+      translation: 'желающий',
+    },
+  ],
+];

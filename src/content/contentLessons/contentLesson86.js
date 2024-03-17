@@ -1,0 +1,631 @@
+export const contentLesson86 = [
+  [
+    {
+      title: "Урок 86. Past Simple. 150 Regular Verbs. Part 2",
+    },
+    [
+      {
+        id: 1,
+        expression: "Он часто лгал своему боссу",
+        transcription: "hi ˈɒf(ə)n laɪd tə ɪz bɒs",
+        translation: "He often lied to his boss",
+      },
+      {
+        id: 2,
+        expression: "Мальчик ответил очень грубо",
+        transcription: "ðə bɔɪ ˈɑːnsəd ˈruːdli",
+        translation: "The boy answered rudely",
+      },
+      {
+        id: 3,
+        expression: "Она закрыла дверь",
+        transcription: "ʃi kləʊzd ðə dɔː",
+        translation: "She closed the door",
+      },
+      {
+        id: 4,
+        expression: "Она приготовила что-то незабываемое",
+        transcription: "ʃi kʊkt ˈsʌmθɪŋ ˌʌnfəˈgɛtəbl",
+        translation: "She cooked something unforgettable",
+      },
+      {
+        id: 5,
+        expression: "Это предложение звучало действительно странно",
+        transcription: "ðɪs ˈɒfə ˈsaʊndɪd ˈrɪəli streɪnʤ",
+        translation: "This offer sounded really strange",
+      },
+      {
+        id: 6,
+        expression: "Он действительно не заботился о своем будущем",
+        transcription: "hi dɪdnt ˈrɪəli keər əˈbaʊt ɪz ˈfjuːʧə",
+        translation: "He didn't really care about his future",
+      },
+      {
+        id: 7,
+        expression: "Компания два раза увеличивала цену",
+        transcription: "ðə ˈkʌmpəni ɪnˈkriːst ðə praɪs tuː taɪmz",
+        translation: "The company increased the price two times",
+      },
+      {
+        id: 8,
+        expression: "Это зависело от него",
+        transcription: "ɪt dɪˈpɛndɪd ɒn hɪm",
+        translation: "It depended on him",
+      },
+      {
+        id: 9,
+        expression: "Мой лучший друг полностью поддерживал меня",
+        transcription: "maɪ bɛst frɛnd ˈfʊli səˈpɔːt miː",
+        translation: "My best friend fully support me",
+      },
+      {
+        id: 10,
+        expression: "Я поблагодарил его за огромную поддержку",
+        transcription: "aɪ θæŋkt ɪm fə hɪz hjuːʤ səˈpɔːt",
+        translation: "I thanked him for his huge support",
+      },
+      {
+        id: 11,
+        expression: "Я действительно рассчитывал на ее помощь",
+        transcription: "aɪ ˈrɪəli ˈkaʊntɪd ɒn hə hɛlp",
+        translation: "I really counted on her help",
+      },
+      {
+        id: 12,
+        expression: "Я ответил на телефон",
+        transcription: "aɪ ˈɑːnsəd ðə fəʊn",
+        translation: "I answered the phone",
+      },
+      {
+        id: 13,
+        expression: "Она соврала мне",
+        transcription: "ʃi laɪd tə miː",
+        translation: "She lied to me",
+      },
+      {
+        id: 14,
+        expression: "Они поженились в конце",
+        transcription: "ðeɪ gɒt ˈmærɪd ɪn ði ɛnd",
+        translation: "They got married in the end",
+      },
+      {
+        id: 15,
+        expression: "Она покрасила забор",
+        transcription: "ʃi ˈpeɪntɪd ðə fɛns",
+        translation: "She painted the fence",
+      },
+      {
+        id: 16,
+        expression: "Она выпустила новый альбом",
+        transcription: "ʃi rɪˈliːst ə njuː ˈælbəm",
+        translation: "She released a new album",
+      },
+      {
+        id: 17,
+        expression: "Он не заботился об этом",
+        transcription: "hi dɪdnt keər əˈbaʊt ɪt",
+        translation: "He didn't care about it",
+      },
+      {
+        id: 18,
+        expression: "Я поблагодарил ее за подарок",
+        transcription: "aɪ θæŋkt hə fə ðə ˈprɛznt",
+        translation: "I thanked her for the present",
+      },
+      {
+        id: 19,
+        expression: "Урок длился около часа",
+        transcription: "ðə ˈlɛsn ˈlɑːstɪd fər əˈbaʊt ən ˈaʊə",
+        translation: "The lesson lasted for about an hour",
+      },
+      {
+        id: 20,
+        expression: "Я праздновал Новый год со своей семьей",
+        transcription: "aɪ ˈsɛlɪbreɪtɪd maɪ ˈbɜːθdeɪ wɪð maɪ ˈfæmɪli",
+        translation: "I celebrated my birthday with my family",
+      },
+      {
+        id: 21,
+        expression: "Как ты отпраздновал свой последний день рождения?",
+        transcription: "haʊ dɪd jʊ ˈsɛlɪbreɪt jʊ lɑːst ˈbɜːθdeɪ?",
+        translation: "How did you celebrate you last birthday?",
+      },
+      {
+        id: 22,
+        expression: "Они увеличивали цену несколько раз",
+        transcription: "ðeɪ ɪnˈkriːst ðə praɪs ˈsɛvrəl taɪmz",
+        translation: "They increased the price several times",
+      },
+      {
+        id: 23,
+        expression: "Я вернулся домой вечером",
+        transcription: "aɪ rɪˈtɜːnd həʊm ɪn ði ˈiːvnɪŋ",
+        translation: "I returned home in the evening",
+      },
+      {
+        id: 24,
+        expression: "Он не извинился за свое грубое поведение",
+        transcription: "hi dɪdnt əˈpɒləʤaɪz fə hɪz ruːd bɪˈheɪvjə",
+        translation: "He didn't apologise for his rude behaviour",
+      },
+      {
+        id: 25,
+        expression: "Игра длилась около часа",
+        transcription: "ðə geɪm ˈlɑːstɪd fər əˈbaʊt ən ˈaʊə",
+        translation: "The game lasted for about an hour",
+      },
+      {
+        id: 26,
+        expression: "Он выпустил новую песню",
+        transcription: "hi rɪˈliːst ə njuː sɒŋ",
+        translation: "He released a new song",
+      },
+      {
+        id: 27,
+        expression: "Я действительно обожал игру",
+        transcription: "aɪ ˈrɪəli ɪnˈʤɔɪd ðə geɪm",
+        translation: "I really enjoyed the game",
+      },
+      {
+        id: 28,
+        expression: "Мы повернули назад домой",
+        transcription: "wi tɜːnd bæk həʊm",
+        translation: "We turned back home",
+      },
+      {
+        id: 29,
+        expression: "Он посоветовал мне купить эту вещь",
+        transcription: "hi ədˈvaɪzd mi tə baɪ ðɪs θɪŋ",
+        translation: "He advised me to buy this thing",
+      },
+      {
+        id: 30,
+        expression: "Они покрасили стену",
+        transcription: "ðeɪ ˈpeɪntɪd ðə wɔːl",
+        translation: "They painted the wall",
+      },
+      {
+        id: 31,
+        expression: "Я рассчитывал на его помощь",
+        transcription: "aɪ ˈkaʊntɪd ɒn ɪz səˈpɔːt",
+        translation: "I counted on his support",
+      },
+      {
+        id: 32,
+        expression: "Он вернулся домой после полуночи",
+        transcription: "hi rɪˈtɜːnd həʊm ˈɑːftə ˈmɪdnaɪt",
+        translation: "He returned home after midnight",
+      },
+      {
+        id: 33,
+        expression: "Я поблагодарил его за все",
+        transcription: "aɪ θæŋkt ɪm fər ˈɛvrɪθɪŋ",
+        translation: "I thanked him for everything",
+      },
+      {
+        id: 34,
+        expression: "Мой коллега подготовил отчет",
+        transcription: "maɪ ˈkɒliːg prɪˈpeəd ə rɪˈpɔːt",
+        translation: "My colleague prepared a report",
+      },
+      {
+        id: 35,
+        expression: "Они выпустили свой первый сингл",
+        transcription: "ðeɪ rɪˈliːst ðeə fɜːst ˈsɪŋgl",
+        translation: "They released their first single",
+      },
+      {
+        id: 36,
+        expression: "Он предпочел остаться дома",
+        transcription: "hi prɪˈfɜːd tə steɪ ət həʊm",
+        translation: "He preferred to stay at home",
+      },
+      {
+        id: 37,
+        expression: "Она приготовила это на ужин",
+        transcription: "ʃi kʊkt ɪt fə ˈdɪnə",
+        translation: "She cooked it for dinner",
+      },
+      {
+        id: 38,
+        expression: "Война длилась около двух лет",
+        transcription: "ðə wɔː ˈlɑːstɪd fər əˈbaʊt tuː ˈaʊəz",
+        translation: "The war lasted for about two hours",
+      },
+      {
+        id: 39,
+        expression: "Я правильно ответил на этот вопрос",
+        transcription: "aɪ ˈɑːnsəd ðɪs ˈkwɛsʧən kəˈrɛktli",
+        translation: "I answered this question correctly",
+      },
+      {
+        id: 40,
+        expression: "Он вернулся в Англию",
+        transcription: "hi rɪˈtɜːnd tʊ ˈɪŋglənd",
+        translation: "He returned to England",
+      },
+      {
+        id: 41,
+        expression: "Большинству людей не понравился этот новый закон",
+        transcription: "ðə məˈʤɒrɪti əv ˈpiːpl dɪdnt laɪk ðɪs njuː lɔː",
+        translation: "The majority of people didn't like this new law",
+      },
+      {
+        id: 42,
+        expression: "Будущее компании зависело от них",
+        transcription: "ðə ˈfjuːʧər əv ðə ˈkʌmpəni dɪˈpɛndɪd ɒn ðɛm",
+        translation: "The future of the company depended on them",
+      },
+      {
+        id: 43,
+        expression: "Я обожал смотреть фильмы на английском языке с субтитрами",
+        transcription: "aɪ ɪnˈʤɔɪd ˈwɒʧɪŋ ˈmuːviz ɪn ˈɪŋglɪʃ wɪð ˈsʌbˌtaɪtlz",
+        translation: "I enjoyed watching movies in English with subtitles",
+      },
+      {
+        id: 44,
+        expression:
+          "Эти упражнения помогли мне развить некоторые из моих профессиональных навыков",
+        transcription:
+          "ðiːz ˈɛksəsaɪzɪz hɛlpt miː (tuː) dɪˈvɛləp səm əv maɪ prəˈfɛʃənl skɪlz",
+        translation:
+          "These exercises helped me (to) develop some of my professional skills",
+      },
+      {
+        id: 45,
+        expression:
+          "Его английский звучал очень естественно, хотя он не был носителем языка",
+        transcription:
+          "hɪz ˈɪŋglɪʃ ˈsaʊndɪd ˈvɛri ˈnæʧrəli ɔːlˈðəʊ hi wɒznt ə ˈneɪtɪv ˈspiːkə",
+        translation:
+          "His English sounded very naturally although he wasn't a native speaker",
+      },
+      {
+        id: 46,
+        expression:
+          "Она приготовила свое любимое блюдо, и это было действительно что-то незабываемое",
+        transcription:
+          "ʃi kʊkt hə ˈfeɪvərɪt dɪʃ ənd ɪt wəz ˈsʌmθɪŋ ˌʌnfəˈgɛtəbl",
+        translation:
+          "She cooked her favorite dish and it was something unforgettable",
+      },
+      {
+        id: 47,
+        expression: "Мы обсудили все в начале нашего разговора",
+        transcription:
+          "wi dɪsˈkʌst ˈɛvrɪθɪŋ ət ðə bɪˈgɪnɪŋ əv ˈaʊə ˌkɒnvəˈseɪʃən",
+        translation:
+          "We discussed everything at the beginning of our conversation",
+      },
+      {
+        id: 48,
+        expression:
+          "Это действительно помогло мне развить некоторые из моих профессиональных навыков",
+        transcription:
+          "ɪt ˈrɪəli hɛlpt miː (tuː) dɪˈvɛləp səm əv maɪ prəˈfɛʃənl skɪlz",
+        translation:
+          "It really helped me (to) develop some of my professional skills",
+      },
+      {
+        id: 49,
+        expression: "Я сравнил те два компьютера и выбрал второй",
+        transcription:
+          "aɪ kəmˈpeəd ðəʊz tuː kəmˈpjuːtəz ənd ʧəʊz ðə ˈsɛkənd wʌn",
+        translation: "I compared those two computers and chose the second one",
+      },
+      {
+        id: 50,
+        expression: "Он пригласил меня на вечеринку",
+        transcription: "hi ɪnˈvaɪtɪd mi tə ðə ˈpɑːti",
+        translation: "He invited me to the party",
+      },
+      {
+        id: 51,
+        expression: "Она вышла замуж в возрасте восемнадцати лет",
+        transcription: "ʃi ˈmærɪd ət ði eɪʤ əv ˌeɪˈtiːn",
+        translation: "She married at the age of eighteen",
+      },
+      {
+        id: 52,
+        expression: "Я закончил писать отчет",
+        transcription: "aɪ ˈfɪnɪʃt ˈraɪtɪŋ ðiː (eɪ) rɪˈpɔːt",
+        translation: "I finished writing the (a) report",
+      },
+      {
+        id: 53,
+        expression: "Она действительно любила танцевать",
+        transcription: "ʃi ˈrɪəli lʌvd ˈdɑːnsɪŋ",
+        translation: "She really loved dancing",
+      },
+      {
+        id: 54,
+        expression: "Она приготовила что-то очень вкусное",
+        transcription: "ʃi kʊkt ˈsʌmθɪŋ ˈvɛri ˈteɪsti",
+        translation: "She cooked something very tasty",
+      },
+      {
+        id: 55,
+        expression: "Я закончил читать эту главу",
+        transcription: "aɪ ˈfɪnɪʃt ˈriːdɪŋ ðɪs ˈʧæptə",
+        translation: "I finished reading this chapter",
+      },
+      {
+        id: 56,
+        expression: "Мы обсудили все в конце концов",
+        transcription: "wi dɪsˈkʌst ˈɛvrɪθɪŋ ɪn ði ɛnd",
+        translation: "We discussed everything in the end",
+      },
+      {
+        id: 57,
+        expression: "Мы обсудили все в конце нашего разговора",
+        transcription: "wi dɪsˈkʌst ˈɛvrɪθɪŋ ət ði ɛnd əv ˈaʊə ˌkɒnvəˈseɪʃən",
+        translation: "We discussed everything at the end of our conversation",
+      },
+      {
+        id: 58,
+        expression: "Мы обсудили это в конце концов",
+        transcription: "wi dɪsˈkʌst ɪt ɪn ði ɛnd",
+        translation: "We discussed it in the end",
+      },
+      {
+        id: 59,
+        expression: "Они пригласили меня на эту вечеринку",
+        transcription: "ðeɪ ɪnˈvaɪtɪd mi tə ðɪs ˈpɑːti",
+        translation: "They invited me to this party",
+      },
+      {
+        id: 60,
+        expression: "Я пригласил его на свою вечеринку",
+        transcription: "aɪ ɪnˈvaɪtɪd ɪm tə maɪ ˈpɑːti",
+        translation: "I invited him to my party",
+      },
+      {
+        id: 61,
+        expression: "Они пригласили меня на вечеринку",
+        transcription: "ðeɪ ɪnˈvaɪtɪd mi tə ðə ˈpɑːti",
+        translation: "They invited me to the party",
+      },
+      {
+        id: 62,
+        expression: "Я действительно обожал смотреть этот фильм с субтитрами",
+        transcription: "aɪ ˈrɪəli ɪnˈʤɔɪd ˈwɒʧɪŋ ðɪs ˈmuːvi wɪð ˈsʌbˌtaɪtlz",
+        translation: "I really enjoyed watching this movie with subtitles",
+      },
+      {
+        id: 63,
+        expression: "Я действительно обожал смотреть этот фильм",
+        transcription: "aɪ ˈrɪəli ɪnˈʤɔɪd ˈwɒʧɪŋ ðɪs ˈmuːvi",
+        translation: "I really enjoyed watching this movie",
+      },
+      {
+        id: 64,
+        expression: "Он обожал смотреть этот фильм без субтитров",
+        transcription: "aɪ ɪnˈʤɔɪd ˈwɒʧɪŋ ðɪs ˈmuːvi wɪˈðaʊt ˈsʌbˌtaɪtlz",
+        translation: "I enjoyed watching this movie without subtitles",
+      },
+      {
+        id: 65,
+        expression: "Я предпочел потратить так много денег на это",
+        transcription: "aɪ prɪˈfɜːd tə spɛnt səʊ mʌʧ ˈmʌni ɒn ɪt",
+        translation: "I preferred to spent so much money on it",
+      },
+      {
+        id: 66,
+        expression: "Я решил потратить на это свои деньги",
+        transcription: "aɪ dɪˈsaɪdɪd tə spɛnd maɪ ˈmʌni ɒn ɪt",
+        translation: "I decided to spend my money on it",
+      },
+      {
+        id: 67,
+        expression: "Он предпочел потратить все свои деньги на это",
+        transcription: "hi prɪˈfɜːd tə spɛnd ɔːl ɪz ˈmʌni ɒn ɪt",
+        translation: "He preferred to spend all his money on it",
+      },
+      {
+        id: 68,
+        expression: "Я не советовал ему делать это",
+        transcription: "aɪ dɪdnt ədˈvaɪz ɪm tə dʊ ɪt",
+        translation: "I didn't advise him to do it",
+      },
+      {
+        id: 69,
+        expression: "Я не советовал ему говорить это",
+        transcription: "aɪ dɪdnt ədˈvaɪz ɪm tə seɪ ɪt",
+        translation: "I didn't advise him to say it",
+      },
+      {
+        id: 70,
+        expression: "Я советовал ему сделать это",
+        transcription: "aɪ ədˈvaɪzd ɪm tə dʊ ɪt",
+        translation: "I advised him to do it",
+      },
+      {
+        id: 71,
+        expression: "Он решил извиниться за свое поведение",
+        transcription: "hi dɪˈsaɪdɪd tʊ əˈpɒləʤaɪz fə hɪz bɪˈheɪvjə",
+        translation: "He decided to apologise for his behaviour",
+      },
+      {
+        id: 72,
+        expression: "Я решил извиниться за свое поведение",
+        transcription: "aɪ dɪˈsaɪdɪd tʊ əˈpɒləʤaɪz fə maɪ bɪˈheɪvjə",
+        translation: "I decided to apologise for my behaviour",
+      },
+      {
+        id: 73,
+        expression: "Он извинился за свое поведение",
+        transcription: "hi əˈpɒləʤaɪzd fə hɪz bɪˈheɪvjə",
+        translation: "He apologised for his behaviour",
+      },
+      {
+        id: 74,
+        expression: "Большинство людей не поддержали эту идею",
+        transcription: "ðə məˈʤɒrɪti əv ˈpiːpl dɪdnt səˈpɔːt ðɪs aɪˈdɪə",
+        translation: "The majority of people didn't support this idea",
+      },
+      {
+        id: 75,
+        expression: "Эти люди не поддержали мою идею",
+        transcription: "ðiːz ˈpiːpl dɪdnt səˈpɔːt maɪ aɪˈdɪə",
+        translation: "These people didn't support my idea",
+      },
+      {
+        id: 76,
+        expression: "Люди не поддержали ту идею",
+        transcription: "ðə ˈpiːpl dɪdnt səˈpɔːt ðət aɪˈdɪə",
+        translation: "The people didn't support that idea",
+      },
+      {
+        id: 77,
+        expression: "Я желал увидеть ее снова",
+        transcription: "aɪ wɪʃt tə siː hər əˈgɛn",
+        translation: "I wished to see her again",
+      },
+      {
+        id: 78,
+        expression: "Он желал увидеть тебя снова",
+        transcription: "hi wɪʃt tə siː jʊ əˈgɛn",
+        translation: "He wished to see you again",
+      },
+      {
+        id: 79,
+        expression: "Я желал сделать это снова",
+        transcription: "aɪ wɪʃt tə dʊ ɪt əˈgɛn",
+        translation: "I wished to do it again",
+      },
+      {
+        id: 80,
+        expression: "Я решил пригласить тебя на свой день рождения",
+        transcription: "aɪ dɪˈsaɪdɪd tʊ ɪnˈvaɪt jʊ tə maɪ ˈbɜːθdeɪ (ˈpɑːti)",
+        translation: "I decided to invite you to my birthday (party)",
+      },
+      {
+        id: 81,
+        expression: "Он решил пригласить ее на свой день рождения",
+        transcription: "hi dɪˈsaɪdɪd tʊ ɪnˈvaɪt hə tə ɪz ˈbɜːθdeɪ",
+        translation: "He decided to invite her to his birthday",
+      },
+      {
+        id: 82,
+        expression: "Я решил пригласить их на мой день рождения",
+        transcription: "aɪ dɪˈsaɪdɪd tʊ ɪnˈvaɪt ðəm tə maɪ ˈbɜːθdeɪ",
+        translation: "I decided to invite them to my birthday",
+      },
+      {
+        id: 83,
+        expression: "Я позвонил пожелать ему скорейшего выздоровления",
+        transcription: "aɪ kɔːld tə wɪʃ ɪm ə ˈspiːdi rɪˈkʌvəri",
+        translation: "I called to wish him a speedy recovery",
+      },
+      {
+        id: 84,
+        expression: "Я позвонил пожелать ей скорейшего выздоровления",
+        transcription: "aɪ kɔːld tə wɪʃ hər ə ˈspiːdi rɪˈkʌvəri",
+        translation: "I called to wish her a speedy recovery",
+      },
+      {
+        id: 85,
+        expression: "Я позвонил пожелать ему счастья",
+        transcription: "aɪ kɔːl tə wɪʃ ɪm ˈhæpɪnɪs",
+        translation: "I call to wish him happiness",
+      },
+      {
+        id: 86,
+        expression: "Мне нужно повернуть направо на перекрестке",
+        transcription: "aɪ niːd tə tɜːn raɪt ət ðə ˈkrɒsˌrəʊdz",
+        translation: "I need to turn right at the crossroads",
+      },
+      {
+        id: 87,
+        expression: "Я предпочел не рассказывать ему эту вещь",
+        transcription: "aɪ prɪˈfɜːd nɒt tə tɛl ɪm ðɪs θɪŋ",
+        translation: "I preferred not to tell him this thing",
+      },
+      {
+        id: 88,
+        expression: "Я сравнил эти два отеля и выбрал первый",
+        transcription: "aɪ kəmˈpeəd ðiːz tuː həʊˈtɛlz ənd ʧəʊz ðə fɜːst wʌn",
+        translation: "I compared these two hotels and chose the first one",
+      },
+      {
+        id: 89,
+        expression: "Успех проекта зависел от нас",
+        transcription: "ðə səkˈsɛs əv ðə ˈprɒʤɛkt dɪˈpɛndɪd ɒn ʌs",
+        translation: "The success of the project depended on us",
+      },
+      {
+        id: 90,
+        expression: "Я повернул налево на перекрестке",
+        transcription: "aɪ tɜːnd lɛft ət ðə ˈkrɒsˌrəʊdz",
+        translation: "I turned left at the crossroads",
+      },
+      {
+        id: 91,
+        expression: "Это помогло мне развить мои аналитические способности",
+        transcription: "ɪt hɛlpt mi dɪˈvɛləp maɪ ˌænəˈlɪtɪkəl əˈbɪlɪtiz",
+        translation: "It helped me develop my analytical abilities",
+      },
+      {
+        id: 92,
+        expression: "Мой друг женился очень молодым",
+        transcription: "maɪ frɛnd ˈmærɪd ˈvɛri jʌŋ",
+        translation: "My friend married very young",
+      },
+      {
+        id: 93,
+        expression: "Я пожелал ему скорейшего выздоровления",
+        transcription: "aɪ wɪʃt ɪm ə ˈspiːdi rɪˈkʌvəri",
+        translation: "I wished him a speedy recovery",
+      },
+      {
+        id: 94,
+        expression: "Я предпочел не делать этого",
+        transcription: "aɪ prɪˈfɜːd nɒt tə dʊ ɪt",
+        translation: "I preferred not to do it",
+      },
+      {
+        id: 95,
+        expression: "Я сравнил несколько курсов и решил выбрать этот",
+        transcription:
+          "aɪ kəmˈpeəd ˈsɛvrəl ˈkɔːsɪz ənd dɪˈsaɪdɪd tə ʧuːz ðɪs wʌn",
+        translation:
+          "I compared several courses and decided to choose this one",
+      },
+      {
+        id: 96,
+        expression: "Я закончил печатать этот текст",
+        transcription: "aɪ ˈfɪnɪʃt ˈtaɪpɪŋ ðɪs tɛkst",
+        translation: "I finished typing this text",
+      },
+      {
+        id: 97,
+        expression: "Я предпочел не говорить этого",
+        transcription: "aɪ prɪˈfɜːd nɒt tə seɪ ɪt",
+        translation: "I preferred not to say it",
+      },
+      {
+        id: 98,
+        expression: "Я действительно любил это делать",
+        transcription: "aɪ ˈrɪəli lʌvd ˈdu(ː)ɪŋ ɪt",
+        translation: "I really loved doing it",
+      },
+      {
+        id: 99,
+        expression: "Этот курс помог мне подготовиться к экзамену",
+        transcription: "ðɪs kɔːs hɛlpt miː (tuː) prɪˈpeə fə ði ɪgˈzæm",
+        translation: "This course helped me (to) prepare for the exam",
+      },
+      {
+        id: 100,
+        expression: "Я решил закрыть окно",
+        transcription: "aɪ dɪˈsaɪdɪd tə kləʊs ðə ˈwɪndəʊ",
+        translation: "I decided to close the window",
+      },
+    ],
+    {
+      theory: `<div class="theory-block">
+<h3>Закрепление пройденного материала</h3>
+</div>`,
+    },
+  ],
+];

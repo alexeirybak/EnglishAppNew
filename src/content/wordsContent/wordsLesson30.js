@@ -1,0 +1,100 @@
+export const wordsLesson30 = [
+  [
+    {
+      id: 1,
+      word: 'ago',
+      transcription: 'əˈgəʊ',
+      translation: 'назад',
+    },
+    {
+      id: 2,
+      word: 'app, application',
+      transcription: 'æp, ˌæplɪˈkeɪʃ(ə)n',
+      translation: 'приложение',
+    },
+    {
+      id: 3,
+      word: 'compare',
+      transcription: 'kəmˈpeə',
+      translation: 'сравнивать',
+    },
+    {
+      id: 4,
+      word: 'fail',
+      transcription: 'feɪl',
+      translation: 'провалить',
+    },
+    {
+      id: 5,
+      word: 'France',
+      transcription: 'ˈfrɑːns',
+      translation: 'Франция',
+    },
+    {
+      id: 6,
+      word: 'high',
+      transcription: 'haɪ',
+      translation: 'высокий, высоко',
+    },
+    {
+      id: 7,
+      word: 'jump',
+      transcription: 'ʤʌmp',
+      translation: 'прыгать',
+    },
+    {
+      id: 8,
+      word: 'link',
+      transcription: 'lɪŋk',
+      translation: 'ссылка',
+    },
+    {
+      id: 9,
+      word: 'move',
+      transcription: 'muːv',
+      translation: 'двигаться',
+    },
+    {
+      id: 10,
+      word: 'quickly',
+      transcription: 'ˈkwɪkli',
+      translation: 'быстро',
+    },
+    {
+      id: 11,
+      word: 'save',
+      transcription: 'seɪv',
+      translation: 'сохранять',
+    },
+    {
+      id: 12,
+      word: 'share',
+      transcription: 'ʃeə',
+      translation: 'делиться',
+    },
+    {
+      id: 13,
+      word: 'training',
+      transcription: 'ˈtreɪnɪŋ',
+      translation: 'тренировка',
+    },
+    {
+      id: 14,
+      word: 'trip',
+      transcription: 'trɪp',
+      translation: 'поездка',
+    },
+    {
+      id: 15,
+      word: 'yesterday',
+      transcription: 'ˈjɛstədeɪ',
+      translation: 'вчера',
+    },
+    {
+      id: 16,
+      word: 'correct',
+      transcription: 'kəˈrɛkt',
+      translation: 'исправлять',
+    },
+  ],
+];

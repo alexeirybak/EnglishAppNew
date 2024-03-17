@@ -1,0 +1,35 @@
+.theory-block {
+  border: 3px dotted #555;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+@media (width <= 425px) {
+  .theory-block {
+    border: none;
+    padding: 5px;
+  }
+}
+
+.theory-block p {
+  line-height: 2rem;
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+
+.theory-block h3 {
+  line-height: 2.5rem;
+  color: #2196f3;
+}
+
+span {
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #f1c40f;
+  background-color: var(--span-text);
+}
+
+.article {
+  background-image: url('/public/img/bg_London.png');
+}

@@ -1,0 +1,118 @@
+export const wordsLesson11 = [
+  [
+    {
+      id: 1,
+      word: 'application',
+      transcription: 'ˌæplɪˈkeɪʃ(ə)n',
+      translation: 'приложение',
+    },
+    {
+      id: 2,
+      word: 'clothes',
+      transcription: 'kləʊðz',
+      translation: 'одежда',
+    },
+    {
+      id: 3,
+      word: 'come',
+      transcription: 'kʌm',
+      translation: 'приходить',
+    },
+    {
+      id: 4,
+      word: 'cook',
+      transcription: 'kʊk',
+      translation: 'готовить',
+    },
+    {
+      id: 5,
+      word: 'cooking',
+      transcription: 'ˈkʊkɪŋ',
+      translation: 'готовка',
+    },
+    {
+      id: 6,
+      word: 'dance',
+      transcription: 'dɑːns',
+      translation: 'танцевать',
+    },
+    {
+      id: 7,
+      word: 'early',
+      transcription: 'ˈɜːli',
+      translation: 'рано',
+    },
+    {
+      id: 8,
+      word: 'enough',
+      transcription: 'ɪˈnʌf',
+      translation: 'достаточно',
+    },
+    {
+      id: 9,
+      word: 'get up',
+      transcription: 'gɛt ʌp',
+      translation: 'вставать',
+    },
+    {
+      id: 10,
+      word: 'group',
+      transcription: 'gruːp',
+      translation: 'группа',
+    },
+    {
+      id: 11,
+      word: 'home',
+      transcription: 'həʊm',
+      translation: 'дом, домой',
+    },
+    {
+      id: 12,
+      word: 'late',
+      transcription: 'leɪt',
+      translation: 'поздно',
+    },
+    {
+      id: 13,
+      word: 'order',
+      transcription: 'ˈɔːdə',
+      translation: 'заказ, заказывать',
+    },
+    {
+      id: 14,
+      word: 'pet',
+      transcription: 'pɛt',
+      translation: 'домашнее животное',
+    },
+    {
+      id: 15,
+      word: 'profession',
+      transcription: 'prəˈfɛʃən',
+      translation: 'профессия',
+    },
+    {
+      id: 16,
+      word: 'recommend',
+      transcription: 'ˌrɛkəˈmɛnd',
+      translation: 'рекомендовать',
+    },
+    {
+      id: 17,
+      word: 'shop',
+      transcription: 'ʃɒp',
+      translation: 'магазин',
+    },
+    {
+      id: 18,
+      word: 'toy',
+      transcription: 'tɔɪ',
+      translation: 'игрушка',
+    },
+    {
+      id: 19,
+      word: 'wake up',
+      transcription: 'weɪk ʌp',
+      translation: 'просыпаться',
+    },
+  ],
+];

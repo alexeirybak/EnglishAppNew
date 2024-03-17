@@ -1,0 +1,118 @@
+export const wordsLesson294 = [
+  [
+    {
+      id: 1,
+      word: 'additionally',
+      transcription: 'əˈdɪʃᵊnᵊli',
+      translation: 'кроме того, дополнительно',
+    },
+    {
+      id: 2,
+      word: 'admittedly',
+      transcription: 'ədˈmɪtɪdli',
+      translation: 'предположительно',
+    },
+    {
+      id: 3,
+      word: 'broadly',
+      transcription: 'ˈbrɔːdli',
+      translation: 'широко',
+    },
+    {
+      id: 4,
+      word: 'conscience',
+      transcription: 'ˈkɒnʃəns',
+      translation: 'совесть',
+    },
+    {
+      id: 5,
+      word: 'consuming',
+      transcription: 'kənˈsjuːmɪŋ',
+      translation: 'трудоемкий, потребляющий',
+    },
+    {
+      id: 6,
+      word: 'conviction',
+      transcription: 'kənˈvɪkʃᵊn',
+      translation: 'убеждение',
+    },
+    {
+      id: 7,
+      word: 'curiously',
+      transcription: 'ˈkjʊəriəsli',
+      translation: 'любопытно',
+    },
+    {
+      id: 8,
+      word: 'fabulous',
+      transcription: 'ˈfæbjələs',
+      translation: 'баснословный',
+    },
+    {
+      id: 9,
+      word: 'fluent',
+      transcription: 'ˈfluːənt',
+      translation: 'беглый, свободный',
+    },
+    {
+      id: 10,
+      word: 'founder',
+      transcription: 'ˈfaʊndə',
+      translation: 'основатель',
+    },
+    {
+      id: 11,
+      word: 'funnily',
+      transcription: 'ˈfʌnɪli',
+      translation: 'забавно, странно',
+    },
+    {
+      id: 12,
+      word: 'intentionally',
+      transcription: 'ɪnˈtɛnʃᵊnᵊli',
+      translation: 'намеренно',
+    },
+    {
+      id: 13,
+      word: 'irrespective',
+      transcription: 'ˌɪrɪsˈpɛktɪv',
+      translation: 'независимо',
+    },
+    {
+      id: 14,
+      word: 'oddly',
+      transcription: 'ˈɒdli',
+      translation: 'странно',
+    },
+    {
+      id: 15,
+      word: 'token',
+      transcription: 'ˈtəʊkən',
+      translation: 'знак, символ',
+    },
+    {
+      id: 16,
+      word: 'undergo',
+      transcription: 'ˌʌndəˈɡəʊ',
+      translation: 'подвергаться, испытывать',
+    },
+    {
+      id: 17,
+      word: 'unintentionally',
+      transcription: 'ˌʌnɪnˈtɛnʃᵊnᵊli',
+      translation: 'непреднамеренно',
+    },
+    {
+      id: 18,
+      word: 'unite',
+      transcription: 'juːˈnaɪt',
+      translation: 'объединять',
+    },
+    {
+      id: 19,
+      word: 'unstoppable',
+      transcription: 'ʌnˈstɒpəbᵊl',
+      translation: 'неостановимый',
+    },
+  ],
+];

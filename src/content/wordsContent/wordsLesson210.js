@@ -1,0 +1,112 @@
+export const wordsLesson210 = [
+  [
+    {
+      id: 1,
+      word: 'affair',
+      transcription: 'əˈfeə',
+      translation: 'дело',
+    },
+    {
+      id: 2,
+      word: 'antibiotic',
+      transcription: 'ˌæntɪbaɪˈɒtɪk',
+      translation: 'антибиотик',
+    },
+    {
+      id: 3,
+      word: 'chaos',
+      transcription: 'ˈkeɪɒs',
+      translation: 'хаос',
+    },
+    {
+      id: 4,
+      word: 'compensate',
+      transcription: 'ˈkɒmpɛnseɪt',
+      translation: 'компенсировать',
+    },
+    {
+      id: 5,
+      word: 'earnings',
+      transcription: 'ˈɜːnɪŋz',
+      translation: 'заработок',
+    },
+    {
+      id: 6,
+      word: 'housing',
+      transcription: 'ˈhaʊzɪŋ',
+      translation: 'жилье',
+    },
+    {
+      id: 7,
+      word: 'interfere',
+      transcription: 'ˌɪntəˈfɪə',
+      translation: 'вмешиваться',
+    },
+    {
+      id: 8,
+      word: 'luxury',
+      transcription: 'ˈlʌkʃəri',
+      translation: 'роскошный',
+    },
+    {
+      id: 9,
+      word: 'miraculous',
+      transcription: 'mɪˈrækjʊləs',
+      translation: 'чудесный',
+    },
+    {
+      id: 10,
+      word: 'observe',
+      transcription: 'əbˈzɜːv',
+      translation: 'наблюдать',
+    },
+    {
+      id: 11,
+      word: 'population',
+      transcription: 'ˌpɒpjʊˈleɪʃᵊn',
+      translation: 'население',
+    },
+    {
+      id: 12,
+      word: 'production',
+      transcription: 'prəˈdʌkʃᵊn',
+      translation: 'производство',
+    },
+    {
+      id: 13,
+      word: 'stare',
+      transcription: 'steə',
+      translation: 'пялиться',
+    },
+    {
+      id: 14,
+      word: 'superior',
+      transcription: 'suːˈpɪəriə',
+      translation: 'превосходный',
+    },
+    {
+      id: 15,
+      word: 'temper',
+      transcription: 'ˈtɛmpə',
+      translation: 'характер',
+    },
+    {
+      id: 16,
+      word: 'unemployed',
+      transcription: 'ˌʌnɪmˈplɔɪd',
+      translation: 'безработный',
+    },
+    {
+      id: 17,
+      word: 'unemployment',
+      transcription: 'ˌʌnɪmˈplɔɪmənt',
+      translation: 'безработица',
+    },
+    {
+      id: 18,
+      word: 'unprecedentedly',
+      transcription: 'ʌnˈprɛsɪdəntɪdli',
+      translation: 'беспрецедентный',
+    },
+  ],
+];

@@ -1,0 +1,106 @@
+export const wordsLesson192 = [
+  [
+    {
+      id: 1,
+      word: 'attentive',
+      transcription: 'əˈtɛntɪv',
+      translation: 'внимательный',
+    },
+    {
+      id: 2,
+      word: 'broad-minded',
+      transcription: 'brɔːd-ˈmaɪndɪd',
+      translation: 'с широким кругозором',
+    },
+    {
+      id: 3,
+      word: 'competent',
+      transcription: 'ˈkɒmpɪtənt',
+      translation: 'компетентный',
+    },
+    {
+      id: 4,
+      word: 'decisive',
+      transcription: 'dɪˈsaɪsɪv',
+      translation: 'решительный',
+    },
+    {
+      id: 5,
+      word: 'embarrassed',
+      transcription: 'ɪmˈbærəst',
+      translation: 'смущенный',
+    },
+    {
+      id: 6,
+      word: 'handsome',
+      transcription: 'ˈhænsəm',
+      translation: 'красивый',
+    },
+    {
+      id: 7,
+      word: 'incompetent',
+      transcription: 'ɪnˈkɒmpɪtənt',
+      translation: 'некомпетентный',
+    },
+    {
+      id: 8,
+      word: 'individual',
+      transcription: 'ˌɪndɪˈvɪdjʊəl',
+      translation: 'индивидуальный',
+    },
+    {
+      id: 9,
+      word: 'internal',
+      transcription: 'ɪnˈtɜːnl',
+      translation: 'внутренний',
+    },
+    {
+      id: 10,
+      word: 'practical',
+      transcription: 'ˈpræktɪkəl',
+      translation: 'практический',
+    },
+    {
+      id: 11,
+      word: 'psychological',
+      transcription: 'ˌsaɪkəˈlɒʤɪkəl',
+      translation: 'психологический',
+    },
+    {
+      id: 12,
+      word: 'quick',
+      transcription: 'kwɪk',
+      translation: 'быстрый',
+    },
+    {
+      id: 13,
+      word: 'self-confident',
+      transcription: 'sɛlf-ˈkɒnfɪdənt',
+      translation: 'самоуверенный',
+    },
+    {
+      id: 14,
+      word: 'shy',
+      transcription: 'ʃaɪ',
+      translation: 'застенчивый, скромный',
+    },
+    {
+      id: 15,
+      word: 'sociable',
+      transcription: 'ˈsəʊʃəbl',
+      translation: 'общительный',
+    },
+    {
+      id: 16,
+      word: 'thick',
+      transcription: 'θɪk',
+      translation: 'густой, толстый',
+    },
+    {
+      id: 17,
+      word: 'wooden',
+      transcription: 'ˈwʊdn',
+      translation: 'деревянный',
+    },
+  ],
+];

@@ -1,0 +1,106 @@
+export const wordsLesson87 = [
+  [
+    {
+      id: 1,
+      word: 'attack',
+      transcription: 'əˈtæk',
+      translation: 'атака, атаковать',
+    },
+    {
+      id: 2,
+      word: 'the authorities',
+      transcription: 'ði ɔːˈθɒrɪtiz',
+      translation: 'власти',
+    },
+    {
+      id: 3,
+      word: 'cheek',
+      transcription: 'ʧiːk',
+      translation: 'щека',
+    },
+    {
+      id: 4,
+      word: 'during',
+      transcription: 'ˈdjʊərɪŋ',
+      translation: 'во время, в течение',
+    },
+    {
+      id: 5,
+      word: 'enemy',
+      transcription: 'ˈɛnɪmi',
+      translation: 'враг',
+    },
+    {
+      id: 6,
+      word: 'farm',
+      transcription: 'fɑːm',
+      translation: 'ферма',
+    },
+    {
+      id: 7,
+      word: 'a few',
+      transcription: 'ə fjuː',
+      translation: 'несколько',
+    },
+    {
+      id: 8,
+      word: 'fortunately',
+      transcription: 'ˈfɔːʧnɪtli',
+      translation: 'к счастью',
+    },
+    {
+      id: 9,
+      word: 'lip',
+      transcription: 'lɪp',
+      translation: 'губа',
+    },
+    {
+      id: 10,
+      word: 'look up',
+      transcription: 'lʊk ʌp',
+      translation: 'посмотреть, взглянуть',
+    },
+    {
+      id: 11,
+      word: 'map',
+      transcription: 'mæp',
+      translation: 'карта',
+    },
+    {
+      id: 12,
+      word: 'mirror',
+      transcription: 'ˈmɪrə',
+      translation: 'зеркало',
+    },
+    {
+      id: 13,
+      word: 'peacefully',
+      transcription: 'ˈpiːsfʊli',
+      translation: 'мирно',
+    },
+    {
+      id: 14,
+      word: 'someone',
+      transcription: 'ˈsʌmwʌn',
+      translation: 'кто-нибудь, кто-то',
+    },
+    {
+      id: 15,
+      word: 'successfully',
+      transcription: 'səkˈsɛsfʊli',
+      translation: 'успешно',
+    },
+    {
+      id: 16,
+      word: 'tour',
+      transcription: 'tʊə',
+      translation: 'тур',
+    },
+    {
+      id: 17,
+      word: 'thought',
+      transcription: 'θɔːt',
+      translation: 'мысль',
+    },
+  ],
+];

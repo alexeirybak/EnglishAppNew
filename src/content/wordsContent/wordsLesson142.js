@@ -1,0 +1,100 @@
+export const wordsLesson142 = [
+  [
+    {
+      id: 1,
+      word: 'broad',
+      transcription: 'brɔːd',
+      translation: 'широкий',
+    },
+    {
+      id: 2,
+      word: 'dirty',
+      transcription: 'ˈdɜːti',
+      translation: 'грязный',
+    },
+    {
+      id: 3,
+      word: 'grey',
+      transcription: 'greɪ',
+      translation: 'серый',
+    },
+    {
+      id: 4,
+      word: 'hero',
+      transcription: 'ˈhɪərəʊ',
+      translation: 'герой',
+    },
+    {
+      id: 5,
+      word: 'hers',
+      transcription: 'hɜːz',
+      translation: 'ее',
+    },
+    {
+      id: 6,
+      word: 'illegal',
+      transcription: 'ɪˈliːgəl',
+      translation: 'незаконный',
+    },
+    {
+      id: 7,
+      word: 'national',
+      transcription: 'ˈnæʃənl',
+      translation: 'национальный',
+    },
+    {
+      id: 8,
+      word: 'ordinary',
+      transcription: 'ˈɔːdnri',
+      translation: 'обычный',
+    },
+    {
+      id: 9,
+      word: 'planet',
+      transcription: 'ˈplænɪt',
+      translation: 'планета',
+    },
+    {
+      id: 10,
+      word: 'political',
+      transcription: 'pəˈlɪtɪkəl',
+      translation: 'политический',
+    },
+    {
+      id: 11,
+      word: 'safe',
+      transcription: 'seɪf',
+      translation: 'безопасный',
+    },
+    {
+      id: 12,
+      word: 'security',
+      transcription: 'sɪˈkjʊərɪti',
+      translation: 'безопасность',
+    },
+    {
+      id: 13,
+      word: 'shoulder',
+      transcription: 'ˈʃəʊldə',
+      translation: 'плечо',
+    },
+    {
+      id: 14,
+      word: 'total',
+      transcription: 'ˈtəʊtl',
+      translation: 'общий',
+    },
+    {
+      id: 15,
+      word: 'trend',
+      transcription: 'trɛnd',
+      translation: 'тренд',
+    },
+    {
+      id: 16,
+      word: 'patient',
+      transcription: 'ˈpeɪʃənt',
+      translation: 'терпеливый',
+    },
+  ],
+];

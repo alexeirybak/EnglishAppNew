@@ -1,0 +1,100 @@
+export const wordsLesson185 = [
+  [
+    {
+      id: 1,
+      word: 'bizarre',
+      transcription: 'bɪˈzɑː',
+      translation: 'странный',
+    },
+    {
+      id: 2,
+      word: 'emotional',
+      transcription: 'ɪˈməʊʃənl',
+      translation: 'эмоциональный',
+    },
+    {
+      id: 3,
+      word: 'equal',
+      transcription: 'ˈiːkwəl',
+      translation: 'равный',
+    },
+    {
+      id: 4,
+      word: 'external',
+      transcription: 'ɛksˈtɜːnl',
+      translation: 'внешний',
+    },
+    {
+      id: 5,
+      word: 'function',
+      transcription: 'ˈfʌŋkʃən',
+      translation: 'функция',
+    },
+    {
+      id: 6,
+      word: 'gigantic',
+      transcription: 'ʤaɪˈgæntɪk',
+      translation: 'гигантский',
+    },
+    {
+      id: 7,
+      word: 'inactive',
+      transcription: 'ɪnˈæktɪv',
+      translation: 'неактивный',
+    },
+    {
+      id: 8,
+      word: 'manner',
+      transcription: 'ˈmænə',
+      translation: 'манера',
+    },
+    {
+      id: 9,
+      word: 'manufacture',
+      transcription: 'ˌmænjʊˈfækʧə',
+      translation: 'производство',
+    },
+    {
+      id: 10,
+      word: 'mysterious',
+      transcription: 'mɪsˈtɪərɪəs',
+      translation: 'загадочный',
+    },
+    {
+      id: 11,
+      word: 'painful',
+      transcription: 'ˈpeɪnfʊl',
+      translation: 'болезненный',
+    },
+    {
+      id: 12,
+      word: 'sincere',
+      transcription: 'sɪnˈsɪə',
+      translation: 'искренний',
+    },
+    {
+      id: 13,
+      word: 'sourсe',
+      transcription: 'sɔːs',
+      translation: 'источник',
+    },
+    {
+      id: 14,
+      word: 'temporarily',
+      transcription: 'ˈtɛmpərərɪli',
+      translation: 'временно',
+    },
+    {
+      id: 15,
+      word: 'unreliable',
+      transcription: 'ˌʌnrɪˈlaɪəbl',
+      translation: 'ненадежный',
+    },
+    {
+      id: 16,
+      word: 'face',
+      transcription: 'feɪs',
+      translation: 'сталкиваться',
+    },
+  ],
+];

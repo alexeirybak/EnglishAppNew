@@ -1,0 +1,118 @@
+export const wordsLesson233 = [
+  [
+    {
+      id: 1,
+      word: 'background',
+      transcription: 'ˈbækɡraʊnd',
+      translation: 'фон',
+    },
+    {
+      id: 2,
+      word: 'collocation',
+      transcription: 'ˌkɒləʊˈkeɪʃᵊn',
+      translation: 'словосочетание',
+    },
+    {
+      id: 3,
+      word: 'concerning',
+      transcription: 'kənˈsɜːnɪŋ',
+      translation: 'касательно',
+    },
+    {
+      id: 4,
+      word: 'contraction',
+      transcription: 'kənˈtrækʃᵊn',
+      translation: 'сокращение',
+    },
+    {
+      id: 5,
+      word: 'digest',
+      transcription: 'ˈdaɪʤɛst',
+      translation: 'переваривать',
+    },
+    {
+      id: 6,
+      word: 'enjoyable',
+      transcription: 'ɪnˈʤɔɪəbᵊl',
+      translation: 'приятный',
+    },
+    {
+      id: 7,
+      word: 'exaggeration',
+      transcription: 'ɪɡˌzæʤəˈreɪʃᵊn',
+      translation: 'преувеличение',
+    },
+    {
+      id: 8,
+      word: 'idiom',
+      transcription: 'ˈɪdɪəm',
+      translation: 'идиома',
+    },
+    {
+      id: 9,
+      word: 'load',
+      transcription: 'ləʊd',
+      translation: 'загружать',
+    },
+    {
+      id: 10,
+      word: 'mass media',
+      transcription: 'mæs ˈmiːdiə',
+      translation: 'СМИ',
+    },
+    {
+      id: 11,
+      word: 'nationality',
+      transcription: 'ˌnæʃəˈnælɪti',
+      translation: 'национальность',
+    },
+    {
+      id: 12,
+      word: 'needless',
+      transcription: 'ˈniːdlɪs',
+      translation: 'излишне',
+    },
+    {
+      id: 13,
+      word: 'non native speaker',
+      transcription: 'nɒn-ˈneɪtɪv ˈspiːkə',
+      translation: 'не носитель языка',
+    },
+    {
+      id: 14,
+      word: 'phrasal verb',
+      transcription: 'ˈfreɪzᵊl vɜːb',
+      translation: 'фразовый глагол',
+    },
+    {
+      id: 15,
+      word: 'precise',
+      transcription: 'prɪˈsaɪs',
+      translation: 'точный',
+    },
+    {
+      id: 16,
+      word: 'precisely',
+      transcription: 'prɪˈsaɪsli',
+      translation: 'точность',
+    },
+    {
+      id: 17,
+      word: 'priority',
+      transcription: 'praɪˈɒrɪti',
+      translation: 'приоритет',
+    },
+    {
+      id: 18,
+      word: 'shopaholic',
+      transcription: 'ˌʃɒpəˈhɒlɪk',
+      translation: 'шопоголик',
+    },
+    {
+      id: 19,
+      word: 'undeniable',
+      transcription: 'ˌʌndɪˈnaɪəbᵊl',
+      translation: 'бесспорный',
+    },
+  ],
+];

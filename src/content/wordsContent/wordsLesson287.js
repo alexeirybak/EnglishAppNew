@@ -1,0 +1,118 @@
+export const wordsLesson287 = [
+  [
+    {
+      id: 1,
+      word: 'abundantly',
+      transcription: 'əˈbʌndəntli',
+      translation: 'совершенно, обильно',
+    },
+    {
+      id: 2,
+      word: 'applicant',
+      transcription: 'ˈæplɪkənt',
+      translation: 'претендент',
+    },
+    {
+      id: 3,
+      word: 'competence',
+      transcription: 'ˈkɒmpɪtəns',
+      translation: 'компетентность',
+    },
+    {
+      id: 4,
+      word: 'compromise',
+      transcription: 'ˈkɒmprəmaɪz',
+      translation: 'компромисс',
+    },
+    {
+      id: 5,
+      word: 'crystal',
+      transcription: 'ˈkrɪstl',
+      translation: 'кристальный',
+    },
+    {
+      id: 6,
+      word: 'dominate',
+      transcription: 'ˈdɒmɪneɪt',
+      translation: 'доминировать',
+    },
+    {
+      id: 7,
+      word: 'foresee',
+      transcription: 'fɔːˈsiː',
+      translation: 'предвидеть',
+    },
+    {
+      id: 8,
+      word: 'legend',
+      transcription: 'ˈlɛʤənd',
+      translation: 'легенда',
+    },
+    {
+      id: 9,
+      word: 'misinterpret',
+      transcription: 'ˌmɪsɪnˈtɜːprət',
+      translation: 'неправильно интерпретировать',
+    },
+    {
+      id: 10,
+      word: 'perk',
+      transcription: 'pɜːk',
+      translation: 'льгота',
+    },
+    {
+      id: 11,
+      word: 'riser',
+      transcription: 'ˈraɪzə',
+      translation: 'тот, кто встает',
+    },
+    {
+      id: 12,
+      word: 'summarise',
+      transcription: 'ˈsʌməraɪz',
+      translation: 'подводить итог',
+    },
+    {
+      id: 13,
+      word: 'thirdly',
+      transcription: 'ˈθɜːdli',
+      translation: 'в-третьих',
+    },
+    {
+      id: 14,
+      word: 'thus',
+      transcription: 'ðʌs',
+      translation: 'таким образом',
+    },
+    {
+      id: 15,
+      word: 'uncover',
+      transcription: 'ʌnˈkʌvə',
+      translation: 'раскрывать',
+    },
+    {
+      id: 16,
+      word: 'unlike',
+      transcription: 'ʌnˈlaɪk',
+      translation: 'в отличие от',
+    },
+    {
+      id: 17,
+      word: 'unrealistic',
+      transcription: 'ˌʌnrɪəˈlɪstɪk',
+      translation: 'нереалистичный',
+    },
+    {
+      id: 18,
+      word: 'unveil',
+      transcription: 'ʌnˈveɪl',
+      translation: 'раскрывать',
+    },
+    {
+      id: 19,
+      word: 'workaholic',
+      transcription: 'ˌwɜːkəˈhɒlɪk',
+      translation: 'трудоголик',
+    },
+  ],
+];

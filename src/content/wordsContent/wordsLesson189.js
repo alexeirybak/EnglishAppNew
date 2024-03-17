@@ -1,0 +1,112 @@
+export const wordsLesson189 = [
+  [
+    {
+      id: 1,
+      word: 'calm',
+      transcription: 'kɑːm',
+      translation: 'спокойный',
+    },
+    {
+      id: 2,
+      word: 'cautious',
+      transcription: 'ˈkɔːʃəs',
+      translation: 'осторожный',
+    },
+    {
+      id: 3,
+      word: 'consequence',
+      transcription: 'ˈkɒnsɪkwəns',
+      translation: 'следствие',
+    },
+    {
+      id: 4,
+      word: 'exclusive',
+      transcription: 'ɪksˈkluːsɪv',
+      translation: 'эксклюзивный',
+    },
+    {
+      id: 5,
+      word: 'fair',
+      transcription: 'feə',
+      translation: 'справедливый',
+    },
+    {
+      id: 6,
+      word: 'faithful',
+      transcription: 'ˈfeɪθfʊl',
+      translation: 'верный',
+    },
+    {
+      id: 7,
+      word: 'instrument',
+      transcription: 'ˈɪnstrʊmənt',
+      translation: 'инструмент',
+    },
+    {
+      id: 8,
+      word: 'jet',
+      transcription: 'ʤɛt',
+      translation: 'реактивный самолет, самолет',
+    },
+    {
+      id: 9,
+      word: 'musical',
+      transcription: 'ˈmjuːzɪkəl',
+      translation: 'музыкальный',
+    },
+    {
+      id: 10,
+      word: 'practically',
+      transcription: 'ˈpræktɪk(ə)li',
+      translation: 'практически',
+    },
+    {
+      id: 11,
+      word: 'primary',
+      transcription: 'ˈpraɪməri',
+      translation: 'первоначальный, основной',
+    },
+    {
+      id: 12,
+      word: 'property',
+      transcription: 'ˈprɒpəti',
+      translation: 'собственность',
+    },
+    {
+      id: 13,
+      word: 'range',
+      transcription: 'reɪnʤ',
+      translation: 'ассортимент, спектр',
+    },
+    {
+      id: 14,
+      word: 'secure',
+      transcription: 'sɪˈkjʊə',
+      translation: 'безопасный',
+    },
+    {
+      id: 15,
+      word: 'treatment',
+      transcription: 'ˈtriːtmənt',
+      translation: 'лечение, обращение',
+    },
+    {
+      id: 16,
+      word: 'uncertain',
+      transcription: 'ʌnˈsɜːtn',
+      translation: 'неуверенный',
+    },
+    {
+      id: 17,
+      word: 'unemotional',
+      transcription: 'ˌʌnɪˈməʊʃənl',
+      translation: 'безэмоциональный',
+    },
+    {
+      id: 18,
+      word: 'uninterested',
+      transcription: 'ʌnˈɪntrɪstɪd',
+      translation: 'незаинтересованный',
+    },
+  ],
+];

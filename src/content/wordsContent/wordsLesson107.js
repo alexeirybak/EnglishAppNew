@@ -1,0 +1,100 @@
+export const wordsLesson107 = [
+  [
+    {
+      id: 1,
+      word: 'April',
+      transcription: 'ˈeɪprəl',
+      translation: 'апрель',
+    },
+    {
+      id: 2,
+      word: 'August',
+      transcription: 'ˈɔːgəst',
+      translation: 'август',
+    },
+    {
+      id: 3,
+      word: 'Christmas',
+      transcription: 'ˈkrɪsməs',
+      translation: 'Рождество',
+    },
+    {
+      id: 4,
+      word: 'December',
+      transcription: 'dɪˈsɛmbə',
+      translation: 'декабрь',
+    },
+    {
+      id: 5,
+      word: 'February',
+      transcription: 'ˈfɛbrʊəri',
+      translation: 'февраль',
+    },
+    {
+      id: 6,
+      word: 'January',
+      transcription: 'ˈʤænjʊəri',
+      translation: 'январь',
+    },
+    {
+      id: 7,
+      word: 'July',
+      transcription: 'ʤu(ː)ˈlaɪ',
+      translation: 'июль',
+    },
+    {
+      id: 8,
+      word: 'June',
+      transcription: 'ʤuːn',
+      translation: 'июнь',
+    },
+    {
+      id: 9,
+      word: 'March',
+      transcription: 'mɑːʧ',
+      translation: 'март',
+    },
+    {
+      id: 10,
+      word: 'Mexico',
+      transcription: 'ˈmɛksɪkəʊ',
+      translation: 'Мексика',
+    },
+    {
+      id: 11,
+      word: 'middle',
+      transcription: 'ˈmɪdl',
+      translation: 'середина',
+    },
+    {
+      id: 12,
+      word: 'November',
+      transcription: 'nəʊˈvɛmbə',
+      translation: 'ноябрь',
+    },
+    {
+      id: 13,
+      word: 'October',
+      transcription: 'ɒkˈtəʊbə',
+      translation: 'октябрь',
+    },
+    {
+      id: 14,
+      word: 'September',
+      transcription: 'sɛpˈtɛmbə',
+      translation: 'сентябрь',
+    },
+    {
+      id: 15,
+      word: 'till (until)',
+      transcription: 'tɪl (ənˈtɪl)',
+      translation: 'до',
+    },
+    {
+      id: 16,
+      word: 'May',
+      transcription: 'meɪ',
+      translation: 'май',
+    },
+  ],
+];

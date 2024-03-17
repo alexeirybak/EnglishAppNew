@@ -1,0 +1,100 @@
+export const wordsLesson62 = [
+  [
+    {
+      id: 1,
+      word: 'chemistry',
+      transcription: 'ˈkɛmɪstri',
+      translation: 'химия',
+    },
+    {
+      id: 2,
+      word: 'community',
+      transcription: 'kəˈmjuːnɪti',
+      translation: 'сообщество',
+    },
+    {
+      id: 3,
+      word: 'composition',
+      transcription: 'ˌkɒmpəˈzɪʃən',
+      translation: 'сочинение',
+    },
+    {
+      id: 4,
+      word: 'economy',
+      transcription: 'i(ː)ˈkɒnəmi',
+      translation: 'экономика',
+    },
+    {
+      id: 5,
+      word: 'essay',
+      transcription: 'ˈɛseɪ',
+      translation: 'эссе',
+    },
+    {
+      id: 6,
+      word: 'history',
+      transcription: 'ˈhɪstəri',
+      translation: 'история',
+    },
+    {
+      id: 7,
+      word: 'image',
+      transcription: 'ˈɪmɪʤ',
+      translation: 'образ, имидж',
+    },
+    {
+      id: 8,
+      word: 'model',
+      transcription: 'ˈmɒdl',
+      translation: 'модель',
+    },
+    {
+      id: 9,
+      word: 'organization',
+      transcription: 'ˌɔːgənaɪˈzeɪʃən',
+      translation: 'организация',
+    },
+    {
+      id: 10,
+      word: 'outside',
+      transcription: 'ˌaʊtˈsaɪd',
+      translation: 'снаружи',
+    },
+    {
+      id: 11,
+      word: 'powerful',
+      transcription: 'ˈpaʊəfʊl',
+      translation: 'мощный',
+    },
+    {
+      id: 12,
+      word: 'reputation',
+      transcription: 'ˌrɛpju(ː)ˈteɪʃən',
+      translation: 'репутация',
+    },
+    {
+      id: 13,
+      word: 'tall',
+      transcription: 'tɔːl',
+      translation: 'высокий',
+    },
+    {
+      id: 14,
+      word: 'tax',
+      transcription: 'tæks',
+      translation: 'налог',
+    },
+    {
+      id: 15,
+      word: 'windy',
+      transcription: 'ˈwɪndi',
+      translation: 'ветренный',
+    },
+    {
+      id: 16,
+      word: 'present',
+      transcription: 'ˈprɛznt',
+      translation: 'настоящее',
+    },
+  ],
+];

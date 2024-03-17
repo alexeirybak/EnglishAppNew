@@ -1,0 +1,112 @@
+export const wordsLesson21 = [
+  [
+    {
+      id: 1,
+      word: 'after',
+      transcription: 'ˈɑːftə',
+      translation: 'после',
+    },
+    {
+      id: 2,
+      word: 'close',
+      transcription: 'kləʊs',
+      translation: 'закрывать',
+    },
+    {
+      id: 3,
+      word: 'could',
+      transcription: 'kʊd',
+      translation: 'мог, мог бы',
+    },
+    {
+      id: 4,
+      word: 'door',
+      transcription: 'dɔː',
+      translation: 'дверь',
+    },
+    {
+      id: 5,
+      word: 'example',
+      transcription: 'ɪgˈzɑːmpl',
+      translation: 'пример',
+    },
+    {
+      id: 6,
+      word: 'floor',
+      transcription: 'flɔː',
+      translation: 'пол',
+    },
+    {
+      id: 7,
+      word: 'give',
+      transcription: 'gɪv',
+      translation: 'давать',
+    },
+    {
+      id: 8,
+      word: 'homework',
+      transcription: 'ˈhəʊmˌwɜːk',
+      translation: 'домашнее задание',
+    },
+    {
+      id: 9,
+      word: 'later',
+      transcription: 'ˈleɪtə',
+      translation: 'позже',
+    },
+    {
+      id: 10,
+      word: 'letter',
+      transcription: 'ˈlɛtə',
+      translation: 'письмо',
+    },
+    {
+      id: 11,
+      word: 'open',
+      transcription: 'ˈəʊpən',
+      translation: 'открывать',
+    },
+    {
+      id: 12,
+      word: 'put',
+      transcription: 'pʊt',
+      translation: 'класть',
+    },
+    {
+      id: 13,
+      word: 'smoke',
+      transcription: 'sməʊk',
+      translation: 'курить',
+    },
+    {
+      id: 14,
+      word: 'stop',
+      transcription: 'stɒp',
+      translation: 'останавливаться',
+    },
+    {
+      id: 15,
+      word: 'story',
+      transcription: 'ˈstɔːri',
+      translation: 'история',
+    },
+    {
+      id: 16,
+      word: 'swim',
+      transcription: 'swɪm',
+      translation: 'плавать',
+    },
+    {
+      id: 17,
+      word: 'table',
+      transcription: 'ˈteɪbl',
+      translation: 'стол',
+    },
+    {
+      id: 18,
+      word: 'window',
+      transcription: 'ˈwɪndəʊ',
+      translation: 'окно',
+    },
+  ],
+];

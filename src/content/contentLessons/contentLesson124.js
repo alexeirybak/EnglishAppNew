@@ -1,0 +1,606 @@
+export const contentLesson124 = [
+  [
+    {
+      title: 'Урок 124. 9 Main Tenses: Revision and Comparison. Part 1',
+    },
+    [
+      {
+        id: 1,
+        expression: 'Я изучаю английский в течение года',
+        transcription: 'aɪv biːn ˈlɜːnɪŋ ˈɪŋglɪʃ fər ə jɪə',
+        translation: "I've been learning English for a year",
+      },
+      {
+        id: 2,
+        expression: 'Я иду в офис сейчас',
+        transcription: 'aɪm ˈgəʊɪŋ tə ði ˈɒfɪs naʊ',
+        translation: "I'm going to the office now",
+      },
+      {
+        id: 3,
+        expression: 'Как долго ты изучаешь испанский?',
+        transcription: 'haʊ lɒŋ həv jʊ biːn ˈlɜːnɪŋ ˈspænɪʃ?',
+        translation: 'How long have you been learning Spanish?',
+      },
+      {
+        id: 4,
+        expression:
+          'Когда она дала ему подарок, он улыбнулся ей и сказал: "Спасибо!"',
+        transcription:
+          'wɛn ʃi geɪv ɪm ə ˈprɛznt, hi smaɪld ət hər ənd sɛd "θæŋk"',
+        translation:
+          'When she gave him a present, he smiled at her and said "Thank"',
+      },
+      {
+        id: 5,
+        expression: 'Он приходит в офис в девять часов каждое утро',
+        transcription: 'hi kʌmz tə ði ˈɒfɪs ət naɪn əˈklɒk ˈɛvri ˈmɔːnɪŋ',
+        translation: "He comes to the office at nine o'clock every morning",
+      },
+      {
+        id: 6,
+        expression: 'Мой друг и я говорим об этом сейчас',
+        transcription: 'maɪ frɛnd ənd aɪ ə ˈtɔːkɪŋ əˈbaʊt ɪt naʊ',
+        translation: 'My friend and I are talking about it now',
+      },
+      {
+        id: 7,
+        expression: 'Когда я его увидел, он ей что-то объяснял',
+        transcription: 'wɛn aɪ sɔː hɪm, hi wəz ɪksˈpleɪnɪŋ ˈsʌmθɪŋ tə hɜː',
+        translation: 'When I saw him, he was explaining something to her',
+      },
+      {
+        id: 8,
+        expression:
+          'Он не может пойти на прогулку, потому что он делает свою домашнюю работу сейчас',
+        transcription:
+          'hi kɑːnt gəʊ fər ə wɔːk bɪˈkəz hi ˈdu(ː)ɪŋ ɪz ˈhəʊmˌwɜːk naʊ',
+        translation:
+          "He can't go for a walk because he' doing his homework now",
+      },
+      {
+        id: 9,
+        expression: 'Когда она вошла в комнату, дети играли',
+        transcription:
+          'wɛn ʃi keɪm ˈɪntuː (ˈɛntəd) ðə ruːm, ðə kɪdz (ˈʧɪldrən) wə ˈpleɪɪŋ',
+        translation:
+          'When she came into (entered) the room, the kids (children) were playing',
+      },
+      {
+        id: 10,
+        expression:
+          'Когда она открыла дверь, она сказала: "Добро пожаловать!"',
+        transcription: 'wɛn ʃi ˈəʊpənd ðə dɔː, ʃi sɛd "wɛlkəm"',
+        translation: 'When she opened the door, she said "Welcome"',
+      },
+      {
+        id: 11,
+        expression: 'Он останется в постели завтра, потому что он болен',
+        transcription: 'hiːl steɪ ɪn bɛd təˈmɒrəʊ bɪˈkəz hiːz ɪl (sɪk)',
+        translation: "He'll stay in bed tomorrow because he's ill (sick)",
+      },
+      {
+        id: 12,
+        expression: 'Когда твой брат обычно ложится спать?',
+        transcription: 'wɛn dəz jə ˈbrʌðə ˈjuːʒʊəli gəʊ tə bɛd?',
+        translation: 'When does your brother usually go to bed?',
+      },
+      {
+        id: 13,
+        expression: 'Я буду лежать в постели завтра, потому что я болен',
+        transcription: 'aɪl laɪ ɪn bɛd təˈmɒrəʊ bɪˈkəz aɪm sɪk',
+        translation: "I'll lie in bed tomorrow because I'm sick",
+      },
+      {
+        id: 14,
+        expression: 'Я работаю здесь два месяца',
+        transcription: 'aɪ həv biːn ˈwɜːkɪŋ hɪə fə tuː mʌnθs',
+        translation: 'I have been working here for two months',
+      },
+      {
+        id: 15,
+        expression: 'Когда я его увидел, она что-то объясняла ему',
+        transcription: 'wɛn aɪ sɔː hɪm, ʃi wəz ɪksˈpleɪnɪŋ ˈsʌmθɪŋ tə hɪm',
+        translation: 'When I saw him, she was explaining something to him',
+      },
+      {
+        id: 16,
+        expression: 'Ей десять, но ей будет одиннадцать на следующей неделе',
+        transcription: 'ʃiːz tɛn bət ʃiːl bi ɪˈlɛvn nɛkst wiːk',
+        translation: "She's ten but she'll be eleven next week",
+      },
+      {
+        id: 17,
+        expression: 'Я хочу сделать это прямо сейчас',
+        transcription: 'aɪ wɒnt tə dʊ ɪt raɪt naʊ',
+        translation: 'I want to do it right now',
+      },
+      {
+        id: 18,
+        expression: 'Он ждал его одобрения',
+        transcription: 'hi wəz ˈweɪtɪŋ fə hɪz əˈpruːvəl',
+        translation: 'He was waiting for his approval',
+      },
+      {
+        id: 19,
+        expression: 'Когда он увидел меня, он сказал: "Привет!"',
+        transcription: 'wɛn hi sɔː miː, hi sɛd "haɪ!"',
+        translation: 'When he saw me, he said "Hi!"',
+      },
+      {
+        id: 20,
+        expression: 'Когда я увидел его, я сказал: "Привет!"',
+        transcription: 'wɛn aɪ sɔː hɪm, aɪ sɛd "hɛˈləʊ!"',
+        translation: 'When I saw him, I said "Hello!"',
+      },
+      {
+        id: 21,
+        expression:
+          'Когда я сказал: "До свидания!", он сказал мне: "Пока!"',
+        transcription:
+          'wɛn aɪ sɔː "gʊdˈbaɪ!", hi təʊld miː "baɪ!"',
+        translation: 'When I saw "Goodbye!", he told me "Bye!"',
+      },
+      {
+        id: 22,
+        expression: 'Они ждали его одобрения весь день',
+        transcription: 'ðeɪ wə ˈweɪtɪŋ fə hɪz əˈpruːvəl ɔːl deɪ',
+        translation: 'They were waiting for his approval all day',
+      },
+      {
+        id: 23,
+        expression: 'Когда она навестит своих родителей?',
+        transcription: 'wɛn wɪl ʃi ˈvɪzɪt hə ˈpeərənts?',
+        translation: 'When will she visit her parents?',
+      },
+      {
+        id: 24,
+        expression: 'Я разговаривал с ним вчера в 6',
+        transcription: 'aɪ wəz ˈtɔːkɪŋ tə ɪm ˈjɛstədeɪ æt 6',
+        translation: 'I was talking to him yesterday at 6',
+      },
+      {
+        id: 25,
+        expression: 'Когда это произошло?',
+        transcription: 'wɛn dɪd ɪt ˈhæpən?',
+        translation: 'When did it happen?',
+      },
+      {
+        id: 26,
+        expression: 'Мой друг обычно ест это на обед',
+        transcription: 'maɪ frɛnd ˈjuːʒʊəli iːts ɪt fə lʌnʧ',
+        translation: 'My friend usually eats it for lunch',
+      },
+      {
+        id: 27,
+        expression: 'Я действительно понимаю это сейчас',
+        transcription: 'aɪ ˈrɪəli ˌʌndəˈstænd ɪt naʊ',
+        translation: 'I really understand it now',
+      },
+      {
+        id: 28,
+        expression: 'Когда он вернулся домой, дети играли',
+        transcription: 'wɛn hi keɪm bæk həʊm, ðə ˈʧɪldrən wə ˈpleɪɪŋ',
+        translation: 'When he came back home, the children were playing',
+      },
+      {
+        id: 29,
+        expression: 'Все кажется таким легким сейчас',
+        transcription: 'ˈɛvrɪθɪŋ siːmz səʊ ˈiːzi naʊ',
+        translation: 'Everything seems so easy now',
+      },
+      {
+        id: 30,
+        expression: 'Он ездит на работу на машине?',
+        transcription: 'dəz hi gəʊ tə wɜːk baɪ kɑː?',
+        translation: 'Does he go to work by car?',
+      },
+      {
+        id: 31,
+        expression: 'Когда она увидела меня, она сказала "Привет!"',
+        transcription: 'wɛn ʃi sɔː miː, ʃi sɛd "haɪ!"',
+        translation: 'When she saw me, she said "Hi!"',
+      },
+      {
+        id: 32,
+        expression: 'Ты сейчас за рулем?',
+        transcription: 'ɑː jʊ ˈdraɪvɪŋ naʊ?',
+        translation: 'Are you driving now?',
+      },
+      {
+        id: 33,
+        expression: 'Он сдал свой последний экзамен на прошлой неделе',
+        transcription: 'hi pɑːst ɪz ˈfaɪnl ɪgˈzæm lɑːst wiːk',
+        translation: 'He passed his final exam last week',
+      },
+      {
+        id: 34,
+        expression: 'Когда ты был в зоопарке в последний раз?',
+        transcription: 'wɛn wə jʊ ɪn ðə zuː lɑːst taɪm?',
+        translation: 'When were you in the zoo last time?',
+      },
+      {
+        id: 35,
+        expression: 'Что он делал вчера весь день?',
+        transcription: 'wɒt wəz hi ˈdu(ː)ɪŋ ɔːl deɪ ˈjɛstədeɪ?',
+        translation: 'What was he doing all day yesterday?',
+      },
+      {
+        id: 36,
+        expression: 'Мой друг ест это сейчас',
+        transcription: 'maɪ frɛnd z ˈiːtɪŋ ɪt raɪt naʊ',
+        translation: 'My friend is eating it right now',
+      },
+      {
+        id: 37,
+        expression: 'Смотри! Мост открывается!',
+        transcription: 'lʊk! ðə brɪʤ ɪz ˈəʊpnɪŋ!',
+        translation: 'Look! The bridge is opening!',
+      },
+      {
+        id: 38,
+        expression: 'Ты когда-нибудь был в этом месте?',
+        transcription: 'həv jʊ ˈɛvə biːn tə ðɪs pleɪs?',
+        translation: 'Have you ever been to this place?',
+      },
+      {
+        id: 39,
+        expression: 'Как долго он здесь находится?',
+        transcription: 'haʊ lɒŋ həz hi biːn ˈsteɪɪŋ hɪə?',
+        translation: 'How long has he been staying here?',
+      },
+      {
+        id: 40,
+        expression: 'Мы знаем друг друга очень долгое время',
+        transcription: 'wiːv nəʊn iːʧ ˈʌðə fər ə ˈvɛri lɒŋ taɪm',
+        translation: "We've known each other for a very long time",
+      },
+      {
+        id: 41,
+        expression: 'Они так долго этого ждут',
+        transcription: 'ðeɪv biːn ˈweɪtɪŋ fər ɪt fə səʊ lɒŋ',
+        translation: "They've been waiting for it for so long",
+      },
+      {
+        id: 42,
+        expression: 'Я здесь с прошлой недели',
+        transcription: 'aɪv biːn hɪə sɪns lɑːst wiːk',
+        translation: "I've been here since last week",
+      },
+      {
+        id: 43,
+        expression: 'Солнце светило очень ярко, и птицы пели',
+        transcription:
+          'ðə sʌn wəz ˈʃaɪnɪŋ ˈvɛri ˈbraɪtli ənd ðə bɜːdz wə ˈsɪŋɪŋ',
+        translation:
+          'The sun was shining very brightly and the birds were singing',
+      },
+      {
+        id: 44,
+        expression: 'Мы лежали на пляже. Время шло очень медленно',
+        transcription:
+          'wi wə ˈlaɪɪŋ ɒn ðə biːʧ. taɪm wəz ˈpɑːsɪŋ ˈvɛri ˈsləʊli',
+        translation: 'We were lying on the beach. Time was passing very slowly',
+      },
+      {
+        id: 45,
+        expression: 'Пока они сидели на полу, они о чем-то говорили',
+        transcription:
+          'waɪl ðeɪ wə ˈsɪtɪŋ ɒn ðə flɔː, ðeɪ wə ˈtɔːkɪŋ əˈbaʊt ˈsʌmθɪŋ',
+        translation:
+          'While they were sitting on the floor, they were talking about something',
+      },
+      {
+        id: 46,
+        expression: 'Я не видел его много лет',
+        transcription: 'aɪ hævnt siːn ɪm fə ˈmɛni jɪəz',
+        translation: "I haven't seen him for many years",
+      },
+      {
+        id: 47,
+        expression: 'Что еще не сделано?',
+        transcription: 'wɒt ˈhæznt biːn dʌn jɛt?',
+        translation: "What hasn't been done yet?",
+      },
+      {
+        id: 48,
+        expression: 'Я уже посетил это место',
+        transcription: 'aɪv ɔːlˈrɛdi ˈvɪzɪtɪd ðɪs pleɪs',
+        translation: "I've already visited this place",
+      },
+      {
+        id: 49,
+        expression: 'Как давно ты хотел это сделать?',
+        transcription: 'haʊ lɒŋ həv jʊ ˈwɒntɪd tə dʊ ɪt?',
+        translation: 'How long have you wanted to do it?',
+      },
+      {
+        id: 50,
+        expression: 'Что ты будешь делать, если она откажется это сказать?',
+        transcription: 'wɒt wɪl jʊ dʊ ɪf ʃi ˌriːˈfjuːzɪz tə seɪ ɪt?',
+        translation: 'What will you do if she refuses to say it?',
+      },
+      {
+        id: 51,
+        expression: 'Никто не знает об этом',
+        transcription: 'ˈnəʊbədi nəʊz əˈbaʊt ɪt',
+        translation: 'Nobody knows about it',
+      },
+      {
+        id: 52,
+        expression: 'Все согласны?',
+        transcription: 'dəz ˈɛvrɪwʌn əˈgriː?',
+        translation: 'Does everyone agree?',
+      },
+      {
+        id: 53,
+        expression: 'Он никогда не был в Японии',
+        transcription: 'hiːz ˈnɛvə biːn tə ʤəˈpæn',
+        translation: "He's never been to Japan",
+      },
+      {
+        id: 54,
+        expression: 'Ты когда-нибудь был в Японии?',
+        transcription: 'həv jʊ ˈɛvə biːn tə ʤəˈpæn?',
+        translation: 'Have you ever been to Japan?',
+      },
+      {
+        id: 55,
+        expression: 'Я еще не был в Японии',
+        transcription: 'aɪv ˈnɛvə biːn tə ʤəˈpæn jɛt',
+        translation: "I've never been to Japan yet",
+      },
+      {
+        id: 56,
+        expression: 'Я никогда не ходил в то место, когда жил там',
+        transcription: 'aɪ ˈnɛvə wɛnt tə ðət pleɪs wɛn aɪ lɪvd ðeə',
+        translation: 'I never went to that place when I lived there',
+      },
+      {
+        id: 57,
+        expression: 'Я никогда не посещал это место, когда жил здесь',
+        transcription: 'aɪ ˈnɛvə ˈvɪzɪtɪd ðɪs pleɪs wɛn aɪ lɪvd hɪə',
+        translation: 'I never visited this place when I lived here',
+      },
+      {
+        id: 58,
+        expression: 'Я часто ходил в то место, когда жил там',
+        transcription: 'aɪ ˈɒf(ə)n wɛnt tə ðət pleɪs wɛn aɪ lɪvd ðeə',
+        translation: 'I often went to that place when I lived there',
+      },
+      {
+        id: 59,
+        expression: 'Они говорили и говорили',
+        transcription: 'ðeɪ wə ˈtɔːkɪŋ ənd ˈtɔːkɪŋ',
+        translation: 'They were talking and talking',
+      },
+      {
+        id: 60,
+        expression: 'Они разговаривают друг с другом сейчас',
+        transcription: 'ðeə ˈtɔːkɪŋ tʊ iːʧ ˈʌðə naʊ',
+        translation: "They're talking to each other now",
+      },
+      {
+        id: 61,
+        expression: 'Они разговаривали очень громко',
+        transcription: 'ðeɪ wə ˈtɔːkɪŋ ˈvɛri ˈlaʊdli',
+        translation: 'They were talking very loudly',
+      },
+      {
+        id: 62,
+        expression: 'Я дам тебе знать, как только она придет домой',
+        transcription: 'aɪl lɛt jʊ nəʊ əz suːn əz ʃi kʌmz həʊm',
+        translation: "I'll let you know as soon as she comes home",
+      },
+      {
+        id: 63,
+        expression: 'Я скажу тебе, как только она придет домой',
+        transcription: 'aɪl tɛl jʊ əz suːn əz ʃi kʌmz həʊm',
+        translation: "I'll tell you as soon as she comes home",
+      },
+      {
+        id: 64,
+        expression: 'Я помогу ей, как только она вернется домой',
+        transcription: 'aɪl hɛlp hər əz suːn əz ʃi kʌmz həʊm',
+        translation: "I'll help her as soon as she comes home",
+      },
+      {
+        id: 65,
+        expression: 'Ты уже закончил смотреть этот фильм?',
+        transcription: 'həv jʊ ɔːlˈrɛdi ˈfɪnɪʃt ˈwɒʧɪŋ ðɪs ˈmuːvi?',
+        translation: 'Have you already finished watching this movie?',
+      },
+      {
+        id: 66,
+        expression: 'Ты уже закончил делать свое домашнее задание?',
+        transcription: 'həv jʊ ɔːlˈrɛdi ˈfɪnɪʃt ˈdu(ː)ɪŋ jə ˈhəʊmˌwɜːk?',
+        translation: 'Have you already finished doing your homework?',
+      },
+      {
+        id: 67,
+        expression: 'Я уже закончил смотреть этот фильм',
+        transcription: 'aɪv ɔːlˈrɛdi ˈfɪnɪʃt ˈwɒʧɪŋ ðɪs ˈmuːvi',
+        translation: "I've already finished watching this movie",
+      },
+      {
+        id: 68,
+        expression: 'Я никогда не думал об этом, когда был ребенком',
+        transcription: 'aɪ ˈnɛvə θɔːt əˈbaʊt ɪt wɛn aɪ wəz ə ʧaɪld',
+        translation: 'I never thought about it when I was a child',
+      },
+      {
+        id: 69,
+        expression: 'Я никогда не думал об этом, когда был молодым',
+        transcription: 'aɪ ˈnɛvə θɔːt əˈbaʊt ɪt wɛn aɪ wəz jʌŋ',
+        translation: 'I never thought about it when I was young',
+      },
+      {
+        id: 70,
+        expression: 'Я никогда не делал этого, когда был ребенком',
+        transcription: 'aɪ ˈnɛvə dɪd ɪt wɛn aɪ wəz ə ʧaɪld',
+        translation: 'I never did it when I was a child',
+      },
+      {
+        id: 71,
+        expression: 'Что еще не было упомянуто?',
+        transcription: 'wɒt ˈhæznt biːn ˈmɛnʃənd jɛt?',
+        translation: "What hasn't been mentioned yet?",
+      },
+      {
+        id: 72,
+        expression: 'Об этом еще не упоминалось',
+        transcription: 'ɪt ˈhæznt biːn ˈmɛnʃənd jɛt',
+        translation: "It hasn't been mentioned yet",
+      },
+      {
+        id: 73,
+        expression: 'Я только что получил звонок от нее',
+        transcription: 'aɪv ʤəst gɒt ə kɔːl frəm hɜː',
+        translation: "I've just got a call from her",
+      },
+      {
+        id: 74,
+        expression: 'Я только что пропустил несколько звонков',
+        transcription: 'aɪv ʤəst mɪst səm kɔːlz',
+        translation: "I've just missed some calls",
+      },
+      {
+        id: 75,
+        expression: 'Я только что получил от нее письмо',
+        transcription: 'aɪv ʤəst gɒt ə ˈlɛtə frəm hɜː',
+        translation: "I've just got a letter from her",
+      },
+      {
+        id: 76,
+        expression: 'Как давно она с ним встречается?',
+        transcription: 'haʊ lɒŋ həz ʃi biːn ˈdeɪtɪŋ hɪm?',
+        translation: 'How long has she been dating him?',
+      },
+      {
+        id: 77,
+        expression: 'Она встречается с ним два года',
+        transcription: 'ʃiːz biːn ˈdeɪtɪŋ ɪm fə tuː jɪəz',
+        translation: "She's been dating him for two years",
+      },
+      {
+        id: 78,
+        expression: 'Как давно она замужем?',
+        transcription: 'haʊ lɒŋ həz ʃi biːn ˈmærɪd?',
+        translation: 'How long has she been married?',
+      },
+      {
+        id: 79,
+        expression: 'Там действительно ничего не происходит',
+        transcription: 'ˈnʌθɪŋ ˈrɪəli ˈhæpənz ðeə',
+        translation: 'Nothing really happens there',
+      },
+      {
+        id: 80,
+        expression: 'Там действительно ничего не происходило',
+        transcription: 'ˈnʌθɪŋ ˈrɪəli ˈhæpənd ðeə',
+        translation: 'Nothing really happened there',
+      },
+      {
+        id: 81,
+        expression: 'Что-то происходит сейчас',
+        transcription: 'ˈsʌmθɪŋ z ˈhæpnɪŋ naʊ',
+        translation: 'Something is happening now',
+      },
+      {
+        id: 82,
+        expression: 'Он сказал, что уже ответил на ее письмо',
+        transcription: 'hi sɛd ðət hiːd ɔːlˈrɛdi ˈɑːnsəd hə ˈlɛtə',
+        translation: "He said that he'd already answered her letter",
+      },
+      {
+        id: 83,
+        expression: 'Я буду ждать твоего ответа с нетерпением',
+        transcription: 'aɪl ˈweɪtɪŋ fə jər ˈɑːnsə wɪð ɪmˈpeɪʃəns',
+        translation: "I'll wating for your answer with impatience",
+      },
+      {
+        id: 84,
+        expression: 'Я никогда не забуду твою доброту',
+        transcription: 'aɪl ˈnɛvə fəˈgɛt jə ˈkaɪndnɪs',
+        translation: "I'll never forget your kindness",
+      },
+      {
+        id: 85,
+        expression: 'Как давно он здесь?',
+        transcription: 'haʊ lɒŋ həz hi biːn hɪə?',
+        translation: 'How long has he been here?',
+      },
+      {
+        id: 86,
+        expression: 'Я буду учиться в университете в это время завтра',
+        transcription: 'aɪl bi ˈstʌdiɪŋ ət ˌjuːnɪˈvɜːsɪti ðɪs taɪm təˈmɒrəʊ',
+        translation: "I'll be studying at university this time tomorrow",
+      },
+      {
+        id: 87,
+        expression: 'Я нахожусь здесь со вчерашнего дня',
+        transcription: 'aɪv biːn ˈsteɪɪŋ hɪə sɪns ˈjɛstədeɪ',
+        translation: "I've been staying here since yesterday",
+      },
+      {
+        id: 88,
+        expression: 'Он еще не ответил на ее сообщение',
+        transcription: 'hi ˈhæznt ˈɑːnsəd hə ˈmɛsɪʤ jɛt',
+        translation: "He hasn't answered her message yet",
+      },
+      {
+        id: 89,
+        expression: 'Как давно она изучает английский?',
+        transcription: 'haʊ lɒŋ həz ʃi biːn ˈlɜːnɪŋ ˈɪŋglɪʃ?',
+        translation: 'How long has she been learning English?',
+      },
+      {
+        id: 90,
+        expression: 'Как давно они знают друг друга?',
+        transcription: 'haʊ lɒŋ həv ðeɪ nəʊn iːʧ ˈʌðə?',
+        translation: 'How long have they known each other?',
+      },
+      {
+        id: 91,
+        expression: 'Он никогда не курил в своей жизни',
+        transcription: 'hiːz ˈnɛvə sməʊkt ɪn ɪz laɪf',
+        translation: "He's never smoked in his life",
+      },
+      {
+        id: 92,
+        expression: 'Я еще не ответил на его письмо',
+        transcription: 'aɪ hævnt rɪˈplaɪd tə ɪz ˈlɛtə jɛt',
+        translation: "I haven't replied to his letter yet",
+      },
+      {
+        id: 93,
+        expression: 'Что еще не было сказано?',
+        transcription: 'wɒt ˈhæznt biːn sɛd jɛt?',
+        translation: "What hasn't been said yet?",
+      },
+      {
+        id: 94,
+        expression: 'Все кажется очень странным',
+        transcription: 'ˈɛvrɪθɪŋ siːmz ˈvɛri streɪnʤ',
+        translation: 'Everything seems very strange',
+      },
+      {
+        id: 95,
+        expression: 'Она никогда не упоминает об этом',
+        transcription: 'ʃi ˈnɛvə ˈmɛnʃənz ɪt',
+        translation: 'She never mentions it',
+      },
+      {
+        id: 96,
+        expression: 'Все согласны',
+        transcription: 'ˈɛvrɪwʌn əˈgriːz',
+        translation: 'Everyone agrees',
+      },
+    ],
+    {
+      theory: `<div class="theory-block">
+<h3>Закрепление пройденного материала</h3>
+</div>`,
+    },
+  ],
+];

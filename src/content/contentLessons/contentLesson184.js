@@ -1,0 +1,631 @@
+export const contentLesson184 = [
+  [
+    {
+      title:
+        'Урок 184. 450 Adjectives with different tenses and structures. Part 3',
+    },
+    [
+      {
+        id: 1,
+        expression: 'Что сделало его таким высокомерным?',
+        transcription: 'wɒt meɪd ɪm səʊ ˈærəʊgənt?',
+        translation: 'What made him so arrogant?',
+      },
+      {
+        id: 2,
+        expression: 'Ты голоден?',
+        transcription: 'ɑː jʊ ˈhʌŋgri?',
+        translation: 'Are you hungry?',
+      },
+      {
+        id: 3,
+        expression: 'Компания гордится своим успехом',
+        transcription: 'ðə ˈkʌmpəni z praʊd əv ɪts əˈʧiːvmənt',
+        translation: 'The company is proud of its achievement',
+      },
+      {
+        id: 4,
+        expression: 'Она купила очень стильное платье',
+        transcription: 'ʃi bɔːt ə ˈvɛri ˈstaɪlɪʃ drɛs',
+        translation: 'She bought a very stylish dress',
+      },
+      {
+        id: 5,
+        expression: 'Воздух здесь очень прохладный',
+        transcription: 'ði eə z ˈvɛri kuːl hɪə',
+        translation: 'The air is very cool here',
+      },
+      {
+        id: 6,
+        expression: 'Этот дом стоит около двухсот тысяч долларов',
+        transcription: 'ðɪs haʊs ɪz wɜːθ əˈbaʊt tuː ˈhʌndrəd ˈθaʊzənd ˈdɒləz',
+        translation: 'This house is worth about two hundred thousand dollars',
+      },
+      {
+        id: 7,
+        expression:
+          'Я действительно хочу говорить по-английски как носитель языка',
+        transcription: 'aɪ ˈrɪəli wɒnt tə spiːk ˈɪŋglɪʃ laɪk ə ˈneɪtɪv ˈspiːkə',
+        translation: 'I really want to speak English like a native speaker',
+      },
+      {
+        id: 8,
+        expression: 'Это место безопаснее',
+        transcription: 'ɪts ə ˈseɪfə pleɪs',
+        translation: "It's a safer place",
+      },
+      {
+        id: 9,
+        expression: 'Эта квартира стоит примерно пятьдесят тысяч евро',
+        transcription:
+          'ðɪs əˈpɑːtmənt s wɜːθ əˈprɒksɪmɪtli ˈfɪfti ˈθaʊzənd ˈjʊərəʊz',
+        translation:
+          'This apartment is worth approximately fifty thousand euros',
+      },
+      {
+        id: 10,
+        expression: 'Это такой тяжелый стол',
+        transcription: 'ɪts sʌʧ ə ˈhɛvi ˈteɪbl',
+        translation: "It's such a heavy table",
+      },
+      {
+        id: 11,
+        expression: 'Эта погода очень неестественна для зимы',
+        transcription: 'ðɪs ˈwɛðə z ʌnˈnæʧrəl fə ˈwɪntə',
+        translation: 'This weather is unnatural for winter',
+      },
+      {
+        id: 12,
+        expression: 'Это такое мудрое решение',
+        transcription: 'ɪts sʌʧ ə waɪz dɪˈsɪʒən',
+        translation: "It's such a wise decision",
+      },
+      {
+        id: 13,
+        expression: 'Он такой энергичный человек',
+        transcription: 'hiːz sʌʧ ən ˌɛnəˈʤɛtɪk ˈpɜːsn',
+        translation: "He's such an energetic person",
+      },
+      {
+        id: 14,
+        expression: 'Это очень серьезная экономическая проблема',
+        transcription: 'ɪts ə ˈvɛri ˈsɪərɪəs ˌiːkəˈnɒmɪk ˈprɒbləm',
+        translation: "It's a very serious economic problem",
+      },
+      {
+        id: 15,
+        expression: 'Какая классная идея!',
+        transcription: 'wɒt ə kuːl aɪˈdɪə!',
+        translation: 'What a cool idea!',
+      },
+      {
+        id: 16,
+        expression: 'Он хочет жить в более безопасном месте',
+        transcription: 'hi wɒnts tə lɪv ɪn ə ˈseɪfə pleɪs',
+        translation: 'He wants to live in a safer place',
+      },
+      {
+        id: 17,
+        expression: 'Я в курсе этих проблем',
+        transcription: 'aɪm əˈweər əv ðiːz ˈprɒbləmz',
+        translation: "I'm aware of these problems",
+      },
+      {
+        id: 18,
+        expression: 'Все кажется очевидным',
+        transcription: 'ˈɛvrɪθɪŋ siːmz ˈɒbvɪəs',
+        translation: 'Everything seems obvious',
+      },
+      {
+        id: 19,
+        expression: 'Какой твой родной язык?',
+        transcription: 'wɒt s jə ˈneɪtɪv ˈlæŋgwɪʤ?',
+        translation: 'What is your native language?',
+      },
+      {
+        id: 20,
+        expression: 'В этой стране гораздо более теплый климат',
+        transcription:
+          'ɪts ə mʌʧ ˈwɔːmə ˈklaɪmɪt ɪn ðɪs ˈkʌntri / ðɪs ˈkʌntri həz ə mʌʧ ˈwɔːmə ˈklaɪmɪt',
+        translation:
+          "It's a much warmer climate in this country / This country has a much warmer climate",
+      },
+      {
+        id: 21,
+        expression: 'Этот вопрос кажется таким странным',
+        transcription: 'ðɪs ˈkwɛsʧən siːmz səʊ wɪəd',
+        translation: 'This question seems so weird',
+      },
+      {
+        id: 22,
+        expression: 'Мальчик кажется очень умным',
+        transcription: 'ðə bɔɪ siːmz ˈvɛri ˈklɛvə',
+        translation: 'The boy seems very clever',
+      },
+      {
+        id: 23,
+        expression: 'Его жена беременна',
+        transcription: 'hɪz waɪf s ˈprɛgnənt',
+        translation: 'His wife is pregnant',
+      },
+      {
+        id: 24,
+        expression: 'Ему стыдно это делать',
+        transcription: 'hiːz əˈʃeɪmd tə dʊ ɪt',
+        translation: "He's ashamed to do it",
+      },
+      {
+        id: 25,
+        expression: 'Ты голоден?',
+        transcription: 'ɑː jʊ ˈhʌŋgri?',
+        translation: 'Are you hungry?',
+      },
+      {
+        id: 26,
+        expression: 'Это было очень полезное предложение',
+        transcription: 'ɪt wəz ə ˈvɛri ˈhɛlpfʊl ˈɒfə',
+        translation: 'It was a very helpful offer',
+      },
+      {
+        id: 27,
+        expression: 'Тебе нравятся экстремальные виды спорта?',
+        transcription: 'dʊ jʊ laɪk ɪksˈtriːm kaɪndz əv spɔːt?',
+        translation: 'Do you like extreme kinds of sport?',
+      },
+      {
+        id: 28,
+        expression: 'Она гордится своими достижениями',
+        transcription: 'ʃiːz praʊd əv hər əˈʧiːvmənts',
+        translation: "She's proud of her achievements",
+      },
+      {
+        id: 29,
+        expression: 'В комнате очень тепло',
+        transcription: 'ɪts ˈvɛri wɔːm ɪn ðə ruːm',
+        translation: "It's very warm in the room",
+      },
+      {
+        id: 30,
+        expression: 'Ты такой умный',
+        transcription: 'jʊə səʊ ˈklɛvə',
+        translation: "You're so clever",
+      },
+      {
+        id: 31,
+        expression: 'Им не стыдно за такое поведение',
+        transcription: 'ðeɪ ɑːnt əˈʃeɪmd tə ðeə bɪˈheɪvjə',
+        translation: "They aren't ashamed to their behaviour",
+      },
+      {
+        id: 32,
+        expression: 'Эта идея действительно странная',
+        transcription: 'ðɪs aɪˈdɪə z ˈrɪəli wɪəd',
+        translation: 'This idea is really weird',
+      },
+      {
+        id: 33,
+        expression: 'Это выдуманная история',
+        transcription: 'ɪts ə ˈmeɪkʌp ˈstɔːri',
+        translation: "It's a make-up story",
+      },
+      {
+        id: 34,
+        expression: 'Их прогресс довольно медленный',
+        transcription: 'ðeə ˈprəʊgrəs ɪz ˈrɑːðə sləʊ',
+        translation: 'Their progress is rather slow',
+      },
+      {
+        id: 35,
+        expression: 'Она носит очень стильную одежду',
+        transcription: 'ʃi weəz ˈvɛri ˈstaɪlɪʃ kləʊðz',
+        translation: 'She wears very stylish clothes',
+      },
+      {
+        id: 36,
+        expression: 'Это достаточно очевидно',
+        transcription: 'ɪts ˈɒbvɪəs ɪˈnʌf',
+        translation: "It's obvious enough",
+      },
+      {
+        id: 37,
+        expression: 'Он использовал выдуманное имя',
+        transcription: 'hi juːzd ə ˈmeɪkʌp neɪm',
+        translation: 'He used a make-up name',
+      },
+      {
+        id: 38,
+        expression: 'Какая грустная история!',
+        transcription: 'wɒt ə sæd ˈstɔːri!',
+        translation: 'What a sad story!',
+      },
+      {
+        id: 39,
+        expression: 'Это очень медленный прогресс',
+        transcription: 'ɪts ə ˈvɛri sləʊ ˈprəʊgrəs',
+        translation: "It's a very slow progress",
+      },
+      {
+        id: 40,
+        expression: 'Он всегда такой энергичный',
+        transcription: 'hiːz ˈɔːlweɪz səʊ ˌɛnəˈʤɛtɪk',
+        translation: "He's always so energetic",
+      },
+      {
+        id: 41,
+        expression: 'Он был действительно удивлен слышать это',
+        transcription: 'hi wəz ˈrɪəli səˈpraɪzd tə hɪər ɪt',
+        translation: 'He was really surprised to hear it',
+      },
+      {
+        id: 42,
+        expression:
+          'Я абсолютно уверен, что это будет единственное верное решение этой проблемы',
+        transcription:
+          'aɪm ˈæbsəluːtli ʃʊə ðət ˈɪtl bi ði ˈəʊnli raɪt səˈluːʃən tə ðɪs ˈprɒbləm',
+        translation:
+          "I'm absolutely sure that it'll be the only right solution to this problem",
+      },
+      {
+        id: 43,
+        expression:
+          'Это такая уникальная возможность выучить английский язык здесь',
+        transcription: 'ɪts sʌʧ ə juːˈniːk ˌɒpəˈtjuːnɪti tə lɜːn ˈɪŋglɪʃ hɪə',
+        translation: "It's such a unique opportunity to learn English here",
+      },
+      {
+        id: 44,
+        expression: 'Они были очень рады найти его живым',
+        transcription: 'ðeɪ wə ˈvɛri ˈhæpi tə faɪnd ɪm əˈlaɪv',
+        translation: 'They were very happy to find him alive',
+      },
+      {
+        id: 45,
+        expression: 'Я думаю, разумно делать это более регулярно',
+        transcription: 'aɪ θɪŋk ɪts ˈsɛnsəbl tə dʊ ɪt mɔː ˈrɛgjʊləli',
+        translation: "I think it's sensible to do it more regularly",
+      },
+      {
+        id: 46,
+        expression: 'Спасибо за твой совет, который действительно так полезен',
+        transcription: 'θæŋks fə jər ədˈvaɪs wɪʧ ɪz ˈrɪəli səʊ ˈhəʊplɪs',
+        translation: 'Thanks for your advice which is really so hopeless',
+      },
+      {
+        id: 47,
+        expression: 'Они не знают, мертв ли он или жив',
+        transcription: 'ðeɪ dəʊnt nəʊ ˈwɛðə hiːz dɛd ɔːr əˈlaɪv',
+        translation: "They don't know whether he's dead or alive",
+      },
+      {
+        id: 48,
+        expression: 'Это временное решение этой проблемы',
+        transcription: 'ɪts ə ˈtɛmpərəri səˈluːʃən tə ðɪs ˈprɒbləm',
+        translation: "It's a temporary solution to this problem",
+      },
+      {
+        id: 49,
+        expression: 'Материальное богатство также важно',
+        transcription: 'məˈtɪərɪəl wɛlθ s ˈɔːlsəʊ ɪmˈpɔːtənt',
+        translation: 'Material wealth is also important',
+      },
+      {
+        id: 50,
+        expression: 'Эта слава сделал его очень грубым и высокомерным',
+        transcription: 'ðɪs feɪm meɪd ɪm ˈvɛri ruːd ənd ˈærəʊgənt',
+        translation: 'This fame made him very rude and arrogant',
+      },
+      {
+        id: 51,
+        expression: 'Это самое мудрое решение в такой ситуации',
+        transcription: 'ɪts ðə ˈwaɪzɪst dɪˈsɪʒən ɪn sʌʧ ə ˌsɪtjʊˈeɪʃən',
+        translation: "It's the wisest decision in such a situation",
+      },
+      {
+        id: 52,
+        expression: 'Я думаю, что ему надо перестать быть таким неосторожным',
+        transcription: 'aɪ θɪŋk hi niːdz tə stɒp ˈbiːɪŋ səʊ ˈkeəlɪs',
+        translation: 'I think he needs to stop being so careless',
+      },
+      {
+        id: 53,
+        expression: 'Я думаю, что успех этого проекта неизбежен',
+        transcription: 'aɪ θɪŋk ðət ðə səkˈsɛs əv ðɪs ˈprɒʤɛkt s ɪnˈɛvɪtəbl',
+        translation: 'I think that the success of this project is inevitable',
+      },
+      {
+        id: 54,
+        expression: 'Очень грустно видеть, что это продолжает происходить',
+        transcription:
+          'ɪts ˈvɛri sæd tə siː ðət ɪt kənˈtɪnju(ː)z tə ˈhæpən / ɪts ˈvɛri sæd tə siː ðət ɪt kənˈtɪnju(ː)z ˈhæpnɪŋ',
+        translation:
+          "It's very sad to see that it continues to happen / It's very sad to see that it continues happening",
+      },
+      {
+        id: 55,
+        expression: 'То выражение имеет противоположное значение',
+        transcription: 'ðæt ɪksˈprɛʃən həz ði ˈɒpəzɪt ˈmiːnɪŋ',
+        translation: 'That expression has the opposite meaning',
+      },
+      {
+        id: 56,
+        expression: 'Это ключевой фактор успеха',
+        transcription: 'ɪts ə kiː ˈfæktə tə səkˈsɛs',
+        translation: "It's a key factor to success",
+      },
+      {
+        id: 57,
+        expression: 'Это было главным фактором успеха',
+        transcription: 'ɪt wəz ðə meɪn ˈfæktə tə səkˈsɛs',
+        translation: 'It was the main factor to success',
+      },
+      {
+        id: 58,
+        expression: 'Это самый важный фактор успеха',
+        transcription: 'ɪts ðə məʊst ɪmˈpɔːtənt ˈfæktə tə səkˈsɛs',
+        translation: "It's the most important factor to success",
+      },
+      {
+        id: 59,
+        expression: 'К счастью, он не был мертв',
+        transcription: 'ˈlʌkɪli, hi wɒznt dɛd',
+        translation: "Luckily, he wasn't dead",
+      },
+      {
+        id: 60,
+        expression: 'К несчастью, он был мертв',
+        transcription: 'ʌnˈlaɪkli, hi wəz dɛd',
+        translation: 'Unlikely, he was dead',
+      },
+      {
+        id: 61,
+        expression: 'К счастью, он был жив',
+        transcription: 'ˈlʌkɪli, hi wəz əˈlaɪv',
+        translation: 'Luckily, he was alive',
+      },
+      {
+        id: 62,
+        expression: 'Это временная ситуация',
+        transcription: 'ɪts ə ˈtɛmpərəri ˌsɪtjʊˈeɪʃən',
+        translation: "It's a temporary situation",
+      },
+      {
+        id: 63,
+        expression: 'Это обычная ситуация',
+        transcription: 'ɪts ən ˈɔːdnri ˌsɪtjʊˈeɪʃən',
+        translation: "It's an ordinary situation",
+      },
+      {
+        id: 64,
+        expression: 'Это очень сложная ситуация',
+        transcription: 'ɪts ə ˈvɛri ˈdɪfɪkəlt ˌsɪtjʊˈeɪʃən',
+        translation: "It's a very difficult situation",
+      },
+      {
+        id: 65,
+        expression: 'Он такой неосторожный водитель',
+        transcription: 'hiːz sʌʧ ə ˈkeəlɪs ˈdraɪvə',
+        translation: "He's such a careless driver",
+      },
+      {
+        id: 66,
+        expression: 'Он очень осторожный водитель',
+        transcription: 'hiːz ə ˈvɛri ˈkeəfʊl ˈdraɪvə',
+        translation: "He's a very careful driver",
+      },
+      {
+        id: 67,
+        expression: 'Он был так неосторожен в той ситуации',
+        transcription: 'hi wəz səʊ ˈkeəlɪs ɪn ðət ˌsɪtjʊˈeɪʃən',
+        translation: 'He was so careless in that situation',
+      },
+      {
+        id: 68,
+        expression: 'Это было единственно верное решение',
+        transcription: 'ɪt wəz ði ˈəʊnli raɪt dɪˈsɪʒən',
+        translation: 'It was the only right decision',
+      },
+      {
+        id: 69,
+        expression: 'Это было самое лучшее решение',
+        transcription: 'ɪt wəz ðə bɛst dɪˈsɪʒən',
+        translation: 'It was the best decision',
+      },
+      {
+        id: 70,
+        expression: 'Это было единственно правильное решение этой проблемы',
+        transcription: 'ɪt wəz ði ˈəʊnli raɪt səˈluːʃən tə ðɪs ˈprɒbləm',
+        translation: 'It was the only right solution to this problem',
+      },
+      {
+        id: 71,
+        expression: 'Я был действительно удивлен этой новостью',
+        transcription: 'aɪ wəz ˈrɪəli səˈpraɪzd baɪ ðɪs njuːz',
+        translation: 'I was really surprised by this news',
+      },
+      {
+        id: 72,
+        expression: 'Я действительно шокирован этой новостью',
+        transcription: 'aɪm ˈrɪəli ʃɒkt baɪ ðɪs njuːz',
+        translation: "I'm really shocked by this news",
+      },
+      {
+        id: 73,
+        expression: 'Я был действительно удивлен его решением',
+        transcription: 'aɪ wəz ˈrɪəli səˈpraɪzd baɪ ɪz dɪˈsɪʒən',
+        translation: 'I was really surprised by his decision',
+      },
+      {
+        id: 74,
+        expression: 'Эта коробка не такая тяжелая, как та',
+        transcription: 'ðɪs bɒks ˈɪznt əz ˈhɛvi əz ðət wʌn',
+        translation: "This box isn't as heavy as that one",
+      },
+      {
+        id: 75,
+        expression: 'Та сумка не такая тяжелая, как эта',
+        transcription: 'ðæt bæg ˈɪznt əz ˈhɛvi əz ðɪs wʌn',
+        translation: "That bag isn't as heavy as this one",
+      },
+      {
+        id: 76,
+        expression: 'Эта комната не такая большая, как та',
+        transcription: 'ðɪs ruːm ˈɪznt əz lɑːʤ əz ðət wʌn',
+        translation: "This room isn't as large as that one",
+      },
+      {
+        id: 77,
+        expression: 'Это слово имело противоположное значение',
+        transcription: 'ðɪs wɜːd həd ði ˈɒpəzɪt ˈmiːnɪŋ',
+        translation: 'This word had the opposite meaning',
+      },
+      {
+        id: 78,
+        expression: 'Эти слова имеют одно и то же значение',
+        transcription: 'ðiːz wɜːdz həv ðə seɪm ˈmiːnɪŋ',
+        translation: 'These words have the same meaning',
+      },
+      {
+        id: 79,
+        expression: 'Эти предложения имели разное значение',
+        transcription: 'ðiːz ˈsɛntənsɪz həd ə ˈdɪfrənt ˈmiːnɪŋ',
+        translation: 'These sentences had a different meaning',
+      },
+      {
+        id: 80,
+        expression: 'Ему нужно перестать быть таким ребячливым',
+        transcription: 'hi niːdz tə stɒp ˈbiːɪŋ səʊ ˈʧaɪldɪʃ',
+        translation: 'He needs to stop being so childish',
+      },
+      {
+        id: 81,
+        expression: 'Тебе нужно перестать быть таким эгоистичным',
+        transcription: 'jʊ niːd tə stɒp ˈbiːɪŋ səʊ ˈsɛlfɪʃ',
+        translation: 'You need to stop being so selfish',
+      },
+      {
+        id: 82,
+        expression: 'Ему нужно быть менее ребячливым',
+        transcription: 'hi niːdz tə bi lɛs ˈʧaɪldɪʃ',
+        translation: 'He needs to be less childish',
+      },
+      {
+        id: 83,
+        expression: 'Это уникальный шанс, и я не могу его упустить',
+        transcription: 'ɪts ə juːˈniːk ʧɑːns ənd aɪ kɑːnt mɪs ɪt',
+        translation: "It's a unique chance and I can't miss it",
+      },
+      {
+        id: 84,
+        expression: 'Это уникальная возможность, и я не могу ее упустить',
+        transcription: 'ɪts ə juːˈniːk ˌɒpəˈtjuːnɪti ənd aɪ kɑːnt mɪs ɪt',
+        translation: "It's a unique opportunity and I can't miss it",
+      },
+      {
+        id: 85,
+        expression: 'Это хороший шанс, и я не могу его упустить',
+        transcription: 'ɪts ə gʊd ʧɑːns ənd aɪ kɑːnt mɪs ɪt',
+        translation: "It's a good chance and I can't miss it",
+      },
+      {
+        id: 86,
+        expression: 'Этот кризис кажется почти неизбежным сейчас',
+        transcription: 'ðɪs ˈkraɪsɪs siːmz ˈɔːlməʊst ɪnˈɛvɪtəbl naʊ',
+        translation: 'This crisis seems almost inevitable now',
+      },
+      {
+        id: 87,
+        expression: 'Ее английский кажется очень неестественным',
+        transcription: 'hər ˈɪŋglɪʃ siːmz ˈvɛri ʌnˈnæʧrəl',
+        translation: 'Her English seems very unnatural',
+      },
+      {
+        id: 88,
+        expression: 'Я хочу сказать тебе, что я знаю об этих трудностях',
+        transcription: 'aɪ wɒnt tə tɛl jʊ ðət aɪ nəʊ əˈbaʊt ðiːz ˈdɪfɪkəltiz',
+        translation: 'I want to tell you that I know about these difficulties',
+      },
+      {
+        id: 89,
+        expression: 'Они думают о принятии чрезвычайных мер',
+        transcription: 'ðeə ˈθɪŋkɪŋ əˈbaʊt ˈteɪkɪŋ ɪksˈtriːm ˈmɛʒəz',
+        translation: "They're thinking about taking extreme measures",
+      },
+      {
+        id: 90,
+        expression: 'Многие люди считают, что усердный труд - ключ к успеху',
+        transcription:
+          'ˈmɛni ˈpiːpl kənˈsɪdə (θɪŋk, bɪˈliːv) ðæt hɑːd wɜːk s ðə kiː tə səkˈsɛs',
+        translation:
+          'Many people consider (think, believe) that hard work is the key to success',
+      },
+      {
+        id: 91,
+        expression: 'Он еще не выбрал свою будущую профессию',
+        transcription: 'hi ˈhæznt ˈʧəʊzn ɪz ˈfjuːʧə prəˈfɛʃən jɛt',
+        translation: "He hasn't chosen his future profession yet",
+      },
+      {
+        id: 92,
+        expression: 'С моей точки зрения, это очень разумная идея',
+        transcription: 'frəm maɪ pɔɪnt əv vjuː, ɪts ə ˈvɛri ˈsɛnsəbl aɪˈdɪə',
+        translation: "From my point of view, it's a very sensible idea",
+      },
+      {
+        id: 93,
+        expression: 'Это одна из самых распространенных ошибок среди студентов',
+        transcription: 'ɪts wʌn əv ðə məʊst ˈkɒmən mɪsˈteɪks əˈmʌŋ ˈstjuːdənts',
+        translation: "It's one of the most common mistakes among students",
+      },
+      {
+        id: 94,
+        expression: 'Эти экономические факторы часто игнорируются',
+        transcription: 'ðiːz ˌiːkəˈnɒmɪk ˈfæktəz ər ˈɒf(ə)n ɪgˈnɔːd',
+        translation: 'These economic factors are often ignored',
+      },
+      {
+        id: 95,
+        expression: 'Она заинтересована только в материальных вещах',
+        transcription: 'ʃiːz ˈɪntrɪstɪŋ ɪn ˈəʊnli məˈtɪərɪəl θɪŋz',
+        translation: "She's interesting in only material things",
+      },
+      {
+        id: 96,
+        expression: 'Нам нужно сохранить нашу планету для будущих поколений',
+        transcription: 'wi niːd tə seɪv ˈaʊə ˈplænɪt fə ˈfjuːʧə ˌʤɛnəˈreɪʃənz',
+        translation: 'We need to save our planet for future generations',
+      },
+      {
+        id: 97,
+        expression: 'Полиция нашла его мертвым',
+        transcription: 'ðə pəˈliːs faʊnd ɪm dɛd',
+        translation: 'The police found him dead',
+      },
+      {
+        id: 98,
+        expression: 'Его ребячливое поведение действительно раздражает ее',
+        transcription: 'hɪz ˈʧaɪldɪʃ bɪˈheɪvjə ˈrɪəli ˈɪrɪteɪts hɜː',
+        translation: 'His childish behaviour really irritates her',
+      },
+      {
+        id: 99,
+        expression:
+          'Она полностью изменила свой образ жизни, когда забеременела',
+        transcription:
+          'hi ʧeɪnʤd hə ˈlaɪfˌstaɪl kəmˈpliːtli wɛn ʃi bɪˈkeɪm ˈprɛgnənt',
+        translation:
+          'He changed her lifestyle completely when she became pregnant',
+      },
+      {
+        id: 100,
+        expression: 'Мне кажется, что у нас много общего',
+        transcription: 'ɪt siːmz tə mi ðət wi həv mʌʧ ɪn ˈkɒmən',
+        translation: 'It seems to me that we have much in common',
+      },
+    ],
+    {
+      theory: `<div class="theory-block">
+<h3>Закрепление пройденного материала</h3>
+</div>`,
+    },
+  ],
+];

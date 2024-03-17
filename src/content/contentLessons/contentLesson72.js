@@ -1,0 +1,625 @@
+export const contentLesson72 = [
+  [
+    {
+      title: "Урок 72. 200 verbs in Present Simple. Part 1",
+    },
+    [
+      {
+        id: 1,
+        expression: "Давай посмотрим на это!",
+        transcription: "lɛts lʊk ət ɪt!",
+        translation: "Let's look at it!",
+      },
+      {
+        id: 2,
+        expression:
+          "Многие студенты оканчивают этот университет и находят хорошо оплачиваемую работу",
+        transcription:
+          "ˈmɛni ˈstjuːdənts ˈgrædjʊət frəm ðɪs ˌjuːnɪˈvɜːsɪti ənd faɪnd ə wɛl-peɪd ʤɒb",
+        translation:
+          "Many students graduate from this university and find a well-paid job",
+      },
+      {
+        id: 3,
+        expression: "Я не рекомендую этот курорт тебе",
+        transcription: "aɪ dəʊnt ˌrɛkəˈmɛnd ðɪs rɪˈzɔːt tə juː",
+        translation: "I don't recommend this resort to you",
+      },
+      {
+        id: 4,
+        expression: "Мои друзья говорят на двух иностранных языках",
+        transcription: "maɪ frɛndz spiːk tuː ˈfɔːrɪŋ ˈlæŋgwɪʤɪz",
+        translation: "My friends speak two foreing languages",
+      },
+      {
+        id: 5,
+        expression: "На скольких иностранных языках ты говоришь?",
+        transcription: "haʊ ˈmɛni ˈfɒrɪn ˈlæŋgwɪʤɪz dʊ jʊ spiːk?",
+        translation: "How many foreign languages do you speak?",
+      },
+      {
+        id: 6,
+        expression: "Тебе не нужно беспокоиться об этом",
+        transcription: "jʊ dəʊnt niːd tə ˈwʌri əˈbaʊt ɪt",
+        translation: "You don't need to worry about it",
+      },
+      {
+        id: 7,
+        expression: "Как ты предпочитаешь изучать английский?",
+        transcription: "haʊ dʊ jʊ priˈfɜː tə lɜːn ˈɪŋglɪʃ?",
+        translation: "How do you prefer to learn English?",
+      },
+      {
+        id: 8,
+        expression: "Когда ты хочешь навестить его?",
+        transcription: "wɛn dʊ jʊ wɒnt tə ˈvɪzɪt hɪm?",
+        translation: "When do you want to visit him?",
+      },
+      {
+        id: 9,
+        expression: "Почему ты хочешь переехать в другую страну?",
+        transcription: "waɪ dʊ jʊ wɒnt tə muːv tʊ əˈnʌðə ˈkʌntri?",
+        translation: "Why do you want to move to another country?",
+      },
+      {
+        id: 10,
+        expression: "Я хочу окончить очень престижный университет",
+        transcription:
+          "aɪ wɒnt tə ˈgrædjʊət frəm ˈvɛri prɛˈstɪʤəs ˌjuːnɪˈvɜːsɪti",
+        translation: "I want to graduate from very prestigious university",
+      },
+      {
+        id: 11,
+        expression: "Я рекомендую эту книгу тебе",
+        transcription: "aɪ ˌrɛkəˈmɛnd ðɪs bʊk tə juː",
+        translation: "I recommend this book to you",
+      },
+      {
+        id: 12,
+        expression: "Ей нужно покормить своего малыша",
+        transcription: "ʃi niːdz tə fiːd hə ˈbeɪbi",
+        translation: "She needs to feed her baby",
+      },
+      {
+        id: 13,
+        expression: "Как ты обычно празднуешь Новый год?",
+        transcription: "haʊ dʊ jʊ ˈjuːʒʊəli ˈsɛlɪbreɪt njuː jɪə?",
+        translation: "How do you usually celebrate New Year?",
+      },
+      {
+        id: 14,
+        expression: "Она часто улыбается ему",
+        transcription: "ʃi ˈɒf(ə)n smaɪlz ət hɪm",
+        translation: "She often smiles at him",
+      },
+      {
+        id: 15,
+        expression:
+          "Конечно, я понимаю, что все люди делают ошибки иногда, но мы на них учимся",
+        transcription:
+          "əv kɔːs, aɪ ˌʌndəˈstænd ðət ɔːl ˈpiːpl meɪk mɪsˈteɪks ˈsʌmtaɪmz bət wi lɜːn frəm ðɛm",
+        translation:
+          "Of course, I understand that all people make mistakes sometimes but we learn from them",
+      },
+      {
+        id: 16,
+        expression: "Ты рекомендуешь это мне?",
+        transcription: "dʊ jʊ ˌrɛkəˈmɛnd ɪt tə miː?",
+        translation: "Do you recommend it to me?",
+      },
+      {
+        id: 17,
+        expression: "Не останавливайся!",
+        transcription: "dəʊnt stɒp!",
+        translation: "Don't stop!",
+      },
+      {
+        id: 18,
+        expression: "Ты умеешь кататься на велосипеде?",
+        transcription: "kən jʊ raɪd ə baɪk?",
+        translation: "Can you ride a bike?",
+      },
+      {
+        id: 19,
+        expression: "Не бросай эти бумаги!",
+        transcription: "dəʊnt θrəʊ ðiːz ˈpeɪpəz!",
+        translation: "Don't throw these papers!",
+      },
+      {
+        id: 20,
+        expression: "Он может провалить этот экзамен",
+        transcription: "hi kən feɪl ðɪs ɪgˈzæm",
+        translation: "He can fail this exam",
+      },
+      {
+        id: 21,
+        expression: "Эта фабрика производит одежду",
+        transcription: "ðɪs ˈfæktəri ˈprɒdjuːsɪz kləʊðz",
+        translation: "This factory produces clothes",
+      },
+      {
+        id: 22,
+        expression: "Мне нравится гулять в парке",
+        transcription: "aɪ laɪk tə wɔːk ɪn ðə pɑːk",
+        translation: "I like to walk in the park",
+      },
+      {
+        id: 23,
+        expression: "Уроки начинаются очень рано",
+        transcription: "ðə ˈlɛsnz bɪˈgɪn ˈvɛri ˈɜːli",
+        translation: "The lessons begin very early",
+      },
+      {
+        id: 24,
+        expression: "Он не пьет вино",
+        transcription: "hi dʌznt drɪŋk waɪn",
+        translation: "He doesn't drink wine",
+      },
+      {
+        id: 25,
+        expression: "Я действительно обожаю английский",
+        transcription: "aɪ ˈrɪəli ɪnˈʤɔɪ ˈɪŋglɪʃ",
+        translation: "I really enjoy English",
+      },
+      {
+        id: 26,
+        expression: "Ты можешь выбросить это",
+        transcription: "jʊ kən θrəʊ ɪt əˈweɪ",
+        translation: "You can throw it away",
+      },
+      {
+        id: 27,
+        expression: "Ты умеешь плавать?",
+        transcription: "kən jʊ swɪm?",
+        translation: "Can you swim?",
+      },
+      {
+        id: 28,
+        expression: "Я часто хожу на работу",
+        transcription:
+          "aɪ ˈɒf(ə)n wɔːk tə wɜːk / aɪ ˈɒf(ə)n gəʊ tə wɜːk ɒn fʊt",
+        translation: "I often walk to work / I often go to work on foot",
+      },
+      {
+        id: 29,
+        expression: "Он обычно следует моему совету",
+        transcription: "hi ˈjuːʒʊəli ˈfɒləʊz maɪ ədˈvaɪs",
+        translation: "He usually follows my advice",
+      },
+      {
+        id: 30,
+        expression: "Она действительно обожает читать",
+        transcription: "ʃi ˈrɪəli laɪks ˈriːdɪŋ",
+        translation: "She really likes reading",
+      },
+      {
+        id: 31,
+        expression: "Все может измениться скоро",
+        transcription: "ˈɛvrɪθɪŋ kən ʧeɪnʤ suːn",
+        translation: "Everything can change soon",
+      },
+      {
+        id: 32,
+        expression: "Я могу навестить тебя сегодня",
+        transcription: "aɪ kən ˈvɪzɪt jʊ təˈdeɪ",
+        translation: "I can visit you today",
+      },
+      {
+        id: 33,
+        expression: "Она может провалить этот тест",
+        transcription: "ʃi kən feɪl ðɪs tɛst",
+        translation: "She can fail this test",
+      },
+      {
+        id: 34,
+        expression: "Как часто ты кормишь своего кота?",
+        transcription: "haʊ ˈɒf(ə)n dʊ jʊ fiːd jə kæt?",
+        translation: "How often do you feed your cat?",
+      },
+      {
+        id: 35,
+        expression: "Он часто улыбается ей",
+        transcription: "hi ˈɒf(ə)n smaɪlz ət hɜː",
+        translation: "He often smiles at her",
+      },
+      {
+        id: 36,
+        expression: "Ты можешь помочь нам?",
+        transcription: "kən jʊ hɛlp ʌs?",
+        translation: "Can you help us?",
+      },
+      {
+        id: 37,
+        expression: "Он хочет быть очень богатым",
+        transcription: "hi wɒnts tə bi ˈvɛri rɪʧ",
+        translation: "He wants to be very rich",
+      },
+      {
+        id: 38,
+        expression: "Не спрашивай ее об этом!",
+        transcription: "dəʊnt ɑːsk hər əˈbaʊt ɪt!",
+        translation: "Don't ask her about it!",
+      },
+      {
+        id: 39,
+        expression: "Я не хочу выбрасывать это",
+        transcription: "aɪ dəʊnt wɒnt tə θrəʊ ɪt əˈweɪ",
+        translation: "I don't want to throw it away",
+      },
+      {
+        id: 40,
+        expression: "Ты умеешь кататься на велосипеде?",
+        transcription: "kən jʊ raɪd ə ˈbaɪsɪkl?",
+        translation: "Can you ride a bicycle?",
+      },
+      {
+        id: 41,
+        expression: "Он говорит, что они хотят пожениться в следующем месяце",
+        transcription: "hi sɛz ðət ðeɪ wɒnt tə gɛt ˈmærɪd nɛkst mʌnθ",
+        translation: "He says that they want to get married next month",
+      },
+      {
+        id: 42,
+        expression: "Он старается не обращать внимания на эту критику",
+        transcription: "hi traɪz nɒt tə peɪ əˈtɛnʃ(ə)n tə ðɪs ˈkrɪtɪsɪzm",
+        translation: "He tries not to pay attention to this criticism",
+      },
+      {
+        id: 43,
+        expression: "Твой учитель всегда указывает тебе на свои ошибки?",
+        transcription: "dəz jə ˈtiːʧər ˈɔːlweɪz pɔɪnt aʊt jə mɪsˈteɪks?",
+        translation: "Does your teacher always point out your mistakes?",
+      },
+      {
+        id: 44,
+        expression: "Я хочу достичь этой цели как можно скорее",
+        transcription: "aɪ wɒnt tʊ əˈʧiːv ðɪs eɪm əz suːn əz ˈpɒsəbl",
+        translation: "I want to achieve this aim as soon as possible",
+      },
+      {
+        id: 45,
+        expression:
+          "Я должен тратить больше времени на это, если я действительно хочу иметь гораздо более лучшие результаты",
+        transcription:
+          "aɪ məst spɛnd mɔː taɪm ɒn ɪt ɪf aɪ ˈrɪəli wɒnt tə həv mʌʧ ˈbɛtə rɪˈzʌlts",
+        translation:
+          "I must spend more time on it if I really want to have much better results",
+      },
+      {
+        id: 46,
+        expression:
+          "Он получает немного денег, но он хочет заработать гораздо больше",
+        transcription: "hi gɛts səm ˈmʌni bət hi wɒnts tʊ ɜːn mʌʧ mɔː",
+        translation: "He gets some money but he wants to earn much more",
+      },
+      {
+        id: 47,
+        expression: "Я знаю, что мне нужно контролировать себя",
+        transcription: "aɪ nəʊ ðət aɪ niːd tə kənˈtrəʊl maɪˈsɛlf",
+        translation: "I know that I need to control myself",
+      },
+      {
+        id: 48,
+        expression:
+          "Мой друг хочет поехать в Соединенные Штаты в следующем году",
+        transcription:
+          "maɪ frɛnd wɒnts tə gəʊ tə ðə jʊˈnaɪtɪd steɪts nɛkst jɪə",
+        translation: "My friend wants to go to the United States next year",
+      },
+      {
+        id: 49,
+        expression: "Я прекрасно осознаю, что могу найти работу получше",
+        transcription: "aɪ ˈpɜːfɪktli ˈrɪəlaɪz ðət aɪ kən faɪnd ə ˈbɛtə ʤɒb",
+        translation: "I perfectly realise that I can find a better job",
+      },
+      {
+        id: 50,
+        expression: "Он хочет разрезать эту веревку ножом",
+        transcription: "hi wɒnts tə kʌt ðɪs rəʊp wɪð ə naɪf",
+        translation: "He wants to cut this rope with a knife",
+      },
+      {
+        id: 51,
+        expression: "Я думаю, что я могу выиграть в этом соревновании",
+        transcription: "aɪ θɪŋk ðət aɪ kən wɪn ɪn ðɪs ˌkɒmpɪˈtɪʃən",
+        translation: "I think that I can win in this competition",
+      },
+      {
+        id: 52,
+        expression: "Он никогда не пьет алкоголь",
+        transcription: "hi ˈnɛvə drɪŋks ˈælkəhɒl",
+        translation: "He never drinks alcohol",
+      },
+      {
+        id: 53,
+        expression: "Я предпочитаю не думать об этом",
+        transcription: "aɪ priˈfɜː nɒt tə θɪŋk əˈbaʊt ɪt",
+        translation: "I prefer not to think about it",
+      },
+      {
+        id: 54,
+        expression: "Ты можешь повторить это предложение?",
+        transcription: "kən jʊ rɪˈpiːt ðɪs ˈsɛntəns?",
+        translation: "Can you repeat this sentence?",
+      },
+      {
+        id: 55,
+        expression: "Он предпочитает не покупать это онлайн",
+        transcription: "hi priˈfɜːz nɒt tə baɪ ɪt ˈɒnˌlaɪn",
+        translation: "He prefers not to buy it online",
+      },
+      {
+        id: 56,
+        expression: "Как ты улучшаешь свои навыки аудирования?",
+        transcription: "haʊ dʊ jʊ ɪmˈpruːv jə ˈlɪsnɪŋ skɪlz?",
+        translation: "How do you improve your listening skills?",
+      },
+      {
+        id: 57,
+        expression: "Как ты улучшаешь свои разговорные навыки?",
+        transcription: "haʊ dʊ jʊ ɪmˈpruːv jə ˈspiːkɪŋ skɪlz?",
+        translation: "How do you improve your speaking skills?",
+      },
+      {
+        id: 58,
+        expression: "Как он улучшает свои навыки?",
+        transcription: "haʊ dəz hi ɪmˈpruːv ɪz skɪlz?",
+        translation: "How does he improve his skills?",
+      },
+      {
+        id: 59,
+        expression: "Я хочу улучшить свои разговорные навыки",
+        transcription: "aɪ wɒnt tʊ ɪmˈpruːv maɪ ˈspiːkɪŋ skɪlz",
+        translation: "I want to improve my speaking skills",
+      },
+      {
+        id: 60,
+        expression: "Она хочет улучшить свои навыки аудирования",
+        transcription: "ʃi wɒnts tʊ ɪmˈpruːv hə ˈlɪsnɪŋ skɪlz",
+        translation: "She wants to improve her listening skills",
+      },
+      {
+        id: 61,
+        expression: "Мне нужно улучшить свои разговорные навыки",
+        transcription: "aɪ niːd tʊ ɪmˈpruːv maɪ ˈspiːkɪŋ skɪlz",
+        translation: "I need to improve my speaking skills",
+      },
+      {
+        id: 62,
+        expression: "Я следую рекомендациям своего тренера",
+        transcription: "aɪ ˈfɒləʊ maɪ ˈtreɪnəz ˌrɛkəmɛnˈdeɪʃənz",
+        translation: "I follow my trainer's recommendations",
+      },
+      {
+        id: 63,
+        expression: "Я следую совету своего тренера",
+        transcription: "aɪ ˈfɒləʊ maɪ ˈtreɪnəz ədˈvaɪs",
+        translation: "I follow my trainer's advice",
+      },
+      {
+        id: 64,
+        expression: "Она следует рекомендациям своего тренера",
+        transcription: "ʃi ˈfɒləʊz hə ˈtreɪnəz ˌrɛkəmɛnˈdeɪʃənz",
+        translation: "She follows her trainer's recommendations",
+      },
+      {
+        id: 65,
+        expression: "Многие люди хотят быть богатыми и здоровыми",
+        transcription: "ˈmɛni ˈpiːpl wɒnt tə bi rɪʧ ənd ˈhɛlθi",
+        translation: "Many people want to be rich and healthy",
+      },
+      {
+        id: 66,
+        expression: "Большинство людей хотят быть богатыми и здоровыми",
+        transcription: "məʊst ˈpiːpl wɒnt tə bi rɪʧ ənd ˈhɛlθi",
+        translation: "Most people want to be rich and healthy",
+      },
+      {
+        id: 67,
+        expression: "Многие люди хотят быть богатыми и знаменитыми",
+        transcription: "məʊst ˈpiːpl wɒnt tə bi rɪʧ ənd ˈfeɪməs",
+        translation: "Most people want to be rich and famous",
+      },
+      {
+        id: 68,
+        expression: "Я обычно отмечаю свой день рождения в кругу семьи",
+        transcription:
+          "aɪ ˈjuːʒʊəli ˈsɛlɪbreɪt maɪ ˈbɜːθdeɪ ɪn ə ˈfæmɪli ˈsɜːkl",
+        translation: "I usually celebrate my birthday in a family circle",
+      },
+      {
+        id: 69,
+        expression: "Я всегда отмечаю свой день рождения в кругу семьи",
+        transcription:
+          "aɪ ˈɔːlweɪz ˈsɛlɪbreɪt maɪ ˈbɜːθdeɪ ɪn ə ˈfæmɪli ˈsɜːkl",
+        translation: "I always celebrate my birthday in a family circle",
+      },
+      {
+        id: 70,
+        expression: "Он часто отмечает свой день рождения в кругу семьи",
+        transcription: "hi ˈɒf(ə)n ˈsɛlɪbreɪts ɪz ˈbɜːθdeɪ ɪn ə ˈfæmɪli ˈsɜːkl",
+        translation: "He often celebrates his birthday in a family circle",
+      },
+      {
+        id: 71,
+        expression: "Мне нужно встать сейчас",
+        transcription: "aɪ niːd tə stænd ʌp naʊ",
+        translation: "I need to stand up now",
+      },
+      {
+        id: 72,
+        expression: "Мне нужно идти сейчас",
+        transcription: "aɪ niːd tə gəʊ naʊ",
+        translation: "I need to go now",
+      },
+      {
+        id: 73,
+        expression: "Ей нужно встать сейчас",
+        transcription: "ʃi niːdz tə stænd ʌp naʊ",
+        translation: "She needs to stand up now",
+      },
+      {
+        id: 74,
+        expression: "Я знаю, что я забываю это очень легко",
+        transcription: "aɪ nəʊ ðət aɪ fəˈgɛt ɪt ˈvɛri ˈiːzɪli",
+        translation: "I know that I forget it very easily",
+      },
+      {
+        id: 75,
+        expression: "Она знает, что она забывает это очень легко",
+        transcription: "ʃi nəʊz ðət ʃi fəˈgɛts ɪt ˈvɛri ˈiːzɪli",
+        translation: "She knows that she forgets it very easily",
+      },
+      {
+        id: 76,
+        expression: "Ты знаешь, я забываю это очень легко",
+        transcription: "jʊ nəʊ aɪ fəˈgɛt ɪt ˈvɛri ˈiːzɪli",
+        translation: "You know I forget it very easily",
+      },
+      {
+        id: 77,
+        expression: "Он следует рекомендациям своего тренера",
+        transcription: "hi ˈfɒləʊz ɪz ˈtreɪnəz ˌrɛkəmɛnˈdeɪʃənz",
+        translation: "He follows his trainer's recommendations",
+      },
+      {
+        id: 78,
+        expression: "Ему нужно следовать рекомендациям своего тренера",
+        transcription: "hi niːdz tə ˈfɒləʊ ɪz ˈtreɪnəz ˌrɛkəmɛnˈdeɪʃənz",
+        translation: "He needs to follow his trainer's recommendations",
+      },
+      {
+        id: 79,
+        expression: "Я всегда следую рекомендациям своего тренера",
+        transcription: "aɪ ˈɔːlweɪz ˈfɒləʊ maɪ ˈtreɪnəz ˌrɛkəmɛnˈdeɪʃənz",
+        translation: "I always follow my trainer's recommendations",
+      },
+      {
+        id: 80,
+        expression: "Я стараюсь не обращать внимания на это",
+        transcription: "aɪ traɪ nɒt tə peɪ əˈtɛnʃ(ə)n tʊ ɪt",
+        translation: "I try not to pay attention to it",
+      },
+      {
+        id: 81,
+        expression: "Я стараюсь не обращать внимания на эти вещи",
+        transcription: "aɪ traɪ nɒt tə peɪ əˈtɛnʃ(ə)n tə ðiːz θɪŋz",
+        translation: "I try not to pay attention to these things",
+      },
+      {
+        id: 82,
+        expression: "Мне не нужно обращать внимание на это",
+        transcription: "aɪ dəʊnt niːd tə peɪ əˈtɛnʃ(ə)n tʊ ɪt",
+        translation: "I don't need to pay attention to it",
+      },
+      {
+        id: 83,
+        expression: "Как твой учитель объясняет это?",
+        transcription: "haʊ dəz jə ˈtiːʧər ɪksˈpleɪn ɪt?",
+        translation: "How does your teacher explain it?",
+      },
+      {
+        id: 84,
+        expression: "Как твой учитель объясняет этот предмет?",
+        transcription: "haʊ dəz jə ˈtiːʧər ɪksˈpleɪn ðɪs ˈsʌbʤɪkt?",
+        translation: "How does your teacher explain this subject?",
+      },
+      {
+        id: 85,
+        expression: "Почему твой учитель объясняет это?",
+        transcription: "waɪ dəz jə ˈtiːʧər ɪksˈpleɪn ɪt?",
+        translation: "Why does your teacher explain it?",
+      },
+      {
+        id: 86,
+        expression:
+          "Я прекрасно понимаю, что это мне может очень сильно помочь",
+        transcription: "aɪ ˈpɜːfɪktli ˌʌndəˈstænd ðət ɪt kən hɛlp mi ˈgreɪtli",
+        translation: "I perfectly understand that it can help me greatly",
+      },
+      {
+        id: 87,
+        expression: "Посмотри на результаты этого мальчика!",
+        transcription: "lʊk ət ðɪs bɔɪz rɪˈzʌlts!",
+        translation: "Look at this boy's results!",
+      },
+      {
+        id: 88,
+        expression: "Ты можешь разрезать это этими ножницами",
+        transcription: "jʊ kən kʌt ɪt wɪð ðiːz ˈsɪzəz",
+        translation: "You can cut it with these scissors",
+      },
+      {
+        id: 89,
+        expression: "Мне кажется, что мы делаем правильную вещь",
+        transcription: "ɪt siːmz tə mi ðət wi dʊ ðə raɪt θɪŋ",
+        translation: "It seems to me that we do the right thing",
+      },
+      {
+        id: 90,
+        expression: "Он никогда не говорит это",
+        transcription: "hi ˈnɛvə sɛz ɪt",
+        translation: "He never says it",
+      },
+      {
+        id: 91,
+        expression: "Я хочу задать тебе только пару вопросов",
+        transcription: "aɪ wɒnt tʊ ɑːsk jʊ ʤəst ə ˈkʌpl əv ˈkwɛsʧənz",
+        translation: "I want to ask you just a couple of questions",
+      },
+      {
+        id: 92,
+        expression: "Я стараюсь не тратить слишком много времени на это",
+        transcription: "aɪ traɪ nɒt tə spɛnd tuː mʌʧ taɪm ɒn ɪt",
+        translation: "I try not to spend too much time on it",
+      },
+      {
+        id: 93,
+        expression: "Я предпочитаю не переживать об этом",
+        transcription: "aɪ priˈfɜː nɒt tə ˈwʌri əˈbaʊt ɪt",
+        translation: "I prefer not to worry about it",
+      },
+      {
+        id: 94,
+        expression: "Он часто указывает на мои ошибки",
+        transcription: "hi ˈɒf(ə)n pɔɪnts aʊt maɪ mɪsˈteɪks",
+        translation: "He often points out my mistakes",
+      },
+      {
+        id: 95,
+        expression: "Я стараюсь не делать этого",
+        transcription: "aɪ traɪ nɒt tə dʊ ɪt",
+        translation: "I try not to do it",
+      },
+      {
+        id: 96,
+        expression: "Мы никогда не видим это",
+        transcription: "wi ˈnɛvə siː ɪt",
+        translation: "We never see it",
+      },
+      {
+        id: 97,
+        expression: "Я никогда не делаю это",
+        transcription: "aɪ ˈnɛvə dʊ ɪt",
+        translation: "I never do it",
+      },
+      {
+        id: 98,
+        expression: "Ты можешь повторить этот вопрос?",
+        transcription: "kən jʊ rɪˈpiːt ðɪs ˈkwɛsʧən?",
+        translation: "Can you repeat this question?",
+      },
+      {
+        id: 99,
+        expression: "Вам это кажется действительно странным?",
+        transcription: "dəz ɪt siːm ˈrɪəli streɪnʤ tə juː?",
+        translation: "Does it seem really strange to you?",
+      },
+    ],
+    {
+      theory: `<div class="theory-block">
+<h3>Закрепление пройденного материала</h3>
+</div>`,
+    },
+  ],
+];

@@ -1,0 +1,106 @@
+export const wordsLesson222 = [
+  [
+    {
+      id: 1,
+      word: 'acquire',
+      transcription: 'əˈkwaɪə',
+      translation: 'приобретать',
+    },
+    {
+      id: 2,
+      word: 'condemn',
+      transcription: 'kənˈdɛm',
+      translation: 'осуждать, порицать',
+    },
+    {
+      id: 3,
+      word: 'debate',
+      transcription: 'dɪˈbeɪt',
+      translation: 'дебаты',
+    },
+    {
+      id: 4,
+      word: 'eager',
+      transcription: 'ˈiːɡə',
+      translation: 'стремящийся, жаждущий, желающий',
+    },
+    {
+      id: 5,
+      word: 'guidance',
+      transcription: 'ˈɡaɪdəns',
+      translation: 'руководство',
+    },
+    {
+      id: 6,
+      word: 'hint',
+      transcription: 'hɪnt',
+      translation: 'намек, намекать',
+    },
+    {
+      id: 7,
+      word: 'innocence',
+      transcription: 'ˈɪnəsəns',
+      translation: 'невиновность',
+    },
+    {
+      id: 8,
+      word: 'necessity',
+      transcription: 'nɪˈsɛsɪti',
+      translation: 'необходимость',
+    },
+    {
+      id: 9,
+      word: 'newsletter',
+      transcription: 'ˈnjuːzˌlɛtə',
+      translation: 'новостная рассылка',
+    },
+    {
+      id: 10,
+      word: 'passion',
+      transcription: 'ˈpæʃᵊn',
+      translation: 'страсть',
+    },
+    {
+      id: 11,
+      word: 'peace',
+      transcription: 'piːs',
+      translation: 'мир',
+    },
+    {
+      id: 12,
+      word: 'position',
+      transcription: 'pəˈzɪʃᵊn',
+      translation: 'позиция, должность',
+    },
+    {
+      id: 13,
+      word: 'prudence',
+      transcription: 'ˈpruːdəns',
+      translation: 'благоразумие',
+    },
+    {
+      id: 14,
+      word: 'qualified',
+      transcription: 'ˈkwɒlɪfaɪd',
+      translation: 'квалифицированный',
+    },
+    {
+      id: 15,
+      word: 'subscribed',
+      transcription: 'səbˈskraɪbd',
+      translation: 'подписан',
+    },
+    {
+      id: 16,
+      word: 'tone',
+      transcription: 'təʊn',
+      translation: 'тон',
+    },
+    {
+      id: 17,
+      word: 'vice versa',
+      transcription: 'vɜːsə',
+      translation: 'наоборот',
+    },
+  ],
+];

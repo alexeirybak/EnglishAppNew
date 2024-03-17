@@ -1,0 +1,100 @@
+export const wordsLesson214 = [
+  [
+    {
+      id: 1,
+      word: 'action',
+      transcription: 'ˈækʃᵊn',
+      translation: 'действие',
+    },
+    {
+      id: 2,
+      word: 'adjacent',
+      transcription: 'əˈʤeɪsənt',
+      translation: 'примыкающий',
+    },
+    {
+      id: 3,
+      word: 'argument',
+      transcription: 'ˈɑːɡjʊmənt',
+      translation: 'аргумент',
+    },
+    {
+      id: 4,
+      word: 'assumption',
+      transcription: 'əˈsʌmpʃᵊn',
+      translation: 'предположение',
+    },
+    {
+      id: 5,
+      word: 'based',
+      transcription: 'beɪst',
+      translation: 'основан',
+    },
+    {
+      id: 6,
+      word: 'considerable',
+      transcription: 'kənˈsɪdərəbᵊl',
+      translation: 'значительный',
+    },
+    {
+      id: 7,
+      word: 'deprive',
+      transcription: 'dɪˈpraɪv',
+      translation: 'лишать',
+    },
+    {
+      id: 8,
+      word: 'hail',
+      transcription: 'heɪl',
+      translation: 'град',
+    },
+    {
+      id: 9,
+      word: 'liberty',
+      transcription: 'ˈlɪbəti',
+      translation: 'свобода',
+    },
+    {
+      id: 10,
+      word: 'persist',
+      transcription: 'pəˈsɪst',
+      translation: 'упорствовать',
+    },
+    {
+      id: 11,
+      word: 'prayer',
+      transcription: 'preə',
+      translation: 'молитва',
+    },
+    {
+      id: 12,
+      word: 'privilege',
+      transcription: 'ˈprɪvɪlɪʤ',
+      translation: 'привилегия',
+    },
+    {
+      id: 13,
+      word: 'rumour',
+      transcription: 'ˈruːmə',
+      translation: 'слух',
+    },
+    {
+      id: 14,
+      word: 'solely',
+      transcription: 'ˈsəʊlli',
+      translation: 'исключительно',
+    },
+    {
+      id: 15,
+      word: 'unproven',
+      transcription: 'ˌʌnˈpruːvən',
+      translation: 'недоказанный',
+    },
+    {
+      id: 16,
+      word: 'worthy',
+      transcription: 'ˈwɜːði',
+      translation: 'достойный',
+    },
+  ],
+];

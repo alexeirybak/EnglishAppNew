@@ -1,0 +1,106 @@
+export const wordsLesson261 = [
+  [
+    {
+      id: 1,
+      word: 'pay back',
+      transcription: 'peɪ bæk',
+      translation: 'выплатить',
+    },
+    {
+      id: 2,
+      word: 'look out',
+      transcription: 'lʊk aʊt',
+      translation: 'быть осторожным, выглядывать',
+    },
+    {
+      id: 3,
+      word: 'break in',
+      transcription: 'breɪk ɪn',
+      translation: 'вламываться',
+    },
+    {
+      id: 4,
+      word: 'fall out',
+      transcription: 'fɔːl aʊt',
+      translation: 'ссориться',
+    },
+    {
+      id: 5,
+      word: 'come across as',
+      transcription: 'kʌm əˈkrɒs æz',
+      translation: 'казаться',
+    },
+    {
+      id: 6,
+      word: 'piece together',
+      transcription: 'piːs təˈɡɛðə',
+      translation: 'собрать воедино',
+    },
+    {
+      id: 7,
+      word: 'look out for',
+      transcription: 'lʊk aʊt fɔː',
+      translation: 'следить, наблюдать',
+    },
+    {
+      id: 8,
+      word: 'mix up',
+      transcription: 'mɪks ʌp',
+      translation: 'путать',
+    },
+    {
+      id: 9,
+      word: 'pass away',
+      transcription: 'pɑːs əˈweɪ',
+      translation: 'скончаться',
+    },
+    {
+      id: 10,
+      word: 'detective',
+      transcription: 'dɪˈtɛktɪv',
+      translation: 'детектив',
+    },
+    {
+      id: 11,
+      word: 'graduation',
+      transcription: 'ɡrædjʊˈeɪʃᵊn',
+      translation: 'окончание',
+    },
+    {
+      id: 12,
+      word: 'handy',
+      transcription: 'ˈhændi',
+      translation: 'удобный',
+    },
+    {
+      id: 13,
+      word: 'intervene',
+      transcription: 'ˌɪntəˈviːn',
+      translation: 'вмешиваться',
+    },
+    {
+      id: 14,
+      word: 'loan',
+      transcription: 'ləʊn',
+      translation: 'кредит',
+    },
+    {
+      id: 15,
+      word: 'mystery',
+      transcription: 'ˈmɪstəri',
+      translation: 'загадка',
+    },
+    {
+      id: 16,
+      word: 'pickpocket',
+      transcription: 'ˈpɪkˌpɒkɪt',
+      translation: 'карманник',
+    },
+    {
+      id: 17,
+      word: 'shyness',
+      transcription: 'ˈʃaɪnəs',
+      translation: 'застенчивость',
+    },
+  ],
+];

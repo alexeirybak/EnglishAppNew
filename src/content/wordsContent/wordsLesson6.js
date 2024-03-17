@@ -1,0 +1,101 @@
+export const wordsLesson6 = [
+  [
+    {
+      id: 1,
+      word: 'big',
+      transcription: 'bɪg',
+      translation: 'большой',
+    },
+    {
+      id: 2,
+      word: 'business',
+      transcription: 'ˈbɪznɪs',
+      translation: 'бизнес',
+    },
+    {
+      id: 3,
+      word: 'control',
+      transcription: 'kənˈtrəʊl',
+      translation: 'контроль, контролировать',
+    },
+    {
+      id: 4,
+      word: 'course',
+      transcription: 'kɔːs',
+      translation: 'курс',
+    },
+    {
+      id: 5,
+      word: 'education',
+      transcription: 'ˌɛdju(ː)ˈkeɪʃən',
+      translation: 'образование',
+    },
+    {
+      id: 6,
+      word: 'food',
+      transcription: 'fuːd',
+      translation: 'еда',
+    },
+    {
+      id: 7,
+      word: 'for',
+      transcription: 'fɔː',
+      translation: 'для, за',
+    },
+    {
+      id: 8,
+      word: 'future',
+      transcription: 'ˈfjuːʧə',
+      translation: 'будущее',
+    },
+    { id: 9, word: 'not', transcription: 'nɒt', translation: 'не', },
+    {
+      id: 10,
+      word: 'our',
+      transcription: 'ˈaʊə',
+      translation: 'наш',
+    },
+    {
+      id: 11,
+      word: 'pay for',
+      transcription: 'peɪ fɔː',
+      translation: 'платить за',
+    },
+    {
+      id: 12,
+      word: 'politics',
+      transcription: 'ˈpɒlɪtɪks',
+      translation: 'политика',
+    },
+    {
+      id: 13,
+      word: 'situation',
+      transcription: 'ˌsɪtjʊˈeɪʃən',
+      translation: 'ситуация',
+    },
+    {
+      id: 14,
+      word: 'spend',
+      transcription: 'spɛnd',
+      translation: 'тратить',
+    },
+    {
+      id: 15,
+      word: 'talk',
+      transcription: 'tɔːk',
+      translation: 'говорить, разговор',
+    },
+    {
+      id: 16,
+      word: 'tennis',
+      transcription: 'ˈtɛnɪs',
+      translation: 'теннис',
+    },
+    {
+      id: 17,
+      word: 'those',
+      transcription: 'ðəʊz',
+      translation: 'те',
+    },
+  ],
+];

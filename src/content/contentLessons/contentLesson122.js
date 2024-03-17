@@ -1,0 +1,681 @@
+export const contentLesson122 = [
+  [
+    {
+      title: "Урок 122. Passive Voice - пассивный залог",
+    },
+    [
+      {
+        id: 1,
+        expression: "Тебе платят эти деньги",
+        transcription: "jʊə peɪd ðɪs ˈmʌni",
+        translation: "You're paid this money",
+      },
+      {
+        id: 2,
+        expression: "Этот дом был построен им",
+        transcription: "ðɪs haʊs wəz bɪlt baɪ hɪm",
+        translation: "This house was built by him",
+      },
+      {
+        id: 3,
+        expression: "Эти документы подписывают каждый день",
+        transcription: "ðiːz ˈdɒkjʊmənts ə saɪnd ˈɛvri deɪ",
+        translation: "These documents are signed every day",
+      },
+      {
+        id: 4,
+        expression: "Меня обсуждают",
+        transcription: "aɪm dɪsˈkʌst",
+        translation: "I'm discussed",
+      },
+      {
+        id: 5,
+        expression: "Эту машину делают в Англии",
+        transcription: "ðɪs kɑː z meɪd ɪn ˈɪŋglənd",
+        translation: "This car is made in England",
+      },
+      {
+        id: 6,
+        expression: "Дорога была отремонтирована",
+        transcription: "ðə rəʊd wəz rɪˈpeəd",
+        translation: "The road was repaired",
+      },
+      {
+        id: 7,
+        expression: "Им сказали правду",
+        transcription: "ðeɪ wə təʊld ðə truːθ",
+        translation: "They were told the truth",
+      },
+      {
+        id: 8,
+        expression: "Это будет сделано в Японии",
+        transcription: "ˈɪtl bi meɪd ɪn ʤəˈpæn",
+        translation: "It'll be made in Japan",
+      },
+      {
+        id: 9,
+        expression: "Этот рейс будет задержан",
+        transcription: "ðɪs flaɪt wɪl bi dɪˈleɪd",
+        translation: "This flight will be delayed",
+      },
+      {
+        id: 10,
+        expression: "Все будет сделано вовремя",
+        transcription: "ˈɛvrɪθɪŋ wɪl bi dʌn ɒn taɪm",
+        translation: "Everything will be done on time",
+      },
+      {
+        id: 11,
+        expression: "Преступники были арестованы",
+        transcription: "ðə ˈkrɪmɪnlz wər əˈrɛstɪd",
+        translation: "The criminals were arrested",
+      },
+      {
+        id: 12,
+        expression: "Это будет исправлено",
+        transcription: "ˈɪtl bi kəˈrɛktɪd",
+        translation: "It'll be corrected",
+      },
+      {
+        id: 13,
+        expression: "Это будет объявлено позже",
+        transcription: "ˈɪtl bi əˈnaʊnst ˈleɪtə",
+        translation: "It'll be announced later",
+      },
+      {
+        id: 14,
+        expression: "Твой платеж был получен",
+        transcription: "jə ˈpeɪmənt wəz rɪˈsiːvd",
+        translation: "Your payment was received",
+      },
+      {
+        id: 15,
+        expression: "Мой дом был построен час назад",
+        transcription: "maɪ haʊs wəz bɪlt ən ˈaʊər əˈgəʊ",
+        translation: "My house was built an hour ago",
+      },
+      {
+        id: 16,
+        expression: "Я был приглашен на эту вечеринку",
+        transcription: "aɪ wəz ɪnˈvaɪtɪd tə ðɪs ˈpɑːti",
+        translation: "I was invited to this party",
+      },
+      {
+        id: 17,
+        expression: "Книга была написана им",
+        transcription: "ðə bʊk wəz ˈrɪtn baɪ hɪm",
+        translation: "The book was written by him",
+      },
+      {
+        id: 18,
+        expression: "Новый дом был построен в этой области",
+        transcription: "ə njuː haʊs wəz bɪlt ɪn ðɪs ˈeərɪə",
+        translation: "A new house was built in this area",
+      },
+      {
+        id: 19,
+        expression: "Мы были проинформированы",
+        transcription: "wi wər ɪnˈfɔːmd",
+        translation: "We were informed",
+      },
+      {
+        id: 20,
+        expression: "Это было произведено в Китае?",
+        transcription: "wəz ɪt meɪd ɪn ˈʧaɪnə?",
+        translation: "Was it made in China?",
+      },
+      {
+        id: 21,
+        expression: "Книга была написана очень известным писателем",
+        transcription: "ðə bʊk wəz ˈrɪtn baɪ ə ˈvɛri ˈfeɪməs ˈraɪtə",
+        translation: "The book was written by a very famous writer",
+      },
+      {
+        id: 22,
+        expression: "Встреча была отменена",
+        transcription: "ðə ˈmiːtɪŋ wəz ˈkænsəld",
+        translation: "The meeting was cancelled",
+      },
+      {
+        id: 23,
+        expression: "Дорога была отремонтирована",
+        transcription: "ðə rəʊd wəz rɪˈpeəd",
+        translation: "The road was repaired",
+      },
+      {
+        id: 24,
+        expression: "Это вино произведено в Италии",
+        transcription: "ðɪs waɪn wəz prəˈdjuːst ɪn ˈɪtəli",
+        translation: "This wine was produced in Italy",
+      },
+      {
+        id: 25,
+        expression: "Это было сделано в Китае",
+        transcription: "ɪt wəz meɪd ɪn ˈʧaɪnə",
+        translation: "It was made in China",
+      },
+      {
+        id: 26,
+        expression: "Это будет сделано в Японии",
+        transcription: "ˈɪtl bi meɪd ɪn ʤəˈpæn",
+        translation: "It'll be made in Japan",
+      },
+      {
+        id: 27,
+        expression: "Я был проинформирован",
+        transcription: "aɪ wəz ɪnˈfɔːmd",
+        translation: "I was informed",
+      },
+      {
+        id: 28,
+        expression: "Весь торт был съеден",
+        transcription: "ɔːl ðə keɪk wəz ˈiːtn",
+        translation: "All the cake was eaten",
+      },
+      {
+        id: 29,
+        expression: "Мало было сделано",
+        transcription: "ˈlɪtl wəz dʌn",
+        translation: "Little was done",
+      },
+      {
+        id: 30,
+        expression: "Преступники будут наказаны",
+        transcription: "ðə ˈkrɪmɪnlz wɪl bi ˈpʌnɪʃt",
+        translation: "The criminals will be punished",
+      },
+      {
+        id: 31,
+        expression: "Грабители были отправлены в тюрьму",
+        transcription: "ðə ˈrɒbəz wə sɛnt tə ˈprɪzn",
+        translation: "The robbers were sent to prison",
+      },
+      {
+        id: 32,
+        expression: "Документ был подписан",
+        transcription: "ðə ˈdɒkjʊmənt wəz saɪnd",
+        translation: "The document was signed",
+      },
+      {
+        id: 33,
+        expression: "Так часто говорится",
+        transcription: "ɪt s ˈɒf(ə)n sɛd səʊ",
+        translation: "It is often said so",
+      },
+      {
+        id: 34,
+        expression: "Их письмо было получено",
+        transcription: "ðeə ˈlɛtə wəz rɪˈsiːvd",
+        translation: "Their letter was received",
+      },
+      {
+        id: 35,
+        expression: "Ваза была разбита",
+        transcription: "ðə vɑːz wəz ˈbrəʊkən",
+        translation: "The vase was broken",
+      },
+      {
+        id: 36,
+        expression: "Рейс был задержан",
+        transcription: "ðə flaɪt wəz dɪˈleɪd",
+        translation: "The flight was delayed",
+      },
+      {
+        id: 37,
+        expression: "Вор будет отправлен в тюрьму",
+        transcription: "ðə θiːf wɪl bi sɛnt tə ˈprɪzn",
+        translation: "The thief will be sent to prison",
+      },
+      {
+        id: 38,
+        expression: "Наш рейс был задержан",
+        transcription: "ˈaʊə flaɪt wəz dɪˈleɪd",
+        translation: "Our flight was delayed",
+      },
+      {
+        id: 39,
+        expression: "Это сделано в Китае?",
+        transcription: "ɪz ɪt meɪd ɪn ˈʧaɪnə?",
+        translation: "Is it made in China?",
+      },
+      {
+        id: 40,
+        expression: "Кольцо было украдено",
+        transcription: "ðə rɪŋ wəz ˈstəʊlən",
+        translation: "The ring was stolen",
+      },
+      {
+        id: 41,
+        expression: "Все контролируется",
+        transcription: "ˈɛvrɪθɪŋ z kənˈtrəʊld",
+        translation: "Everything is controlled",
+      },
+      {
+        id: 42,
+        expression: "Все будет проверено",
+        transcription: "ˈɛvrɪθɪŋ wɪl bi ʧɛkt",
+        translation: "Everything will be checked",
+      },
+      {
+        id: 43,
+        expression: "Все ошибки будут исправлены",
+        transcription: "ɔːl ðə mɪsˈteɪks wɪl bi kəˈrɛktɪd",
+        translation: "All the mistakes will be corrected",
+      },
+      {
+        id: 44,
+        expression: "Все было доставлено вовремя",
+        transcription: "ˈɛvrɪθɪŋ wəz dɪˈlɪvəd ɒn taɪm",
+        translation: "Everything was delivered on time",
+      },
+      {
+        id: 45,
+        expression: "Вся еда была съедена",
+        transcription: "ɔːl ðə fuːd wəz ˈiːtn",
+        translation: "All the food was eaten",
+      },
+      {
+        id: 46,
+        expression: "Воры были пойманы",
+        transcription: "ðə θiːvz wə kɔːt",
+        translation: "The thieves were caught",
+      },
+      {
+        id: 47,
+        expression: "Ошибка была исправлена",
+        transcription: "ðə mɪsˈteɪk wəz kəˈrɛktɪd",
+        translation: "The mistake was corrected",
+      },
+      {
+        id: 48,
+        expression: "Это сделано в Китае",
+        transcription: "ɪts meɪd ɪn ˈʧaɪnə",
+        translation: "It's made in China",
+      },
+      {
+        id: 49,
+        expression: "Сумка была украдена",
+        transcription: "ðə bæg wəz ˈstəʊlən",
+        translation: "The bag was stolen",
+      },
+      {
+        id: 50,
+        expression: "Фотография была сделана мной",
+        transcription: "ðə ˈfəʊtəgrɑːf wəz ˈteɪkən baɪ miː",
+        translation: "The photograph was taken by me",
+      },
+      {
+        id: 51,
+        expression: "Я думаю, будет сделано меньше ошибок",
+        transcription: "aɪ θɪŋk ˈfjuːə mɪsˈteɪks wɪl bi meɪd",
+        translation: "I think fewer mistakes will be made",
+      },
+      {
+        id: 52,
+        expression: "Украшения были украдены",
+        transcription: "ðə ˈʤuːəlri wəz ˈstəʊlən",
+        translation: "The jewellery was stolen",
+      },
+      {
+        id: 53,
+        expression: "Говорят, что эти проблемы часто случаются",
+        transcription: "ɪts sɛd ðət ðiːz ˈprɒbləmz ˈɒf(ə)n ˈhæpən",
+        translation: "It's said that these problems often happen",
+      },
+      {
+        id: 54,
+        expression: "Это было сказано грамматически правильно",
+        transcription: "ɪt wəz sɛd grəˈmætɪkəli kəˈrɛktli",
+        translation: "It was said grammatically correctly",
+      },
+      {
+        id: 55,
+        expression: "Будет построено много новых домов в этом районе",
+        transcription: "ˈmɛni njuː ˈhaʊzɪz wɪl bi bɪlt ɪn ðɪs ˈeərɪə",
+        translation: "Many new houses will be built in this area",
+      },
+      {
+        id: 56,
+        expression: "Я уверен, в будущем будет сделано гораздо меньше ошибок",
+        transcription: "aɪm ʃʊə mʌʧ ˈfjuːə mɪsˈteɪks wɪl bi meɪd ɪn ðə ˈfjuːʧə",
+        translation: "I'm sure much fewer mistakes will be made in the future",
+      },
+      {
+        id: 57,
+        expression: "Слишком много сказано, но слишком мало сделано",
+        transcription: "tuː mʌʧ ɪz sɛd bət tuː ˈlɪtl z dʌn",
+        translation: "Too much is said but too little is done",
+      },
+      {
+        id: 58,
+        expression: "Это было сказано грамматически неверно",
+        transcription: "ɪt wəz sɛd grəˈmætɪkəli ˌɪnkəˈrɛktli",
+        translation: "It was said grammatically incorrectly",
+      },
+      {
+        id: 59,
+        expression: "Будет посажено гораздо больше деревьев в этом году",
+        transcription: "mʌʧ mɔː triːz wɪl bi ˈplɑːntɪd ðɪs jɪə",
+        translation: "Much more trees will be planted this year",
+      },
+      {
+        id: 60,
+        expression: "Многие невинные люди были убиты во время войны",
+        transcription: "ˈmɛni ˈɪnəsənt ˈpiːpl wə kɪld ˈdjʊərɪŋ ðə wɔː",
+        translation: "Many innocent people were killed during the war",
+      },
+      {
+        id: 61,
+        expression: "На английском языке говорят во всем мире",
+        transcription: "ˈɪŋglɪʃ ɪz ˈspəʊkən ɔːl ˈəʊvə ðə wɜːld",
+        translation: "English is spoken all over the world",
+      },
+      {
+        id: 62,
+        expression: "Письмо будет отправлено ей",
+        transcription: "ðə ˈlɛtə wɪl bi sɛnt tə hɜː",
+        translation: "The letter will be sent to her",
+      },
+      {
+        id: 63,
+        expression: "Это не было сказано грамматически правильно",
+        transcription: "ɪt wɒznt sɛd grəˈmætɪkəli kəˈrɛktli",
+        translation: "It wasn't said grammatically correctly",
+      },
+      {
+        id: 64,
+        expression: "Некоторые деревья были посажены мной",
+        transcription: "sʌm triːz wə ˈplɑːntɪd baɪ miː",
+        translation: "Some trees were planted by me",
+      },
+      {
+        id: 65,
+        expression: "Когда эта работа будет завершена?",
+        transcription: "wɛn wɪl ðɪs wɜːk bi kəmˈpliːtɪd?",
+        translation: "When will this work be completed?",
+      },
+      {
+        id: 66,
+        expression: "Когда эта задача будет выполнена?",
+        transcription: "wɛn wɪl ðɪs tɑːsk bi kəmˈpliːtɪd?",
+        translation: "When will this task be completed?",
+      },
+      {
+        id: 67,
+        expression: "Когда этот проект будет закончен?",
+        transcription: "wɛn wɪl ðɪs ˈprɒʤɛkt bi ˈfɪnɪʃt?",
+        translation: "When will this project be finished?",
+      },
+      {
+        id: 68,
+        expression:
+          "Слишком мало делается, в то время, как говорится слишком много",
+        transcription: "tuː ˈlɪtl z dʌn weərˈæz tuː mʌʧ ɪz sɛd",
+        translation: "Too little is done whereas too much is said",
+      },
+      {
+        id: 69,
+        expression:
+          "Слишком мало было сделано, в то время, как было сказано слишком много",
+        transcription: "tuː ˈlɪtl wəz dʌn weərˈæz tuː mʌʧ wəz sɛd",
+        translation: "Too little was done whereas too much was said",
+      },
+      {
+        id: 70,
+        expression: "Эти товары были сделаны в Китае",
+        transcription: "ðiːz gʊdz wə meɪd ɪn ˈʧaɪnə",
+        translation: "These goods were made in China",
+      },
+      {
+        id: 71,
+        expression: "Эти товары производятся в Китае",
+        transcription: "ðiːz gʊdz ə meɪd ɪn ˈʧaɪnə",
+        translation: "These goods are made in China",
+      },
+      {
+        id: 72,
+        expression: "Эта вещь была сделана в Китае",
+        transcription: "ðɪs θɪŋ wəz meɪd ɪn ˈʧaɪnə",
+        translation: "This thing was made in China",
+      },
+      {
+        id: 73,
+        expression: "Недостаточно делается для решения этой проблемы",
+        transcription:
+          "nəʊ ɪˈnʌf s dʌn tə sɒlv ðɪs ˈprɒbləm / nəʊ ɪˈnʌf s dʌn fə ˈsɒlvɪŋ ðɪs ˈprɒbləm",
+        translation:
+          "No enough is done to solve this problem / No enough is done for solving this problem",
+      },
+      {
+        id: 74,
+        expression: "Все делается для решения этой проблемы",
+        transcription: "ˈɛvrɪθɪŋ z dʌn fə ˈsɒlvɪŋ ðɪs ˈprɒbləm",
+        translation: "Everything is done for solving this problem",
+      },
+      {
+        id: 75,
+        expression: "Недостаточно было сделано для решения этих проблем",
+        transcription: "nəʊ ɪˈnʌf wəz dʌn tə sɒlv ðiːz ˈprɒbləmz",
+        translation: "No enough was done to solve these problems",
+      },
+      {
+        id: 76,
+        expression: "Новый альбом будет выпущен в этом месяце",
+        transcription: "ə njuː ˈælbəm wɪl bi rɪˈliːst ðɪs mʌnθ",
+        translation: "A new album will be released this month",
+      },
+      {
+        id: 77,
+        expression: "Новый альбом был выпущен в прошлом месяце",
+        transcription: "ə njuː ˈælbəm wəz rɪˈliːst lɑːst mʌnθ",
+        translation: "A new album was released last month",
+      },
+      {
+        id: 78,
+        expression: "Новая песня будет выпущена в следующем году",
+        transcription: "ə njuː sɒŋ wɪl bi rɪˈliːst nɛkst jɪə",
+        translation: "A new song will be released next year",
+      },
+      {
+        id: 79,
+        expression: "Крыша здания была серьезно повреждена",
+        transcription: "ðə ruːf əv ðə ˈbɪldɪŋ wəz ˈsɪərɪəsli ˈdæmɪʤd",
+        translation: "The roof of the building was seriously damaged",
+      },
+      {
+        id: 80,
+        expression: "Крыша дома серьезно повреждена",
+        transcription: "ðə ruːf əv ðə haʊs ɪz ˈsɪərɪəsli ˈdæmɪʤd",
+        translation: "The roof of the house is seriously damaged",
+      },
+      {
+        id: 81,
+        expression: "Окно было разбито",
+        transcription: "ðə ˈwɪndəʊ wəz ˈbrəʊkən",
+        translation: "The window was broken",
+      },
+      {
+        id: 82,
+        expression: "Не все было исправлено должным образом",
+        transcription: "nɒt ˈɛvrɪθɪŋ wəz kəˈrɛktɪd ˈprɒpəli",
+        translation: "Not everything was corrected properly",
+      },
+      {
+        id: 83,
+        expression: "Все исправляется должным образом",
+        transcription: "ˈɛvrɪθɪŋ z kəˈrɛktɪd ˈprɒpəli",
+        translation: "Everything is corrected properly",
+      },
+      {
+        id: 84,
+        expression: "Ничего не было исправлено должным образом",
+        transcription: "ˈnʌθɪŋ wəz kəˈrɛktɪd ˈprɒpəli",
+        translation: "Nothing was corrected properly",
+      },
+      {
+        id: 85,
+        expression: "Мало проблем были решены",
+        transcription: "fjuː ˈprɒbləmz wə sɒlvd",
+        translation: "Few problems were solved",
+      },
+      {
+        id: 86,
+        expression: "Все проблемы были решены",
+        transcription: "ɔːl ðə ˈprɒbləmz ə sɒlvd",
+        translation: "All the problems are solved",
+      },
+      {
+        id: 87,
+        expression: "Эти проблемы не были решены",
+        transcription: "ðiːz ˈprɒbləmz wɜːnt sɒlvd",
+        translation: "These problems weren't solved",
+      },
+      {
+        id: 88,
+        expression: "Мы все знаем, что на английском говорят во всем мире",
+        transcription: "wi ɔːl nəʊ ðət ˈɪŋglɪʃ ɪz ˈspəʊkən ɔːl ˈəʊvə ðə wɜːld",
+        translation: "We all know that English is spoken all over the world",
+      },
+      {
+        id: 89,
+        expression: "Мы все знаем, что на английском говорят во многих странах",
+        transcription: "wi ɔːl nəʊ ðət ˈɪŋglɪʃ ɪz ˈspəʊkən ɪn ˈmɛni ˈkʌntriz",
+        translation: "We all know that English is spoken in many countries",
+      },
+      {
+        id: 90,
+        expression: "Ты знаешь, что на английском говорят во всем мире?",
+        transcription: "dʊ jʊ nəʊ ðət ˈɪŋglɪʃ ɪz ˈspəʊkən ɔːl ˈəʊvə ðə wɜːld?",
+        translation: "Do you know that English is spoken all over the world?",
+      },
+      {
+        id: 91,
+        expression: "На испанском говорят во многих странах",
+        transcription: "ˈspænɪʃ ɪz ˈspəʊkən ɪn ˈmɛni ˈkʌntriz",
+        translation: "Spanish is spoken in many countries",
+      },
+      {
+        id: 92,
+        expression: "Мы знаем, что на испанском говорят во многих странах",
+        transcription: "wi nəʊ ðət ˈspænɪʃ ɪz ˈspəʊkən ɪn ˈmɛni ˈkʌntriz",
+        translation: "We know that Spanish is spoken in many countries",
+      },
+      {
+        id: 93,
+        expression: "На испанском говорят в стольких многих странах",
+        transcription: "ˈspænɪʃ ɪz ˈspəʊkən ɪn səʊ ˈmɛni ˈkʌntriz",
+        translation: "Spanish is spoken in so many countries",
+      },
+      {
+        id: 94,
+        expression: "Слишком много обещано, пока недостаточно сделано",
+        transcription: "tuː mʌʧ wəz ˈprɒmɪst waɪl nɒt ɪˈnʌf s dʌn",
+        translation: "Too much was promised while not enough is done",
+      },
+      {
+        id: 95,
+        expression: "Слишком мало сделано для решения этой проблемы",
+        transcription: "tuː ˈlɪtl z dʌn tə sɒlv ðɪs ˈprɒbləm",
+        translation: "Too little is done to solve this problem",
+      },
+      {
+        id: 96,
+        expression: "Что было произведено в Японии?",
+        transcription: "wɒt wəz prəˈdjuːst ɪn ʤəˈpæn?",
+        translation: "What was produced in Japan?",
+      },
+      {
+        id: 97,
+        expression: "Результат матча будет объявлен скоро",
+        transcription: "ðə rɪˈzʌlt əv ðə mæʧ wɪl bi əˈnaʊnst suːn",
+        translation: "The result of the match will be announced soon",
+      },
+      {
+        id: 98,
+        expression: "Новые рабочие были наняты компанией в прошлом месяце",
+        transcription: "njuː ˈwɜːkəz wə ˈhaɪəd baɪ ðə ˈkʌmpəni lɑːst mʌnθ",
+        translation: "New workers were hired by the company last month",
+      },
+      {
+        id: 99,
+        expression: "Слишком мало сделано для разрешения этого конфликта",
+        transcription: "tuː ˈlɪtl z dʌn tə rɪˈzɒlv ðɪs ˈkɒnflɪkt",
+        translation: "Too little is done to resolve this conflict",
+      },
+      {
+        id: 100,
+        expression: "Не все было сделано правильно",
+        transcription: "nɒt ˈɛvrɪθɪŋ wəz dʌn kəˈrɛktli",
+        translation: "Not everything was done correctly",
+      },
+      {
+        id: 101,
+        expression: "Многие невинные люди были убиты во время той войны",
+        transcription: "ˈmɛni ˈɪnəsənt ˈpiːpl wə kɪld ˈdjʊərɪŋ ðət wɔː",
+        translation: "Many innocent people were killed during that war",
+      },
+      {
+        id: 102,
+        expression: "Посылка была отправлена мне",
+        transcription: "ðə ˈpɑːsl wəz sɛnt tə miː",
+        translation: "The parcel was sent to me",
+      },
+      {
+        id: 103,
+        expression: "Некоторые фотографии были сделаны мной",
+        transcription: "sʌm ˈfəʊtəgrɑːfs wə ˈteɪkən baɪ miː",
+        translation: "Some photographs were taken by me",
+      },
+      {
+        id: 104,
+        expression: "Много ошибок было сделано",
+        transcription: "ˈmɛni mɪsˈteɪks wə meɪd",
+        translation: "Many mistakes were made",
+      },
+      {
+        id: 105,
+        expression: "Когда это будет сделано?",
+        transcription: "wɛn wɪl ɪt bi dʌn",
+        translation: "When will it be done?",
+      },
+      {
+        id: 106,
+        expression: "Где это производится?",
+        transcription: "weə z ɪt prəˈdjuːst?",
+        translation: "Where is it produced?",
+      },
+      {
+        id: 107,
+        expression: "Мало вещей было сделано",
+        transcription: "fjuː θɪŋz wə dʌn",
+        translation: "Few things were done",
+      },
+      {
+        id: 108,
+        expression: "Говорят, что это может произойти",
+        transcription: "ɪts sɛd ðət ɪt kən ˈhæpən",
+        translation: "It's said that it can happen",
+      },
+    ],
+    {
+      theory: `<div class="theory-block">
+<h3>Passive Voice - пассивный залог</h3>
+<p>Пассивный залог (Passive Voice) - это грамматическая конструкция в английском языке, которая используется для того, чтобы сделать объект действия подлежащим в предложении. В пассивном залоге объект действия становится субъектом предложения, а субъект действия (то есть тот, кто совершает действие) становится опущенным или упоминается после предлога "by".</p> 
+<p>Форма пассивного залога образуется с помощью глагола "to be" в соответствующем времени (am, is, are, was, were, will be, has been, had been и т.д.), а затем причастия прошедшего времени (Past Participle) основного глагола.</p>
+<p>Формула такая:</p>
+<p><span>подлежащее + форма глагола to be + 3-я форма глагола</span></p>
+<p>Например:</p>
+<p>Active Voice: The cat caught the mouse - Кот поймал мышь.</p>
+<p>Passive Voice: The mouse was caught by the cat - Мышь была поймана котом.</p>
+<p>Active Voice: You got this money - Ты получил эти деньги.</p>
+<p>Passive Voice: You are paid this money - Тебе заплатили эти деньги.</p>
+<p>Пассивный залог используется, когда уделяется больше внимания действию или когда неизвестно или не важно, кто совершил действие. Он также может использоваться для формального или официального стиля речи, чтобы убрать упоминание о том, кто совершает действие.</p>
+<p>Пассивный залог может использоваться во всех временах английского языка.</p>
+<p>The road was repaired - Дорога была отремонтирована.</p>
+<p>They were told all the truth - Им рассказали всю правду.</p>
+<p>It will be done by morning - Это будет сделано к утру.</p>
+<p>Важно отметить, что не все глаголы могут быть переведены в пассивный залог. Например, нельзя использовать пассивный залог с глаголами состояния (like, love, know) или с некоторыми глаголами движения (go, come).</p>
+</div>`,
+    },
+  ],
+];
